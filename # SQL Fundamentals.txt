@@ -1,0 +1,46 @@
+# SQL Fundamentals
+
+Welcome to my SQL Fundamentals learning repository! 🚀
+
+This repository contains my SQL practice work, queries, and results.
+
+## Week 1 - Day 1
+
+### Topics Covered
+
+- Basic SQL syntax
+- SELECT statements
+- WHERE clause
+- Filtering data
+- Sorting data
+- Working with sales data
+
+## Files
+
+| File | Description |
+|------|-------------|
+| queries_day1.sql | SQL queries practiced on Day 1 |
+| sales_result.csv | Results generated from the SQL queries |
+
+## Learning Objective
+
+The goal of this practice is to understand the fundamentals of SQL and become comfortable writing queries to retrieve and analyze data.
+
+## Progress
+
+- [x] Week 1 - Day 1
+- [ ] Week 1 - Day 2
+- [ ] Week 1 - Day 3
+- [ ] Week 1 - Day 4
+- [ ] Week 1 - Day 5
+
+## Tools Used
+
+- SQL
+- MySQL
+- Git
+- GitHub
+
+## Author
+
+**Chinmay3251**
