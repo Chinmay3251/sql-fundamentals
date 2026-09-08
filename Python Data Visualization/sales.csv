@@ -1,0 +1,13 @@
+month,category,sales,quantity
+Jan,Electronics,50000,20
+Feb,Electronics,60000,25
+Mar,Electronics,75000,30
+Apr,Electronics,70000,28
+May,Electronics,90000,35
+Jun,Electronics,100000,40
+Jan,Furniture,30000,15
+Feb,Furniture,35000,18
+Mar,Furniture,40000,20
+Apr,Furniture,45000,22
+May,Furniture,50000,25
+Jun,Furniture,55000,28
