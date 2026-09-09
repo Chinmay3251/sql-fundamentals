@@ -1,0 +1,11 @@
+order_id,region,product,quantity,price
+1,South,Laptop,2,50000
+2,North,Chair,5,2000
+3,South,Mouse,10,500
+4,East,Shirt,8,1000
+5,West,Table,3,5000
+6,North,Phone,4,20000
+7,South,Jeans,6,1500
+8,East,Laptop,1,50000
+9,West,Shirt,10,1000
+10,North,Table,2,5000
