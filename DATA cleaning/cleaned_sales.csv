@@ -1,0 +1,12 @@
+order_id,customer,region,category,quantity,price,sales_amount
+1,Rahul,South,Electronics,2.0,50000,100000.0
+2,Priya,North,Furniture,5.0,2000,10000.0
+3,Amit,South,Electronics,4.0,500,2000.0
+4,Neha,East,Clothing,8.0,1000,8000.0
+5,Ravi,West,Furniture,3.0,5000,15000.0
+6,Anu,North,Electronics,4.0,20000,80000.0
+7,Kiran,South,Clothing,6.0,1500,9000.0
+8,Meena,East,Electronics,1.0,50000,50000.0
+9,Arjun,West,Clothing,10.0,1000,10000.0
+10,Sneha,North,Furniture,13.75,5000,68750.0
+11,Rahul,South,Electronics,2.0,50000,100000.0
