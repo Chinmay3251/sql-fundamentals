@@ -1,0 +1,70 @@
+data_contract:
+  name: sales_data_contract
+  version: "1.0"
+
+  producer:
+    name: Chinmay Chindi
+    responsibility:
+      - Provide cleaned and validated sales data
+      - Maintain data quality checks
+      - Follow agreed data definitions
+
+  consumer:
+    name: BI Dashboard
+    purpose:
+      - Sales reporting
+      - Regional analysis
+      - Product performance analysis
+
+  dataset:
+    name: sales
+    format: CSV
+
+  columns:
+
+    - name: order_id
+      type: integer
+      required: true
+      unique: true
+
+    - name: customer
+      type: string
+      required: true
+      pii: true
+
+    - name: region
+      type: string
+      required: true
+      allowed_values:
+        - South
+        - North
+        - East
+        - West
+
+    - name: category
+      type: string
+      required: true
+      allowed_values:
+        - Electronics
+        - Furniture
+        - Clothing
+
+    - name: quantity
+      type: integer
+      required: true
+      minimum: 1
+
+    - name: price
+      type: decimal
+      required: true
+      minimum: 0
+
+  quality_requirements:
+    completeness: ">= 95%"
+    uniqueness: "order_id must be unique"
+    validity: "Quantity and price must contain valid values"
+    consistency: "Region and category values must follow the defined standards"
+
+  delivery:
+    consumer: BI Dashboard
+    expected_refresh: daily
