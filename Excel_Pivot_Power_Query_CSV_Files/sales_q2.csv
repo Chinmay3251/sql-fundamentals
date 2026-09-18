@@ -1,0 +1,6 @@
+order_id,customer,region,product,quantity,revenue,cost,order_date
+6,Anu,North,Phone,4,80000,60000,2026-04-10
+7,Kiran,South,Jeans,6,9000,5500,2026-04-20
+8,Meena,East,Laptop,1,50000,40000,2026-05-05
+9,Arjun,West,Shirt,10,10000,6500,2026-05-18
+10,Sneha,North,Table,2,10000,7000,2026-06-05

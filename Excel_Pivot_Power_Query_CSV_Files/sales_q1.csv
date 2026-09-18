@@ -1,0 +1,6 @@
+order_id,customer,region,product,quantity,revenue,cost,order_date
+1,Rahul,South,Laptop,2,100000,80000,2026-01-05
+2,Priya,North,Chair,5,10000,7000,2026-01-12
+3,Amit,South,Mouse,10,5000,3000,2026-02-03
+4,Neha,East,Shirt,8,8000,5000,2026-02-15
+5,Ravi,West,Table,3,15000,10000,2026-03-08
