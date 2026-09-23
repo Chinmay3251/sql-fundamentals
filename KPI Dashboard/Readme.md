@@ -4,7 +4,8 @@ This project is a single-page Retail KPI Dashboard created using **Looker Studio
 
 ## Dashboard
 
-[View the Live Looker Studio Dashboard](https://datastudio.google.com/reporting/e5cddab5-82a0-4959-a80b-0e48b3791a3b)
+[View the Live Looker Studio Dashboard]https://datastudio.google.com/reporting/58b42948-e23e-4c26-a11e-abad4ffda41
+
 
 ## Project Objective
 
