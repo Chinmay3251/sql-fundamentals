@@ -16,5 +16,14 @@ The objective of this comparison is to evaluate PandasAI and manual Pandas for t
 
 ### Manual Pandas
 
+
+## Manual Pandas Validation
+
+The PandasAI queries were compared with manual Pandas calculations to verify the results.
+
+### Question 1 – Total Number of Records
+
+Manual Pandas:
+
 ```python
-# Manual Pandas code
+df.shape[0]
