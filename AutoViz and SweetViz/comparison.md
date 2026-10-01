@@ -16,3 +16,13 @@ Therefore:
 - **SweetViz:** Better suited for structured reporting and stakeholder review.
 
 The final choice should depend on the audience and purpose of the analysis.
+
+# AutoViz vs SweetViz
+
+AutoViz and SweetViz are both useful Python libraries for automated exploratory data analysis. AutoViz focuses strongly on automatically generating a wide range of visualisations and is useful for quickly exploring relationships between variables. SweetViz provides a structured HTML report with dataset summaries, distributions, categorical analysis, and visual comparisons.
+
+AutoViz is useful for analyst-driven visual exploration, while SweetViz provides a more organised report that is easier to review and share with business stakeholders. Both tools reduce the amount of manual EDA code required.
+
+## Business Stakeholder Recommendation
+
+I would recommend SweetViz when the main requirement is a clear and structured report that can be easily reviewed and shared with business stakeholders. AutoViz is useful for analysts who want to explore data through a wider range of visualisations.
