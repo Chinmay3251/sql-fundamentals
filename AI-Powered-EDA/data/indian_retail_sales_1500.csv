@@ -1,0 +1,1501 @@
+order_id,order_date,state,city,customer_type,product,category,quantity,unit_price,payment_method,customer_rating,total_sales
+11173,2025-01-01,Karnataka,Mangaluru,New,Television,Electronics,5,60870,UPI,3.2,304350
+10263,2025-01-01,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,5,3220,Cash on Delivery,3.4,16100
+10674,2025-01-01,Rajasthan,Udaipur,Returning,Smartwatch,Electronics,2,7323,Credit Card,3.8,14646
+10421,2025-01-01,Kerala,Thiruvananthapuram,Returning,Smartphone,Electronics,3,75080,Debit Card,4.6,225240
+10823,2025-01-03,Telangana,Hyderabad,Returning,Smartphone,Electronics,4,15089,Cash on Delivery,3.0,60356
+10964,2025-01-03,Delhi,New Delhi,New,Smartwatch,Electronics,2,9847,Credit Card,4.0,19694
+11446,2025-01-03,Maharashtra,Nagpur,New,Tablet,Electronics,3,55641,Net Banking,4.3,166923
+11104,2025-01-04,West Bengal,Siliguri,Returning,Camera,Electronics,5,51331,Debit Card,3.7,256655
+10942,2025-01-05,Telangana,Hyderabad,Returning,Smartphone,Electronics,2,21111,Cash on Delivery,2.7,42222
+11481,2025-01-06,Delhi,New Delhi,Returning,Laptop,Electronics,3,56826,Cash on Delivery,4.7,170478
+10508,2025-01-07,Karnataka,Mysuru,Returning,Smartphone,Electronics,5,30557,Net Banking,4.1,152785
+11351,2025-01-07,Telangana,Hyderabad,Returning,Printer,Office Equipment,5,24843,Cash on Delivery,4.1,124215
+11004,2025-01-08,Kerala,Thiruvananthapuram,Returning,Laptop,Electronics,4,72689,Cash on Delivery,4.2,290756
+10174,2025-01-08,Karnataka,Bengaluru,New,Laptop,Electronics,3,90246,Debit Card,3.5,270738
+10347,2025-01-08,Tamil Nadu,Coimbatore,New,Television,Electronics,4,67766,Debit Card,3.2,271064
+11035,2025-01-10,Rajasthan,Jaipur,New,Printer,Office Equipment,1,32521,Cash on Delivery,4.3,32521
+10738,2025-01-10,Gujarat,Vadodara,Returning,Tablet,Electronics,2,57691,UPI,4.1,115382
+11156,2025-01-10,Delhi,Delhi,New,Printer,Office Equipment,3,28806,Net Banking,3.6,86418
+10756,2025-01-12,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,3,10344,Credit Card,3.3,31032
+10875,2025-01-12,Karnataka,Mangaluru,New,Printer,Office Equipment,2,16197,Net Banking,3.8,32394
+11244,2025-01-12,Karnataka,Mysuru,New,Headphones,Electronics,2,5137,UPI,4.7,10274
+10644,2025-01-13,Maharashtra,Pune,Returning,Printer,Office Equipment,5,8565,UPI,4.1,42825
+10711,2025-01-13,Rajasthan,Jaipur,Returning,Tablet,Electronics,2,14654,Net Banking,4.1,29308
+10809,2025-01-13,Kerala,Kochi,Returning,Television,Electronics,2,115414,Net Banking,3.7,230828
+10789,2025-01-13,Delhi,Delhi,Returning,Smartwatch,Electronics,2,11247,UPI,4.5,22494
+10744,2025-01-14,Tamil Nadu,Madurai,Returning,Camera,Electronics,2,119774,Net Banking,4.0,239548
+10949,2025-01-15,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,4,8700,Cash on Delivery,4.3,34800
+10204,2025-01-16,Andhra Pradesh,Vijayawada,New,Laptop,Electronics,1,110497,Credit Card,4.3,110497
+10327,2025-01-16,Karnataka,Mysuru,Returning,Smartwatch,Electronics,2,24702,Credit Card,3.7,49404
+10852,2025-01-17,Kerala,Kozhikode,Returning,Printer,Office Equipment,2,18465,Cash on Delivery,4.4,36930
+11049,2025-01-17,Maharashtra,Mumbai,Returning,Television,Electronics,1,33515,Credit Card,3.2,33515
+11286,2025-01-17,Karnataka,Mangaluru,Returning,Camera,Electronics,3,79144,Cash on Delivery,2.6,237432
+10014,2025-01-19,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,4,86979,Net Banking,4.5,347916
+10989,2025-01-19,Kerala,Kochi,New,Smartphone,Electronics,1,35548,Cash on Delivery,3.3,35548
+11261,2025-01-19,Karnataka,Mysuru,New,Printer,Office Equipment,5,21136,Cash on Delivery,4.1,105680
+10423,2025-01-19,Telangana,Hyderabad,New,Television,Electronics,2,46312,Cash on Delivery,4.3,92624
+10662,2025-01-19,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,5,11776,Cash on Delivery,2.9,58880
+11313,2025-01-20,Delhi,New Delhi,Returning,Laptop,Electronics,2,72307,Cash on Delivery,4.0,144614
+10614,2025-01-20,Kerala,Kochi,Returning,Printer,Office Equipment,2,22000,Cash on Delivery,4.7,44000
+10098,2025-01-21,Delhi,New Delhi,New,Headphones,Electronics,4,5248,UPI,3.5,20992
+11451,2025-01-21,Maharashtra,Nagpur,New,Headphones,Electronics,1,11566,UPI,4.0,11566
+11306,2025-01-22,Delhi,Delhi,Returning,Smartphone,Electronics,5,70560,Credit Card,3.7,352800
+10129,2025-01-22,Delhi,Delhi,New,Smartwatch,Electronics,2,9737,Net Banking,4.0,19474
+11144,2025-01-22,Tamil Nadu,Madurai,Returning,Tablet,Electronics,3,50216,UPI,3.8,150648
+11231,2025-01-22,Kerala,Kozhikode,Returning,Printer,Office Equipment,4,5867,Cash on Delivery,4.5,23468
+10749,2025-01-22,Tamil Nadu,Chennai,Returning,Tablet,Electronics,4,56854,Net Banking,4.8,227416
+10649,2025-01-22,Andhra Pradesh,Vijayawada,New,Camera,Electronics,2,111654,UPI,3.8,223308
+10500,2025-01-23,Tamil Nadu,Chennai,Returning,Television,Electronics,4,123381,Cash on Delivery,3.6,493524
+10787,2025-01-23,Delhi,New Delhi,Returning,Camera,Electronics,4,50739,Cash on Delivery,2.6,202956
+10734,2025-01-23,Rajasthan,Jodhpur,New,Tablet,Electronics,2,10786,UPI,2.6,21572
+10920,2025-01-25,Telangana,Hyderabad,New,Television,Electronics,5,38667,Credit Card,2.9,193335
+10672,2025-01-25,Karnataka,Mangaluru,New,Headphones,Electronics,5,5704,Debit Card,4.5,28520
+11346,2025-01-25,Maharashtra,Mumbai,Returning,Television,Electronics,1,143984,Credit Card,4.9,143984
+10157,2025-01-26,Karnataka,Mangaluru,New,Headphones,Electronics,2,4332,Net Banking,3.5,8664
+10919,2025-01-26,Telangana,Warangal,New,Television,Electronics,5,40116,Net Banking,4.0,200580
+10358,2025-01-26,West Bengal,Kolkata,New,Smartphone,Electronics,1,65634,Cash on Delivery,2.7,65634
+10720,2025-01-27,Kerala,Thiruvananthapuram,New,Printer,Office Equipment,5,9626,Debit Card,4.4,48130
+10118,2025-01-28,Delhi,Delhi,New,Headphones,Electronics,4,8915,Credit Card,3.2,35660
+10824,2025-01-28,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,1,5523,Net Banking,4.3,5523
+11278,2025-01-29,West Bengal,Kolkata,Returning,Smartwatch,Electronics,1,7611,Net Banking,2.6,7611
+10750,2025-01-30,Telangana,Warangal,New,Smartphone,Electronics,3,51779,UPI,3.3,155337
+10491,2025-01-30,Karnataka,Bengaluru,New,Laptop,Electronics,2,83871,Cash on Delivery,2.7,167742
+10731,2025-01-31,Telangana,Warangal,New,Smartphone,Electronics,3,30100,Debit Card,3.5,90300
+10813,2025-01-31,Maharashtra,Nagpur,New,Laptop,Electronics,5,118805,UPI,3.4,594025
+10529,2025-01-31,West Bengal,Siliguri,Returning,Smartphone,Electronics,3,46678,UPI,2.9,140034
+10143,2025-02-01,Rajasthan,Jaipur,New,Smartwatch,Electronics,3,14978,Debit Card,3.7,44934
+11150,2025-02-01,Telangana,Warangal,Returning,Laptop,Electronics,1,50629,UPI,4.2,50629
+11257,2025-02-02,Rajasthan,Jaipur,New,Printer,Office Equipment,1,28131,Credit Card,4.3,28131
+10872,2025-02-02,Karnataka,Mysuru,Returning,Camera,Electronics,2,26936,Debit Card,3.3,53872
+10343,2025-02-04,Kerala,Thiruvananthapuram,New,Smartphone,Electronics,5,41086,UPI,4.0,205430
+10332,2025-02-04,Delhi,New Delhi,New,Smartphone,Electronics,3,54543,Net Banking,2.6,163629
+10554,2025-02-04,Karnataka,Mangaluru,Returning,Printer,Office Equipment,5,21969,Credit Card,4.5,109845
+11449,2025-02-07,Telangana,Hyderabad,Returning,Headphones,Electronics,3,3064,Cash on Delivery,4.4,9192
+11125,2025-02-07,Karnataka,Mangaluru,New,Television,Electronics,4,62025,Net Banking,3.7,248100
+11010,2025-02-08,Karnataka,Bengaluru,New,Printer,Office Equipment,4,14145,UPI,4.6,56580
+11484,2025-02-08,Maharashtra,Nagpur,Returning,Laptop,Electronics,5,103031,Cash on Delivery,4.6,515155
+11381,2025-02-08,Gujarat,Vadodara,Returning,Tablet,Electronics,3,44812,Credit Card,3.4,134436
+10195,2025-02-09,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,4,19455,UPI,3.8,77820
+11099,2025-02-09,Gujarat,Ahmedabad,Returning,Camera,Electronics,4,120833,Credit Card,4.7,483332
+11061,2025-02-10,Karnataka,Mangaluru,Returning,Smartphone,Electronics,2,66633,UPI,4.1,133266
+10245,2025-02-10,Andhra Pradesh,Vijayawada,Returning,Smartphone,Electronics,4,26605,UPI,3.9,106420
+10498,2025-02-10,Delhi,New Delhi,New,Camera,Electronics,5,86382,Credit Card,3.5,431910
+10450,2025-02-10,Tamil Nadu,Chennai,Returning,Camera,Electronics,3,35345,Cash on Delivery,2.7,106035
+11377,2025-02-10,Telangana,Hyderabad,New,Headphones,Electronics,5,11491,Credit Card,3.2,57455
+10413,2025-02-10,Telangana,Warangal,Returning,Headphones,Electronics,4,14286,UPI,4.2,57144
+10321,2025-02-10,Andhra Pradesh,Visakhapatnam,Returning,Tablet,Electronics,2,32388,UPI,4.0,64776
+11375,2025-02-12,Kerala,Thiruvananthapuram,Returning,Camera,Electronics,1,44790,Cash on Delivery,4.4,44790
+11205,2025-02-12,Telangana,Hyderabad,Returning,Printer,Office Equipment,3,30163,UPI,4.5,90489
+10119,2025-02-12,Delhi,Delhi,Returning,Television,Electronics,3,67975,Debit Card,3.8,203925
+10161,2025-02-13,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,4,22006,Debit Card,3.4,88024
+11017,2025-02-13,Andhra Pradesh,Vijayawada,Returning,Laptop,Electronics,5,78313,Debit Card,3.6,391565
+10842,2025-02-13,Rajasthan,Jodhpur,New,Tablet,Electronics,3,22479,Debit Card,3.0,67437
+10696,2025-02-14,Delhi,Delhi,New,Television,Electronics,5,102844,Cash on Delivery,4.6,514220
+10888,2025-02-14,West Bengal,Kolkata,New,Smartphone,Electronics,3,33584,Cash on Delivery,4.5,100752
+11500,2025-02-14,Telangana,Warangal,Returning,Printer,Office Equipment,3,8557,Net Banking,3.7,25671
+11358,2025-02-15,Kerala,Thiruvananthapuram,New,Printer,Office Equipment,5,31908,Credit Card,4.5,159540
+10030,2025-02-16,Kerala,Kozhikode,Returning,Headphones,Electronics,3,13372,UPI,2.6,40116
+11387,2025-02-16,Kerala,Kochi,Returning,Printer,Office Equipment,5,22929,Cash on Delivery,4.1,114645
+11140,2025-02-16,Delhi,Delhi,New,Tablet,Electronics,3,25198,Credit Card,2.5,75594
+10259,2025-02-16,Rajasthan,Jodhpur,New,Smartphone,Electronics,3,48561,Net Banking,3.7,145683
+10635,2025-02-17,West Bengal,Siliguri,New,Television,Electronics,2,122455,Cash on Delivery,4.8,244910
+10932,2025-02-18,Tamil Nadu,Chennai,Returning,Tablet,Electronics,5,40251,Debit Card,2.8,201255
+10395,2025-02-18,West Bengal,Siliguri,Returning,Headphones,Electronics,4,14044,Debit Card,2.7,56176
+10477,2025-02-18,Kerala,Thiruvananthapuram,Returning,Television,Electronics,5,99465,Credit Card,3.4,497325
+10051,2025-02-18,Tamil Nadu,Chennai,Returning,Tablet,Electronics,2,39351,Cash on Delivery,3.8,78702
+10838,2025-02-18,Delhi,New Delhi,Returning,Television,Electronics,4,80038,Debit Card,3.4,320152
+10974,2025-02-19,Andhra Pradesh,Visakhapatnam,New,Television,Electronics,3,61302,Debit Card,4.8,183906
+10043,2025-02-19,West Bengal,Kolkata,Returning,Headphones,Electronics,1,6974,UPI,2.6,6974
+11259,2025-02-19,Gujarat,Vadodara,Returning,Television,Electronics,2,148029,Cash on Delivery,2.6,296058
+11468,2025-02-21,Telangana,Hyderabad,Returning,Smartphone,Electronics,4,20609,Debit Card,3.3,82436
+10747,2025-02-22,West Bengal,Kolkata,New,Smartphone,Electronics,1,69204,Cash on Delivery,4.3,69204
+10728,2025-02-22,Telangana,Hyderabad,New,Smartwatch,Electronics,5,14879,Credit Card,3.8,74395
+10843,2025-02-22,Delhi,New Delhi,New,Laptop,Electronics,1,79178,Net Banking,3.0,79178
+10840,2025-02-23,Gujarat,Ahmedabad,Returning,Camera,Electronics,2,129970,Cash on Delivery,3.0,259940
+11363,2025-02-23,Gujarat,Vadodara,Returning,Television,Electronics,2,79305,Debit Card,3.9,158610
+10873,2025-02-24,Kerala,Thiruvananthapuram,Returning,Television,Electronics,4,132272,Net Banking,3.9,529088
+10131,2025-02-26,Kerala,Thiruvananthapuram,New,Headphones,Electronics,1,8016,Cash on Delivery,2.5,8016
+10659,2025-02-26,Karnataka,Bengaluru,Returning,Tablet,Electronics,4,10992,UPI,4.9,43968
+11056,2025-02-27,Delhi,New Delhi,New,Tablet,Electronics,2,21593,Net Banking,3.0,43186
+10156,2025-02-27,Telangana,Hyderabad,Returning,Printer,Office Equipment,4,34764,Debit Card,3.8,139056
+11332,2025-02-28,Gujarat,Vadodara,New,Tablet,Electronics,5,51662,UPI,2.6,258310
+11256,2025-02-28,Telangana,Warangal,Returning,Printer,Office Equipment,5,30792,Credit Card,2.7,153960
+10559,2025-02-28,Rajasthan,Jodhpur,Returning,Smartwatch,Electronics,3,3034,Credit Card,2.6,9102
+10753,2025-02-28,West Bengal,Kolkata,Returning,Printer,Office Equipment,3,6212,Net Banking,4.4,18636
+10890,2025-02-28,Gujarat,Surat,Returning,Television,Electronics,4,70017,Cash on Delivery,2.7,280068
+10005,2025-03-01,Delhi,Delhi,New,Printer,Office Equipment,4,28588,UPI,4.6,114352
+11466,2025-03-02,Rajasthan,Jodhpur,Returning,Television,Electronics,5,56018,Net Banking,4.5,280090
+11394,2025-03-02,Maharashtra,Pune,New,Television,Electronics,5,88475,Debit Card,4.1,442375
+10329,2025-03-03,Karnataka,Bengaluru,New,Smartwatch,Electronics,2,21140,Debit Card,4.1,42280
+10305,2025-03-04,Tamil Nadu,Chennai,Returning,Smartphone,Electronics,4,56066,Net Banking,4.6,224264
+10499,2025-03-04,Rajasthan,Jaipur,Returning,Smartwatch,Electronics,1,27158,Cash on Delivery,3.5,27158
+11434,2025-03-04,Maharashtra,Mumbai,Returning,Smartwatch,Electronics,1,16836,Net Banking,3.1,16836
+10602,2025-03-05,Andhra Pradesh,Vijayawada,Returning,Laptop,Electronics,3,85860,Net Banking,3.8,257580
+10346,2025-03-06,Gujarat,Surat,New,Smartwatch,Electronics,3,14391,Cash on Delivery,4.1,43173
+11198,2025-03-06,Maharashtra,Pune,Returning,Smartwatch,Electronics,3,18228,UPI,2.8,54684
+10830,2025-03-06,Telangana,Hyderabad,Returning,Tablet,Electronics,4,50935,Debit Card,4.4,203740
+10670,2025-03-06,West Bengal,Siliguri,Returning,Smartwatch,Electronics,1,19227,Debit Card,2.7,19227
+11337,2025-03-06,Maharashtra,Nagpur,Returning,Camera,Electronics,1,127682,Debit Card,2.5,127682
+10159,2025-03-07,West Bengal,Kolkata,New,Tablet,Electronics,5,48990,Cash on Delivery,4.3,244950
+10255,2025-03-07,Kerala,Thiruvananthapuram,Returning,Smartwatch,Electronics,5,23993,Cash on Delivery,3.4,119965
+10702,2025-03-07,Andhra Pradesh,Visakhapatnam,Returning,Smartphone,Electronics,2,45324,Credit Card,4.6,90648
+10132,2025-03-07,Delhi,Delhi,New,Smartwatch,Electronics,4,8691,Cash on Delivery,2.6,34764
+10564,2025-03-09,Andhra Pradesh,Visakhapatnam,Returning,Camera,Electronics,2,64725,Cash on Delivery,3.5,129450
+11350,2025-03-09,Karnataka,Mysuru,Returning,Television,Electronics,4,32716,Net Banking,3.6,130864
+10149,2025-03-09,Kerala,Thiruvananthapuram,Returning,Camera,Electronics,4,83755,UPI,3.8,335020
+10929,2025-03-09,Gujarat,Ahmedabad,Returning,Television,Electronics,5,107333,UPI,3.5,536665
+10322,2025-03-09,Delhi,Delhi,Returning,Printer,Office Equipment,5,13881,Credit Card,3.6,69405
+11457,2025-03-10,Gujarat,Vadodara,New,Tablet,Electronics,4,12042,Debit Card,4.4,48168
+11254,2025-03-10,West Bengal,Siliguri,Returning,Television,Electronics,4,39122,Cash on Delivery,3.2,156488
+11390,2025-03-10,Andhra Pradesh,Visakhapatnam,Returning,Television,Electronics,3,120154,Cash on Delivery,3.6,360462
+10565,2025-03-10,Delhi,New Delhi,New,Laptop,Electronics,3,54196,Cash on Delivery,3.6,162588
+10086,2025-03-11,Gujarat,Vadodara,Returning,Headphones,Electronics,5,1901,Net Banking,3.1,9505
+10181,2025-03-13,Delhi,New Delhi,Returning,Television,Electronics,2,31772,Credit Card,3.1,63544
+10490,2025-03-14,Maharashtra,Nagpur,Returning,Tablet,Electronics,2,42439,Debit Card,4.0,84878
+11182,2025-03-14,Rajasthan,Jodhpur,New,Printer,Office Equipment,5,14182,Net Banking,3.4,70910
+11415,2025-03-14,Maharashtra,Nagpur,Returning,Printer,Office Equipment,3,28240,Net Banking,2.5,84720
+10306,2025-03-14,Karnataka,Bengaluru,Returning,Headphones,Electronics,1,1378,Credit Card,3.2,1378
+11356,2025-03-14,Rajasthan,Jodhpur,New,Printer,Office Equipment,2,21587,Cash on Delivery,4.1,43174
+11373,2025-03-14,Rajasthan,Udaipur,New,Headphones,Electronics,4,9400,Credit Card,3.2,37600
+11325,2025-03-14,Tamil Nadu,Coimbatore,New,Tablet,Electronics,1,27232,Net Banking,3.0,27232
+11020,2025-03-15,Telangana,Warangal,New,Tablet,Electronics,3,40225,Net Banking,4.4,120675
+10052,2025-03-15,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,1,7030,UPI,4.4,7030
+10737,2025-03-15,Andhra Pradesh,Vijayawada,Returning,Television,Electronics,2,142784,Cash on Delivery,2.7,285568
+10035,2025-03-16,Delhi,New Delhi,Returning,Camera,Electronics,2,42010,UPI,4.4,84020
+10691,2025-03-16,Karnataka,Bengaluru,New,Headphones,Electronics,4,2738,Debit Card,3.5,10952
+10759,2025-03-16,Rajasthan,Jaipur,Returning,Smartphone,Electronics,3,41813,Cash on Delivery,3.1,125439
+10249,2025-03-16,Kerala,Kozhikode,New,Television,Electronics,1,140419,Net Banking,2.5,140419
+10536,2025-03-16,Maharashtra,Nagpur,Returning,Smartphone,Electronics,1,72892,UPI,2.9,72892
+10502,2025-03-16,Karnataka,Mysuru,Returning,Camera,Electronics,5,66910,Cash on Delivery,2.7,334550
+11490,2025-03-17,Gujarat,Ahmedabad,Returning,Headphones,Electronics,3,6648,UPI,4.9,19944
+10010,2025-03-17,Telangana,Hyderabad,Returning,Printer,Office Equipment,2,10602,Cash on Delivery,4.3,21204
+10371,2025-03-17,Kerala,Kozhikode,Returning,Smartwatch,Electronics,2,29457,Cash on Delivery,4.6,58914
+11193,2025-03-17,Telangana,Hyderabad,New,Smartphone,Electronics,1,58015,Debit Card,3.2,58015
+10558,2025-03-18,Delhi,Delhi,New,Television,Electronics,3,31962,Cash on Delivery,4.6,95886
+10033,2025-03-19,Telangana,Warangal,Returning,Tablet,Electronics,1,20304,Debit Card,4.4,20304
+11208,2025-03-19,Telangana,Warangal,Returning,Laptop,Electronics,2,84619,Cash on Delivery,3.1,169238
+11341,2025-03-20,Delhi,Delhi,New,Laptop,Electronics,3,71128,Cash on Delivery,3.9,213384
+10897,2025-03-20,Rajasthan,Jodhpur,New,Smartwatch,Electronics,3,9295,Debit Card,2.7,27885
+10153,2025-03-20,Andhra Pradesh,Visakhapatnam,Returning,Tablet,Electronics,3,34162,Cash on Delivery,4.7,102486
+11165,2025-03-22,Kerala,Kozhikode,Returning,Smartwatch,Electronics,4,21677,Net Banking,4.7,86708
+10469,2025-03-22,Tamil Nadu,Madurai,Returning,Television,Electronics,4,83261,Credit Card,4.1,333044
+10631,2025-03-23,Tamil Nadu,Coimbatore,Returning,Smartphone,Electronics,4,17801,UPI,3.7,71204
+11053,2025-03-23,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,4,4044,Net Banking,4.0,16176
+10099,2025-03-23,Rajasthan,Jaipur,New,Printer,Office Equipment,1,23860,Debit Card,3.8,23860
+11293,2025-03-23,Maharashtra,Mumbai,New,Printer,Office Equipment,3,9175,Cash on Delivery,4.3,27525
+10698,2025-03-24,Telangana,Hyderabad,New,Smartphone,Electronics,2,69196,Cash on Delivery,3.4,138392
+10778,2025-03-24,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,2,19607,Cash on Delivery,4.7,39214
+10299,2025-03-24,Tamil Nadu,Coimbatore,New,Printer,Office Equipment,3,31220,Net Banking,4.7,93660
+11354,2025-03-24,Rajasthan,Jodhpur,Returning,Camera,Electronics,3,90220,Credit Card,4.0,270660
+10446,2025-03-25,Maharashtra,Nagpur,New,Printer,Office Equipment,4,6706,Credit Card,4.6,26824
+10461,2025-03-25,Delhi,New Delhi,Returning,Camera,Electronics,2,25228,Net Banking,4.0,50456
+11082,2025-03-25,Gujarat,Vadodara,Returning,Printer,Office Equipment,4,26740,Net Banking,3.6,106960
+11268,2025-03-25,Tamil Nadu,Chennai,New,Printer,Office Equipment,1,16059,Debit Card,3.6,16059
+11119,2025-03-26,Gujarat,Vadodara,New,Television,Electronics,3,104585,Net Banking,3.5,313755
+10136,2025-03-27,West Bengal,Kolkata,New,Television,Electronics,5,135721,Cash on Delivery,4.2,678605
+11016,2025-03-27,Rajasthan,Udaipur,Returning,Headphones,Electronics,3,5887,Net Banking,4.3,17661
+10555,2025-03-28,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,3,48591,Credit Card,3.1,145773
+10379,2025-03-28,West Bengal,Siliguri,New,Tablet,Electronics,3,26374,UPI,4.1,79122
+11488,2025-03-28,Rajasthan,Jaipur,Returning,Tablet,Electronics,3,50166,Net Banking,3.3,150498
+10769,2025-03-29,Gujarat,Vadodara,Returning,Smartwatch,Electronics,4,16147,Cash on Delivery,2.6,64588
+11167,2025-03-29,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,4,23799,Debit Card,4.9,95196
+11443,2025-03-29,Gujarat,Ahmedabad,Returning,Television,Electronics,1,77190,UPI,2.6,77190
+11224,2025-03-30,Tamil Nadu,Coimbatore,Returning,Camera,Electronics,5,62196,Net Banking,4.4,310980
+10317,2025-03-30,Tamil Nadu,Madurai,Returning,Television,Electronics,4,40008,Net Banking,2.7,160032
+10914,2025-03-31,Gujarat,Ahmedabad,New,Laptop,Electronics,5,103095,Credit Card,4.4,515475
+10982,2025-03-31,Maharashtra,Nagpur,Returning,Camera,Electronics,2,56406,Credit Card,3.2,112812
+10603,2025-04-01,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,1,5725,UPI,3.8,5725
+11052,2025-04-01,Tamil Nadu,Chennai,Returning,Camera,Electronics,1,68790,UPI,3.8,68790
+11432,2025-04-02,Tamil Nadu,Coimbatore,New,Laptop,Electronics,4,69014,UPI,4.3,276056
+11015,2025-04-03,Gujarat,Vadodara,New,Headphones,Electronics,3,11379,Debit Card,4.0,34137
+10966,2025-04-03,Kerala,Thiruvananthapuram,Returning,Smartwatch,Electronics,5,17379,Net Banking,2.6,86895
+10390,2025-04-03,Delhi,New Delhi,Returning,Smartwatch,Electronics,2,18460,Credit Card,2.9,36920
+11225,2025-04-05,Telangana,Hyderabad,Returning,Headphones,Electronics,5,1402,Cash on Delivery,4.3,7010
+10765,2025-04-06,West Bengal,Siliguri,Returning,Smartphone,Electronics,3,16582,Cash on Delivery,2.7,49746
+11170,2025-04-06,West Bengal,Kolkata,Returning,Tablet,Electronics,3,50866,Cash on Delivery,2.9,152598
+11478,2025-04-07,West Bengal,Siliguri,Returning,Television,Electronics,1,108578,Credit Card,4.7,108578
+11251,2025-04-07,Karnataka,Mysuru,Returning,Tablet,Electronics,4,18154,Credit Card,3.1,72616
+10162,2025-04-07,Gujarat,Surat,Returning,Tablet,Electronics,2,30225,Cash on Delivery,3.1,60450
+10133,2025-04-08,Tamil Nadu,Chennai,Returning,Television,Electronics,1,103434,Credit Card,3.0,103434
+11300,2025-04-08,Karnataka,Mangaluru,Returning,Printer,Office Equipment,3,16780,Net Banking,2.5,50340
+10594,2025-04-09,Tamil Nadu,Chennai,Returning,Laptop,Electronics,1,83106,Credit Card,4.2,83106
+11069,2025-04-09,Karnataka,Mangaluru,Returning,Laptop,Electronics,2,93867,Net Banking,4.4,187734
+11200,2025-04-10,Telangana,Hyderabad,Returning,Camera,Electronics,2,128537,Net Banking,2.7,257074
+11331,2025-04-10,Delhi,New Delhi,Returning,Printer,Office Equipment,3,32765,UPI,4.5,98295
+10812,2025-04-10,Rajasthan,Jaipur,Returning,Laptop,Electronics,1,77355,UPI,3.5,77355
+10818,2025-04-10,Gujarat,Surat,New,Television,Electronics,2,107173,Cash on Delivery,4.1,214346
+10790,2025-04-11,Maharashtra,Mumbai,New,Camera,Electronics,5,112968,Net Banking,3.4,564840
+10798,2025-04-11,West Bengal,Kolkata,New,Laptop,Electronics,5,87919,Net Banking,4.5,439595
+10847,2025-04-12,Telangana,Hyderabad,Returning,Tablet,Electronics,5,46132,Credit Card,4.5,230660
+10623,2025-04-12,Karnataka,Mangaluru,New,Television,Electronics,4,55929,UPI,3.8,223716
+10934,2025-04-12,Karnataka,Mysuru,Returning,Smartwatch,Electronics,1,21487,Net Banking,4.2,21487
+10212,2025-04-12,Kerala,Thiruvananthapuram,Returning,Smartphone,Electronics,4,57264,Debit Card,3.1,229056
+11162,2025-04-12,Maharashtra,Mumbai,New,Smartphone,Electronics,3,52563,Cash on Delivery,3.8,157689
+10433,2025-04-13,West Bengal,Siliguri,Returning,Printer,Office Equipment,4,15490,Net Banking,4.2,61960
+10595,2025-04-14,Kerala,Thiruvananthapuram,Returning,Printer,Office Equipment,2,17472,Net Banking,2.7,34944
+11169,2025-04-14,Karnataka,Bengaluru,Returning,Laptop,Electronics,4,49951,UPI,3.8,199804
+10185,2025-04-14,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,3,57940,Credit Card,3.1,173820
+10864,2025-04-14,Tamil Nadu,Chennai,New,Smartphone,Electronics,2,36054,Net Banking,2.8,72108
+10684,2025-04-14,West Bengal,Kolkata,New,Tablet,Electronics,2,25696,UPI,4.6,51392
+10903,2025-04-14,Telangana,Warangal,Returning,Tablet,Electronics,1,10739,Debit Card,4.8,10739
+10451,2025-04-15,Telangana,Hyderabad,Returning,Camera,Electronics,4,58896,Credit Card,3.7,235584
+11062,2025-04-15,Karnataka,Bengaluru,Returning,Television,Electronics,1,37143,Credit Card,3.7,37143
+10486,2025-04-17,Tamil Nadu,Coimbatore,Returning,Television,Electronics,1,120825,UPI,3.1,120825
+11316,2025-04-18,Delhi,Delhi,Returning,Television,Electronics,3,139991,Credit Card,3.5,419973
+10427,2025-04-19,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,4,5159,UPI,4.0,20636
+10562,2025-04-19,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,5,7155,Net Banking,4.6,35775
+10207,2025-04-19,Kerala,Kozhikode,Returning,Tablet,Electronics,5,32616,Net Banking,4.5,163080
+11084,2025-04-19,Karnataka,Bengaluru,New,Laptop,Electronics,5,65698,UPI,2.8,328490
+11482,2025-04-19,Maharashtra,Nagpur,New,Tablet,Electronics,5,23890,Net Banking,2.6,119450
+10575,2025-04-19,Rajasthan,Jodhpur,Returning,Laptop,Electronics,4,94589,Cash on Delivery,4.8,378356
+11073,2025-04-19,Kerala,Kochi,Returning,Headphones,Electronics,4,14187,Credit Card,5.0,56748
+10009,2025-04-19,Gujarat,Surat,Returning,Headphones,Electronics,3,1126,Credit Card,4.9,3378
+11195,2025-04-19,Kerala,Kozhikode,Returning,Smartwatch,Electronics,3,17839,Debit Card,3.3,53517
+11384,2025-04-21,Rajasthan,Udaipur,Returning,Tablet,Electronics,2,46160,UPI,5.0,92320
+10851,2025-04-21,Maharashtra,Pune,New,Tablet,Electronics,4,32469,Cash on Delivery,4.7,129876
+11160,2025-04-21,Andhra Pradesh,Vijayawada,Returning,Television,Electronics,3,145609,Net Banking,4.3,436827
+10589,2025-04-21,Andhra Pradesh,Visakhapatnam,New,Laptop,Electronics,2,84886,Credit Card,4.8,169772
+10713,2025-04-21,Karnataka,Bengaluru,New,Camera,Electronics,5,57363,Net Banking,2.5,286815
+11133,2025-04-22,Telangana,Warangal,Returning,Camera,Electronics,5,123958,Credit Card,3.5,619790
+10130,2025-04-22,Delhi,Delhi,Returning,Smartphone,Electronics,5,26175,Cash on Delivery,4.8,130875
+11089,2025-04-22,Tamil Nadu,Chennai,Returning,Laptop,Electronics,1,80450,UPI,4.6,80450
+11243,2025-04-23,Gujarat,Ahmedabad,New,Camera,Electronics,1,44423,UPI,4.1,44423
+10665,2025-04-23,Delhi,Delhi,Returning,Camera,Electronics,3,111442,Credit Card,3.6,334326
+10022,2025-04-23,Karnataka,Bengaluru,Returning,Smartphone,Electronics,3,14887,UPI,4.6,44661
+10447,2025-04-23,Tamil Nadu,Coimbatore,Returning,Smartwatch,Electronics,4,12798,Cash on Delivery,3.9,51192
+10018,2025-04-23,Gujarat,Surat,New,Television,Electronics,1,147394,Net Banking,4.6,147394
+10647,2025-04-24,West Bengal,Kolkata,Returning,Smartwatch,Electronics,5,20349,Debit Card,3.0,101745
+11055,2025-04-24,Rajasthan,Jaipur,New,Headphones,Electronics,1,6636,Cash on Delivery,3.5,6636
+10280,2025-04-25,Delhi,New Delhi,Returning,Headphones,Electronics,5,10381,Credit Card,2.9,51905
+10638,2025-04-26,Telangana,Hyderabad,New,Tablet,Electronics,5,32559,UPI,3.7,162795
+11051,2025-04-26,Karnataka,Mangaluru,Returning,Smartwatch,Electronics,4,29667,Net Banking,3.2,118668
+10013,2025-04-27,Gujarat,Ahmedabad,Returning,Television,Electronics,2,146796,Net Banking,4.9,293592
+10604,2025-04-27,Tamil Nadu,Chennai,New,Smartphone,Electronics,4,71470,UPI,4.9,285880
+11255,2025-04-28,Maharashtra,Nagpur,Returning,Printer,Office Equipment,5,28956,Debit Card,3.4,144780
+10025,2025-04-28,Rajasthan,Jaipur,New,Printer,Office Equipment,5,9086,Credit Card,2.8,45430
+10457,2025-04-28,Maharashtra,Pune,New,Smartphone,Electronics,2,16567,Net Banking,4.9,33134
+10839,2025-04-28,Kerala,Kochi,Returning,Laptop,Electronics,1,102786,Net Banking,3.2,102786
+10504,2025-04-28,Kerala,Kozhikode,Returning,Television,Electronics,2,45186,Cash on Delivery,3.3,90372
+10861,2025-04-29,Maharashtra,Mumbai,Returning,Headphones,Electronics,3,9738,Credit Card,3.9,29214
+10310,2025-04-30,Karnataka,Bengaluru,Returning,Television,Electronics,5,86151,Net Banking,2.9,430755
+11447,2025-05-01,Andhra Pradesh,Visakhapatnam,Returning,Laptop,Electronics,4,67990,UPI,3.3,271960
+10549,2025-05-02,Telangana,Warangal,Returning,Headphones,Electronics,5,7681,Debit Card,2.7,38405
+10951,2025-05-02,Delhi,Delhi,New,Camera,Electronics,3,59775,Credit Card,3.1,179325
+10699,2025-05-03,Maharashtra,Mumbai,Returning,Laptop,Electronics,1,45495,Credit Card,4.2,45495
+11426,2025-05-03,Telangana,Warangal,Returning,Headphones,Electronics,1,3241,Net Banking,3.0,3241
+11242,2025-05-04,Telangana,Warangal,Returning,Smartwatch,Electronics,3,15565,Cash on Delivery,2.6,46695
+10034,2025-05-04,Tamil Nadu,Madurai,New,Smartwatch,Electronics,5,7258,Credit Card,4.5,36290
+10553,2025-05-04,Gujarat,Ahmedabad,New,Tablet,Electronics,5,54643,Cash on Delivery,3.8,273215
+10898,2025-05-04,Gujarat,Surat,Returning,Printer,Office Equipment,3,11984,Cash on Delivery,3.6,35952
+10262,2025-05-04,Maharashtra,Pune,Returning,Camera,Electronics,5,53350,Cash on Delivery,3.2,266750
+10545,2025-05-05,Rajasthan,Jodhpur,Returning,Television,Electronics,3,52634,Cash on Delivery,4.3,157902
+10995,2025-05-05,Delhi,Delhi,Returning,Smartwatch,Electronics,4,20449,Debit Card,3.2,81796
+10550,2025-05-05,Telangana,Hyderabad,Returning,Camera,Electronics,5,27895,Debit Card,2.6,139475
+10521,2025-05-06,Kerala,Kozhikode,New,Tablet,Electronics,5,37094,Credit Card,3.7,185470
+11245,2025-05-06,West Bengal,Siliguri,Returning,Camera,Electronics,1,54992,Net Banking,3.9,54992
+10653,2025-05-06,Rajasthan,Jodhpur,Returning,Television,Electronics,1,35630,Cash on Delivery,3.0,35630
+11367,2025-05-07,Telangana,Hyderabad,New,Smartphone,Electronics,2,20720,Cash on Delivery,3.0,41440
+10418,2025-05-07,West Bengal,Kolkata,Returning,Printer,Office Equipment,1,19783,UPI,4.3,19783
+10680,2025-05-07,Gujarat,Ahmedabad,Returning,Television,Electronics,5,95069,Net Banking,3.9,475345
+10478,2025-05-07,Rajasthan,Udaipur,New,Smartwatch,Electronics,2,26826,Debit Card,3.7,53652
+10325,2025-05-07,Maharashtra,Pune,New,Smartwatch,Electronics,5,4712,Credit Card,2.7,23560
+11202,2025-05-08,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,3,30329,Credit Card,4.8,90987
+11275,2025-05-08,Telangana,Hyderabad,New,Laptop,Electronics,3,109817,Debit Card,3.6,329451
+10678,2025-05-08,Karnataka,Mangaluru,New,Headphones,Electronics,3,1888,Net Banking,3.3,5664
+11445,2025-05-09,West Bengal,Siliguri,New,Smartphone,Electronics,5,43169,UPI,4.0,215845
+10205,2025-05-09,Tamil Nadu,Madurai,New,Laptop,Electronics,4,45178,Credit Card,4.7,180712
+11458,2025-05-09,Maharashtra,Nagpur,Returning,Smartphone,Electronics,1,54982,Debit Card,4.3,54982
+11041,2025-05-09,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,1,23221,Credit Card,2.8,23221
+10198,2025-05-09,Kerala,Kozhikode,Returning,Printer,Office Equipment,4,31407,Debit Card,3.6,125628
+10217,2025-05-11,Gujarat,Surat,Returning,Camera,Electronics,5,101646,Cash on Delivery,4.4,508230
+10236,2025-05-11,Telangana,Warangal,New,Laptop,Electronics,5,64773,Credit Card,4.8,323865
+10101,2025-05-11,Maharashtra,Mumbai,Returning,Laptop,Electronics,5,49603,Cash on Delivery,4.6,248015
+10366,2025-05-12,Karnataka,Mysuru,Returning,Smartwatch,Electronics,2,25808,Debit Card,3.3,51616
+11081,2025-05-12,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,2,28023,Net Banking,4.1,56046
+11323,2025-05-14,Tamil Nadu,Chennai,Returning,Television,Electronics,5,101494,Debit Card,4.9,507470
+10869,2025-05-14,Kerala,Kozhikode,Returning,Laptop,Electronics,5,48240,UPI,4.9,241200
+11441,2025-05-15,Gujarat,Surat,New,Laptop,Electronics,5,51523,UPI,3.8,257615
+10398,2025-05-16,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,3,10451,UPI,4.0,31353
+11480,2025-05-17,Telangana,Hyderabad,Returning,Smartwatch,Electronics,3,26905,UPI,4.3,80715
+10774,2025-05-17,Gujarat,Vadodara,Returning,Tablet,Electronics,3,50096,Net Banking,4.7,150288
+11018,2025-05-17,Delhi,New Delhi,New,Television,Electronics,3,66900,Credit Card,3.1,200700
+10036,2025-05-17,Telangana,Hyderabad,New,Tablet,Electronics,2,41658,Net Banking,3.6,83316
+11352,2025-05-17,Rajasthan,Jaipur,New,Television,Electronics,4,58885,Net Banking,3.2,235540
+10849,2025-05-18,Gujarat,Vadodara,New,Headphones,Electronics,4,4342,Debit Card,3.9,17368
+10042,2025-05-18,Maharashtra,Nagpur,Returning,Printer,Office Equipment,5,8729,Cash on Delivery,3.4,43645
+10985,2025-05-19,Kerala,Kochi,Returning,Laptop,Electronics,2,68777,Net Banking,4.0,137554
+10582,2025-05-19,Gujarat,Surat,New,Smartwatch,Electronics,4,16880,Debit Card,4.9,67520
+11436,2025-05-19,Rajasthan,Jaipur,New,Smartphone,Electronics,2,17470,Cash on Delivery,2.7,34940
+10590,2025-05-19,Telangana,Warangal,New,Camera,Electronics,4,74699,Cash on Delivery,4.0,298796
+10607,2025-05-20,West Bengal,Siliguri,New,Tablet,Electronics,2,33110,Debit Card,4.8,66220
+11460,2025-05-20,Karnataka,Bengaluru,Returning,Camera,Electronics,1,90185,Debit Card,4.1,90185
+11249,2025-05-20,Tamil Nadu,Madurai,New,Headphones,Electronics,4,7537,Cash on Delivery,3.9,30148
+11002,2025-05-21,Gujarat,Vadodara,Returning,Tablet,Electronics,4,25577,Cash on Delivery,4.7,102308
+10676,2025-05-21,Tamil Nadu,Coimbatore,New,Tablet,Electronics,5,29585,Cash on Delivery,3.2,147925
+11183,2025-05-21,Andhra Pradesh,Visakhapatnam,New,Laptop,Electronics,3,105654,Credit Card,3.5,316962
+11267,2025-05-21,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,2,7526,Cash on Delivery,4.9,15052
+10777,2025-05-21,Kerala,Kochi,Returning,Headphones,Electronics,5,1300,Net Banking,4.9,6500
+10289,2025-05-22,Karnataka,Bengaluru,Returning,Camera,Electronics,3,29922,UPI,2.9,89766
+10094,2025-05-22,West Bengal,Siliguri,New,Television,Electronics,4,127760,Net Banking,4.0,511040
+10392,2025-05-22,Telangana,Hyderabad,Returning,Camera,Electronics,2,89604,Debit Card,3.6,179208
+10908,2025-05-23,Maharashtra,Mumbai,Returning,Television,Electronics,5,43331,Credit Card,3.3,216655
+10268,2025-05-23,Kerala,Kozhikode,Returning,Television,Electronics,5,85431,UPI,3.7,427155
+10134,2025-05-24,Andhra Pradesh,Visakhapatnam,Returning,Camera,Electronics,2,109518,Debit Card,2.9,219036
+10021,2025-05-26,Telangana,Hyderabad,Returning,Headphones,Electronics,3,12821,Debit Card,3.4,38463
+10640,2025-05-27,Gujarat,Surat,New,Laptop,Electronics,4,57861,UPI,3.1,231444
+10619,2025-05-27,Telangana,Hyderabad,Returning,Smartphone,Electronics,2,47333,Debit Card,3.5,94666
+11088,2025-05-27,Karnataka,Mysuru,Returning,Printer,Office Equipment,1,26142,UPI,4.1,26142
+10514,2025-05-28,Kerala,Thiruvananthapuram,New,Tablet,Electronics,1,23854,Net Banking,4.0,23854
+10089,2025-05-28,Gujarat,Vadodara,Returning,Headphones,Electronics,5,14058,Credit Card,3.7,70290
+11315,2025-05-28,Kerala,Thiruvananthapuram,New,Headphones,Electronics,4,5052,UPI,4.4,20208
+10826,2025-05-29,West Bengal,Siliguri,New,Tablet,Electronics,3,55178,UPI,2.9,165534
+11228,2025-05-31,West Bengal,Kolkata,Returning,Headphones,Electronics,1,7349,Cash on Delivery,4.0,7349
+11383,2025-05-31,Maharashtra,Nagpur,Returning,Headphones,Electronics,1,2749,Debit Card,4.7,2749
+11161,2025-06-02,Rajasthan,Udaipur,Returning,Smartwatch,Electronics,5,5907,UPI,3.7,29535
+10437,2025-06-02,Gujarat,Surat,New,Laptop,Electronics,5,68488,Credit Card,2.8,342440
+11469,2025-06-02,West Bengal,Siliguri,Returning,Tablet,Electronics,2,45371,Credit Card,3.9,90742
+11307,2025-06-03,Telangana,Hyderabad,Returning,Camera,Electronics,3,72340,Debit Card,3.3,217020
+10298,2025-06-03,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,1,25240,Cash on Delivery,4.0,25240
+11077,2025-06-03,Karnataka,Mangaluru,New,Television,Electronics,2,106436,UPI,4.7,212872
+10991,2025-06-03,Gujarat,Ahmedabad,New,Smartphone,Electronics,3,52701,Cash on Delivery,4.7,158103
+11339,2025-06-03,West Bengal,Kolkata,Returning,Laptop,Electronics,5,107013,UPI,2.9,535065
+10764,2025-06-03,Rajasthan,Udaipur,New,Camera,Electronics,1,28228,UPI,2.6,28228
+11057,2025-06-03,Kerala,Thiruvananthapuram,New,Headphones,Electronics,1,3892,Cash on Delivery,3.7,3892
+10147,2025-06-03,Rajasthan,Jaipur,Returning,Laptop,Electronics,4,91216,UPI,3.0,364864
+11031,2025-06-04,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,5,17533,Debit Card,3.1,87665
+10538,2025-06-04,West Bengal,Siliguri,Returning,Camera,Electronics,3,51532,Credit Card,2.7,154596
+11023,2025-06-05,Kerala,Thiruvananthapuram,New,Printer,Office Equipment,1,16673,UPI,5.0,16673
+10258,2025-06-05,Tamil Nadu,Coimbatore,Returning,Television,Electronics,2,40039,Net Banking,4.4,80078
+10496,2025-06-05,Karnataka,Mangaluru,Returning,Headphones,Electronics,3,1240,Credit Card,2.9,3720
+10862,2025-06-05,Gujarat,Ahmedabad,New,Television,Electronics,4,123030,Net Banking,3.4,492120
+10240,2025-06-05,Tamil Nadu,Chennai,Returning,Laptop,Electronics,3,113968,Cash on Delivery,3.7,341904
+10772,2025-06-06,Kerala,Kochi,Returning,Camera,Electronics,5,72914,Debit Card,4.1,364570
+10893,2025-06-06,Karnataka,Bengaluru,Returning,Printer,Office Equipment,4,9732,Cash on Delivery,3.0,38928
+10939,2025-06-08,Karnataka,Bengaluru,New,Smartphone,Electronics,4,52325,Cash on Delivery,3.7,209300
+10003,2025-06-08,Gujarat,Vadodara,Returning,Smartwatch,Electronics,2,22081,Credit Card,3.3,44162
+10743,2025-06-09,Rajasthan,Udaipur,Returning,Laptop,Electronics,2,68600,Debit Card,4.4,137200
+10883,2025-06-09,Maharashtra,Mumbai,Returning,Camera,Electronics,5,53885,Credit Card,3.9,269425
+10108,2025-06-10,Gujarat,Ahmedabad,Returning,Headphones,Electronics,3,5818,UPI,4.1,17454
+10026,2025-06-10,Karnataka,Bengaluru,New,Camera,Electronics,1,76413,Cash on Delivery,4.2,76413
+10971,2025-06-10,West Bengal,Siliguri,Returning,Smartphone,Electronics,1,53139,Cash on Delivery,4.9,53139
+11396,2025-06-10,West Bengal,Siliguri,New,Smartwatch,Electronics,3,12595,Net Banking,2.9,37785
+10820,2025-06-11,Tamil Nadu,Madurai,New,Smartwatch,Electronics,3,24195,Debit Card,2.6,72585
+10704,2025-06-11,Andhra Pradesh,Vijayawada,Returning,Television,Electronics,1,71272,Net Banking,3.4,71272
+11152,2025-06-11,West Bengal,Kolkata,Returning,Headphones,Electronics,2,9417,Credit Card,4.3,18834
+10001,2025-06-11,Delhi,Delhi,New,Tablet,Electronics,1,55747,Cash on Delivery,5.0,55747
+10210,2025-06-11,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,3,35363,UPI,5.0,106089
+10375,2025-06-11,Delhi,Delhi,Returning,Camera,Electronics,3,67065,Cash on Delivery,3.4,201195
+10071,2025-06-12,Gujarat,Ahmedabad,New,Headphones,Electronics,4,13021,UPI,3.9,52084
+10661,2025-06-12,Telangana,Hyderabad,New,Camera,Electronics,2,92657,UPI,3.7,185314
+10634,2025-06-12,Maharashtra,Mumbai,Returning,Smartphone,Electronics,1,28075,Net Banking,2.7,28075
+11101,2025-06-13,Delhi,New Delhi,New,Camera,Electronics,3,115367,Cash on Delivery,4.6,346101
+11406,2025-06-13,Delhi,New Delhi,New,Printer,Office Equipment,3,6502,Cash on Delivery,3.3,19506
+10601,2025-06-13,Telangana,Warangal,Returning,Camera,Electronics,4,33997,Debit Card,3.3,135988
+11353,2025-06-13,Gujarat,Ahmedabad,New,Camera,Electronics,2,78144,Credit Card,4.9,156288
+10178,2025-06-13,Maharashtra,Pune,New,Laptop,Electronics,2,104658,Net Banking,3.8,209316
+10096,2025-06-14,West Bengal,Siliguri,Returning,Smartphone,Electronics,4,51255,Cash on Delivery,2.9,205020
+10566,2025-06-14,West Bengal,Siliguri,Returning,Laptop,Electronics,4,88459,Cash on Delivery,4.9,353836
+10597,2025-06-14,Maharashtra,Pune,New,Television,Electronics,1,126300,UPI,2.9,126300
+11305,2025-06-15,West Bengal,Siliguri,New,Headphones,Electronics,4,2407,Net Banking,4.4,9628
+10816,2025-06-15,Maharashtra,Nagpur,Returning,Printer,Office Equipment,3,22916,Debit Card,4.9,68748
+11361,2025-06-15,Karnataka,Mangaluru,New,Headphones,Electronics,4,9498,Net Banking,2.9,37992
+11176,2025-06-16,Karnataka,Bengaluru,New,Smartphone,Electronics,5,12835,Debit Card,4.7,64175
+10422,2025-06-17,Karnataka,Bengaluru,New,Smartwatch,Electronics,5,16299,Cash on Delivery,3.3,81495
+11211,2025-06-17,Gujarat,Vadodara,New,Printer,Office Equipment,3,12865,Net Banking,3.0,38595
+11128,2025-06-18,Tamil Nadu,Chennai,Returning,Tablet,Electronics,1,43972,Debit Card,3.9,43972
+10552,2025-06-19,Tamil Nadu,Coimbatore,New,Television,Electronics,2,32352,Net Banking,4.8,64704
+11026,2025-06-19,Rajasthan,Jaipur,Returning,Smartwatch,Electronics,2,17872,Net Banking,3.3,35744
+11378,2025-06-19,Telangana,Hyderabad,Returning,Camera,Electronics,3,118448,Credit Card,3.4,355344
+11025,2025-06-20,Delhi,Delhi,Returning,Smartphone,Electronics,1,39829,Net Banking,2.7,39829
+10856,2025-06-20,Karnataka,Mysuru,Returning,Headphones,Electronics,2,12530,UPI,4.8,25060
+10497,2025-06-21,Delhi,Delhi,New,Smartphone,Electronics,5,56462,Credit Card,2.6,282310
+10303,2025-06-22,Karnataka,Bengaluru,New,Headphones,Electronics,3,14511,Cash on Delivery,3.9,43533
+11034,2025-06-22,Telangana,Hyderabad,New,Printer,Office Equipment,2,8659,Debit Card,3.4,17318
+10819,2025-06-22,Karnataka,Mangaluru,Returning,Headphones,Electronics,3,2996,Debit Card,3.3,8988
+10438,2025-06-23,Telangana,Warangal,New,Headphones,Electronics,1,14182,Credit Card,2.7,14182
+10355,2025-06-23,West Bengal,Siliguri,New,Smartwatch,Electronics,5,25831,Net Banking,2.5,129155
+10786,2025-06-24,Tamil Nadu,Madurai,Returning,Tablet,Electronics,2,15680,Cash on Delivery,4.8,31360
+11194,2025-06-24,West Bengal,Kolkata,Returning,Printer,Office Equipment,4,9573,Cash on Delivery,3.8,38292
+10867,2025-06-24,West Bengal,Kolkata,Returning,Smartphone,Electronics,3,12363,Credit Card,2.9,37089
+10251,2025-06-25,Gujarat,Vadodara,Returning,Headphones,Electronics,3,11544,Net Banking,2.7,34632
+11360,2025-06-25,Karnataka,Mangaluru,Returning,Television,Electronics,1,136931,Net Banking,2.6,136931
+11475,2025-06-26,Rajasthan,Jodhpur,New,Tablet,Electronics,4,18177,Credit Card,2.7,72708
+10779,2025-06-26,Andhra Pradesh,Visakhapatnam,Returning,Smartphone,Electronics,4,77603,Debit Card,3.9,310412
+10122,2025-06-26,West Bengal,Kolkata,Returning,Camera,Electronics,3,106441,Debit Card,3.2,319323
+10745,2025-06-27,Tamil Nadu,Coimbatore,New,Smartphone,Electronics,4,31810,Debit Card,2.6,127240
+10168,2025-06-27,Kerala,Kochi,Returning,Camera,Electronics,5,40689,Credit Card,3.3,203445
+10109,2025-06-27,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,2,28576,Net Banking,3.0,57152
+10365,2025-06-28,Telangana,Hyderabad,Returning,Printer,Office Equipment,4,6907,Cash on Delivery,2.6,27628
+11238,2025-06-28,Delhi,New Delhi,New,Camera,Electronics,1,82889,Credit Card,4.3,82889
+11113,2025-06-30,Karnataka,Mangaluru,Returning,Television,Electronics,3,102018,Cash on Delivery,4.5,306054
+11108,2025-06-30,Delhi,New Delhi,Returning,Headphones,Electronics,1,12189,Net Banking,3.1,12189
+10060,2025-07-01,West Bengal,Siliguri,New,Tablet,Electronics,3,14340,Debit Card,3.6,43020
+10075,2025-07-01,Gujarat,Vadodara,Returning,Smartwatch,Electronics,1,10719,Cash on Delivery,4.7,10719
+10853,2025-07-01,Kerala,Kozhikode,New,Television,Electronics,5,122804,UPI,3.5,614020
+10017,2025-07-02,Maharashtra,Nagpur,Returning,Laptop,Electronics,2,90039,Credit Card,2.9,180078
+11196,2025-07-02,Rajasthan,Jaipur,New,Printer,Office Equipment,3,8491,Credit Card,4.3,25473
+10733,2025-07-02,Tamil Nadu,Coimbatore,Returning,Headphones,Electronics,5,12049,Cash on Delivery,4.8,60245
+10019,2025-07-02,Andhra Pradesh,Visakhapatnam,Returning,Smartphone,Electronics,2,32923,UPI,3.2,65846
+10412,2025-07-02,Rajasthan,Udaipur,Returning,Camera,Electronics,3,101368,UPI,2.7,304104
+10712,2025-07-03,Andhra Pradesh,Vijayawada,New,Camera,Electronics,2,47634,Debit Card,4.8,95268
+10613,2025-07-03,West Bengal,Kolkata,Returning,Laptop,Electronics,4,71502,Cash on Delivery,3.5,286008
+11437,2025-07-04,Gujarat,Ahmedabad,New,Smartphone,Electronics,1,26953,Credit Card,4.0,26953
+11136,2025-07-04,Delhi,Delhi,Returning,Tablet,Electronics,1,18412,Cash on Delivery,4.7,18412
+11422,2025-07-06,Gujarat,Surat,Returning,Tablet,Electronics,1,39631,UPI,3.6,39631
+11012,2025-07-06,Rajasthan,Jaipur,New,Television,Electronics,2,66330,Credit Card,3.8,132660
+10677,2025-07-07,Kerala,Kochi,Returning,Television,Electronics,5,123775,Debit Card,2.9,618875
+10694,2025-07-07,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,3,77425,Net Banking,3.6,232275
+10004,2025-07-07,Telangana,Hyderabad,Returning,Smartwatch,Electronics,5,7796,Cash on Delivery,2.8,38980
+10492,2025-07-07,Delhi,Delhi,Returning,Camera,Electronics,3,87874,Net Banking,2.7,263622
+10062,2025-07-07,Andhra Pradesh,Visakhapatnam,Returning,Headphones,Electronics,3,8966,Net Banking,3.2,26898
+10859,2025-07-07,Tamil Nadu,Coimbatore,New,Tablet,Electronics,1,44409,Cash on Delivery,4.8,44409
+11427,2025-07-07,Maharashtra,Nagpur,Returning,Headphones,Electronics,2,7378,Net Banking,3.7,14756
+10707,2025-07-07,Maharashtra,Pune,New,Camera,Electronics,5,99462,Credit Card,5.0,497310
+11100,2025-07-08,Delhi,Delhi,Returning,Smartphone,Electronics,5,32836,Credit Card,4.6,164180
+10242,2025-07-09,Tamil Nadu,Madurai,Returning,Smartwatch,Electronics,5,23196,UPI,4.5,115980
+10397,2025-07-09,Maharashtra,Mumbai,New,Laptop,Electronics,2,73132,UPI,2.5,146264
+11163,2025-07-10,Telangana,Hyderabad,Returning,Smartwatch,Electronics,4,13832,Net Banking,4.6,55328
+10269,2025-07-10,Karnataka,Mysuru,Returning,Headphones,Electronics,3,1913,Net Banking,4.5,5739
+10264,2025-07-10,Tamil Nadu,Chennai,New,Camera,Electronics,3,58798,UPI,4.3,176394
+11197,2025-07-11,Andhra Pradesh,Visakhapatnam,Returning,Tablet,Electronics,4,10706,Cash on Delivery,3.8,42824
+11213,2025-07-12,Rajasthan,Jodhpur,Returning,Headphones,Electronics,4,4317,Net Banking,3.3,17268
+11063,2025-07-12,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,3,7782,Net Banking,3.9,23346
+10512,2025-07-12,Rajasthan,Jodhpur,Returning,Printer,Office Equipment,5,7601,Credit Card,4.7,38005
+10656,2025-07-13,Telangana,Hyderabad,New,Smartwatch,Electronics,1,25471,Net Banking,4.8,25471
+10683,2025-07-13,Delhi,New Delhi,Returning,Printer,Office Equipment,3,24267,Cash on Delivery,3.2,72801
+10374,2025-07-13,Tamil Nadu,Chennai,Returning,Smartphone,Electronics,4,35649,UPI,4.0,142596
+11168,2025-07-13,Gujarat,Vadodara,Returning,Headphones,Electronics,1,1250,Cash on Delivery,4.3,1250
+10891,2025-07-14,Maharashtra,Mumbai,Returning,Laptop,Electronics,4,78541,Net Banking,4.6,314164
+10495,2025-07-14,Telangana,Warangal,New,Camera,Electronics,2,105960,UPI,4.5,211920
+10509,2025-07-15,Kerala,Kochi,Returning,Smartphone,Electronics,2,40060,Net Banking,3.2,80120
+10219,2025-07-15,Maharashtra,Nagpur,New,Television,Electronics,2,21129,Net Banking,3.9,42258
+11459,2025-07-15,Gujarat,Surat,Returning,Smartwatch,Electronics,4,2618,UPI,4.7,10472
+10084,2025-07-15,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,2,9664,Debit Card,4.2,19328
+11262,2025-07-16,Rajasthan,Jodhpur,Returning,Printer,Office Equipment,4,6168,UPI,3.5,24672
+10028,2025-07-17,Tamil Nadu,Coimbatore,Returning,Smartwatch,Electronics,1,5341,Net Banking,4.3,5341
+10780,2025-07-17,West Bengal,Kolkata,Returning,Laptop,Electronics,5,73412,Cash on Delivery,3.5,367060
+10125,2025-07-17,Karnataka,Bengaluru,Returning,Printer,Office Equipment,1,13236,Cash on Delivery,4.4,13236
+11172,2025-07-17,Delhi,Delhi,Returning,Tablet,Electronics,3,58885,Cash on Delivery,3.2,176655
+10091,2025-07-18,Tamil Nadu,Coimbatore,New,Laptop,Electronics,2,46378,Cash on Delivery,3.4,92756
+11074,2025-07-18,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,4,32538,Debit Card,4.2,130152
+10916,2025-07-18,Telangana,Hyderabad,Returning,Television,Electronics,5,83217,Cash on Delivery,2.5,416085
+10679,2025-07-20,Karnataka,Bengaluru,Returning,Smartphone,Electronics,5,38619,UPI,3.9,193095
+10340,2025-07-20,West Bengal,Siliguri,New,Smartphone,Electronics,5,46159,Cash on Delivery,4.2,230795
+10556,2025-07-20,Kerala,Kochi,Returning,Laptop,Electronics,1,77016,Cash on Delivery,3.7,77016
+10261,2025-07-20,Maharashtra,Nagpur,Returning,Smartphone,Electronics,4,13577,Debit Card,3.5,54308
+11285,2025-07-21,Telangana,Warangal,Returning,Television,Electronics,4,111960,Credit Card,3.3,447840
+10452,2025-07-21,Tamil Nadu,Chennai,Returning,Television,Electronics,5,105430,UPI,4.0,527150
+10515,2025-07-21,Tamil Nadu,Chennai,New,Laptop,Electronics,3,112695,UPI,3.1,338085
+11149,2025-07-21,Karnataka,Mangaluru,New,Headphones,Electronics,5,5753,Debit Card,5.0,28765
+10088,2025-07-22,Karnataka,Bengaluru,New,Tablet,Electronics,3,39863,UPI,4.5,119589
+10318,2025-07-22,Gujarat,Ahmedabad,Returning,Tablet,Electronics,4,56202,Net Banking,4.5,224808
+11393,2025-07-22,West Bengal,Siliguri,New,Tablet,Electronics,2,55158,UPI,4.8,110316
+11297,2025-07-23,West Bengal,Kolkata,New,Tablet,Electronics,2,43461,UPI,4.9,86922
+10655,2025-07-23,Karnataka,Bengaluru,Returning,Smartphone,Electronics,5,19382,Credit Card,4.2,96910
+10527,2025-07-23,Delhi,Delhi,New,Camera,Electronics,1,53610,Net Banking,3.4,53610
+10896,2025-07-24,Karnataka,Bengaluru,New,Printer,Office Equipment,3,32518,Debit Card,2.7,97554
+10076,2025-07-24,West Bengal,Siliguri,New,Printer,Office Equipment,1,28464,Credit Card,4.9,28464
+10752,2025-07-24,Maharashtra,Nagpur,Returning,Printer,Office Equipment,4,34079,Cash on Delivery,3.1,136316
+11438,2025-07-24,Rajasthan,Jaipur,Returning,Smartphone,Electronics,4,50507,Net Banking,2.8,202028
+11234,2025-07-25,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,1,17866,Cash on Delivery,3.6,17866
+11135,2025-07-25,Telangana,Warangal,Returning,Laptop,Electronics,3,63830,Debit Card,3.1,191490
+10278,2025-07-26,Tamil Nadu,Coimbatore,Returning,Headphones,Electronics,5,8037,UPI,4.9,40185
+11444,2025-07-26,Telangana,Warangal,Returning,Laptop,Electronics,2,92761,UPI,4.5,185522
+11302,2025-07-27,West Bengal,Siliguri,New,Printer,Office Equipment,1,18841,Net Banking,3.8,18841
+10767,2025-07-28,Rajasthan,Udaipur,Returning,Smartphone,Electronics,1,50799,UPI,4.7,50799
+10186,2025-07-29,Maharashtra,Pune,Returning,Smartwatch,Electronics,3,22223,UPI,2.6,66669
+11239,2025-07-29,Gujarat,Vadodara,Returning,Television,Electronics,5,99553,Cash on Delivery,2.9,497765
+10810,2025-07-29,West Bengal,Kolkata,New,Tablet,Electronics,2,25627,Cash on Delivery,3.3,51254
+10279,2025-07-29,Andhra Pradesh,Visakhapatnam,Returning,Smartphone,Electronics,3,25386,Credit Card,4.6,76158
+10455,2025-07-29,Gujarat,Ahmedabad,Returning,Tablet,Electronics,3,15583,Credit Card,5.0,46749
+10960,2025-07-29,Andhra Pradesh,Visakhapatnam,New,Camera,Electronics,5,80087,Cash on Delivery,3.4,400435
+10228,2025-07-30,Delhi,New Delhi,Returning,Printer,Office Equipment,3,30791,Credit Card,4.9,92373
+10007,2025-07-30,Tamil Nadu,Chennai,Returning,Smartphone,Electronics,1,17730,Debit Card,3.2,17730
+11121,2025-07-31,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,4,63567,UPI,4.7,254268
+11379,2025-07-31,Andhra Pradesh,Vijayawada,New,Printer,Office Equipment,4,19606,Cash on Delivery,4.4,78424
+10152,2025-08-01,Delhi,New Delhi,New,Tablet,Electronics,1,18334,Cash on Delivery,3.5,18334
+11145,2025-08-01,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,4,29403,Net Banking,4.2,117612
+11479,2025-08-01,West Bengal,Siliguri,New,Smartwatch,Electronics,3,21145,Debit Card,3.6,63435
+10475,2025-08-01,Maharashtra,Pune,Returning,Laptop,Electronics,4,116927,Debit Card,4.6,467708
+10596,2025-08-02,Rajasthan,Jaipur,Returning,Television,Electronics,2,121444,Debit Card,3.8,242888
+10150,2025-08-02,Rajasthan,Udaipur,New,Television,Electronics,5,47856,Credit Card,2.9,239280
+10889,2025-08-02,Maharashtra,Mumbai,Returning,Television,Electronics,2,28521,UPI,4.0,57042
+10381,2025-08-02,Karnataka,Mangaluru,Returning,Television,Electronics,4,47388,Debit Card,2.6,189552
+11439,2025-08-02,Telangana,Hyderabad,Returning,Television,Electronics,1,138961,Cash on Delivery,4.6,138961
+11271,2025-08-03,Tamil Nadu,Coimbatore,Returning,Smartphone,Electronics,2,42373,Debit Card,4.5,84746
+10718,2025-08-03,Karnataka,Mysuru,New,Tablet,Electronics,1,58091,Net Banking,4.6,58091
+11273,2025-08-03,Maharashtra,Nagpur,New,Smartphone,Electronics,5,22386,Credit Card,4.5,111930
+10626,2025-08-04,Telangana,Warangal,Returning,Smartphone,Electronics,4,35760,Net Banking,3.6,143040
+10935,2025-08-04,Delhi,New Delhi,Returning,Laptop,Electronics,4,83729,Debit Card,3.6,334916
+10241,2025-08-06,Tamil Nadu,Coimbatore,New,Smartphone,Electronics,3,72430,Debit Card,4.1,217290
+10900,2025-08-06,Delhi,Delhi,Returning,Headphones,Electronics,4,2674,Net Banking,4.8,10696
+11283,2025-08-06,Tamil Nadu,Coimbatore,New,Smartphone,Electronics,4,67390,Cash on Delivery,4.0,269560
+10785,2025-08-06,Gujarat,Vadodara,Returning,Printer,Office Equipment,5,16549,Cash on Delivery,4.0,82745
+11310,2025-08-07,Tamil Nadu,Madurai,New,Smartphone,Electronics,4,61703,UPI,4.4,246812
+10282,2025-08-07,Andhra Pradesh,Visakhapatnam,Returning,Television,Electronics,2,26221,Credit Card,3.4,52442
+10072,2025-08-08,Telangana,Warangal,Returning,Headphones,Electronics,1,7772,UPI,3.1,7772
+10197,2025-08-08,Telangana,Hyderabad,New,Smartphone,Electronics,5,54598,Net Banking,3.1,272990
+10070,2025-08-08,Rajasthan,Udaipur,Returning,Headphones,Electronics,1,12923,Debit Card,4.1,12923
+11085,2025-08-09,Gujarat,Surat,New,Smartwatch,Electronics,4,12202,Net Banking,3.6,48808
+10320,2025-08-10,Maharashtra,Pune,Returning,Smartphone,Electronics,4,50185,Debit Card,3.1,200740
+10963,2025-08-11,Telangana,Warangal,Returning,Tablet,Electronics,5,27400,Credit Card,4.3,137000
+10479,2025-08-11,Telangana,Hyderabad,New,Smartphone,Electronics,2,49333,UPI,4.9,98666
+10885,2025-08-13,West Bengal,Kolkata,Returning,Laptop,Electronics,2,48203,Credit Card,4.7,96406
+10894,2025-08-14,Telangana,Hyderabad,Returning,Smartwatch,Electronics,2,29430,UPI,2.7,58860
+10235,2025-08-14,Telangana,Hyderabad,New,Television,Electronics,5,119694,Credit Card,4.5,598470
+10806,2025-08-15,Karnataka,Mangaluru,Returning,Smartphone,Electronics,4,43315,UPI,4.6,173260
+10164,2025-08-15,Kerala,Kozhikode,New,Television,Electronics,5,55340,UPI,4.5,276700
+10835,2025-08-15,Telangana,Warangal,New,Printer,Office Equipment,3,7131,UPI,4.9,21393
+10271,2025-08-15,Kerala,Kozhikode,Returning,Television,Electronics,4,39581,Credit Card,3.4,158324
+10221,2025-08-15,Karnataka,Mysuru,Returning,Smartphone,Electronics,1,13605,Debit Card,3.3,13605
+10622,2025-08-16,Andhra Pradesh,Visakhapatnam,New,Printer,Office Equipment,3,7630,Cash on Delivery,3.9,22890
+10079,2025-08-16,Karnataka,Mysuru,Returning,Tablet,Electronics,3,52481,Cash on Delivery,4.0,157443
+10880,2025-08-16,Tamil Nadu,Madurai,Returning,Tablet,Electronics,3,56476,Debit Card,4.2,169428
+11312,2025-08-18,Maharashtra,Nagpur,New,Laptop,Electronics,1,59390,UPI,4.4,59390
+10860,2025-08-18,Rajasthan,Jaipur,Returning,Smartphone,Electronics,1,31324,UPI,4.1,31324
+10721,2025-08-19,West Bengal,Siliguri,Returning,Smartwatch,Electronics,1,21789,UPI,3.2,21789
+10361,2025-08-20,Kerala,Kozhikode,New,Camera,Electronics,3,111988,Debit Card,4.0,335964
+10911,2025-08-21,Karnataka,Bengaluru,Returning,Printer,Office Equipment,4,25939,Cash on Delivery,4.5,103756
+10724,2025-08-21,West Bengal,Kolkata,Returning,Television,Electronics,3,33016,Net Banking,3.2,99048
+10406,2025-08-21,Delhi,Delhi,New,Smartwatch,Electronics,5,21434,Net Banking,3.4,107170
+10542,2025-08-22,Delhi,Delhi,New,Headphones,Electronics,2,7362,Cash on Delivery,4.1,14724
+10970,2025-08-23,Telangana,Warangal,New,Television,Electronics,2,39222,Cash on Delivery,3.6,78444
+10472,2025-08-23,Kerala,Thiruvananthapuram,New,Headphones,Electronics,5,10017,Cash on Delivery,3.1,50085
+10788,2025-08-23,Tamil Nadu,Coimbatore,Returning,Headphones,Electronics,3,5825,Net Banking,2.9,17475
+10834,2025-08-23,Andhra Pradesh,Visakhapatnam,New,Laptop,Electronics,2,79565,Cash on Delivery,3.9,159130
+10807,2025-08-24,Kerala,Kozhikode,New,Headphones,Electronics,4,2299,Net Banking,4.9,9196
+11357,2025-08-25,Delhi,Delhi,New,Headphones,Electronics,4,3775,UPI,3.5,15100
+10184,2025-08-26,Karnataka,Mangaluru,New,Laptop,Electronics,1,103531,UPI,4.4,103531
+11495,2025-08-27,Tamil Nadu,Madurai,Returning,Camera,Electronics,4,117105,UPI,2.9,468420
+11219,2025-08-28,Telangana,Warangal,Returning,Tablet,Electronics,2,59316,Debit Card,4.8,118632
+10430,2025-08-28,Maharashtra,Mumbai,New,Smartwatch,Electronics,1,26329,Credit Card,2.7,26329
+10763,2025-08-29,West Bengal,Siliguri,New,Smartwatch,Electronics,5,9867,Debit Card,4.2,49335
+11452,2025-08-30,Gujarat,Surat,Returning,Camera,Electronics,4,58085,UPI,4.5,232340
+10941,2025-08-30,Maharashtra,Nagpur,Returning,Tablet,Electronics,3,18433,Debit Card,3.3,55299
+10141,2025-08-31,West Bengal,Kolkata,New,Smartwatch,Electronics,3,19362,Debit Card,5.0,58086
+10998,2025-09-02,Gujarat,Ahmedabad,New,Smartphone,Electronics,4,43625,Debit Card,2.8,174500
+11188,2025-09-02,Maharashtra,Mumbai,Returning,Printer,Office Equipment,3,33014,Cash on Delivery,2.7,99042
+10546,2025-09-02,Maharashtra,Pune,Returning,Smartwatch,Electronics,1,2560,UPI,4.3,2560
+10608,2025-09-03,Gujarat,Surat,Returning,Headphones,Electronics,3,11754,Cash on Delivery,3.4,35262
+10215,2025-09-04,Rajasthan,Jodhpur,New,Smartphone,Electronics,3,15084,Net Banking,3.3,45252
+11038,2025-09-04,Rajasthan,Udaipur,New,Camera,Electronics,2,113657,Credit Card,2.5,227314
+11000,2025-09-04,Rajasthan,Jaipur,Returning,Smartphone,Electronics,1,53136,Debit Card,2.6,53136
+10946,2025-09-05,Delhi,Delhi,Returning,Laptop,Electronics,4,66751,UPI,4.8,267004
+11109,2025-09-05,Delhi,Delhi,New,Camera,Electronics,4,44187,Cash on Delivery,3.4,176748
+10257,2025-09-05,Rajasthan,Jodhpur,New,Smartwatch,Electronics,5,24694,Net Banking,2.9,123470
+11344,2025-09-05,Maharashtra,Nagpur,Returning,Tablet,Electronics,4,18949,Debit Card,4.5,75796
+11374,2025-09-05,Gujarat,Ahmedabad,Returning,Smartphone,Electronics,2,33120,Cash on Delivery,3.7,66240
+10081,2025-09-07,Delhi,Delhi,Returning,Printer,Office Equipment,5,7181,UPI,4.8,35905
+10434,2025-09-07,Tamil Nadu,Madurai,Returning,Television,Electronics,3,55693,UPI,2.9,167079
+10281,2025-09-08,Andhra Pradesh,Vijayawada,New,Camera,Electronics,4,79460,Net Banking,4.8,317840
+10833,2025-09-09,Telangana,Warangal,New,Headphones,Electronics,3,8727,Net Banking,4.6,26181
+11429,2025-09-09,Gujarat,Ahmedabad,Returning,Laptop,Electronics,1,58180,Cash on Delivery,3.3,58180
+10980,2025-09-09,Telangana,Hyderabad,New,Headphones,Electronics,3,7401,Net Banking,3.9,22203
+11153,2025-09-11,Maharashtra,Mumbai,New,Camera,Electronics,5,59765,Net Banking,4.0,298825
+10044,2025-09-11,Rajasthan,Jaipur,New,Headphones,Electronics,5,4534,UPI,2.8,22670
+11112,2025-09-11,Gujarat,Vadodara,Returning,Television,Electronics,5,47959,UPI,3.6,239795
+10160,2025-09-11,Gujarat,Vadodara,New,Laptop,Electronics,2,54873,Cash on Delivery,4.8,109746
+10326,2025-09-12,West Bengal,Siliguri,New,Smartwatch,Electronics,1,25004,Cash on Delivery,4.4,25004
+11024,2025-09-12,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,2,31917,Cash on Delivery,3.0,63834
+11068,2025-09-13,Delhi,Delhi,New,Camera,Electronics,1,33446,UPI,4.2,33446
+11440,2025-09-13,Maharashtra,Mumbai,Returning,Smartwatch,Electronics,3,29933,UPI,4.5,89799
+10681,2025-09-14,Maharashtra,Nagpur,Returning,Tablet,Electronics,5,49895,Net Banking,2.8,249475
+11334,2025-09-15,Kerala,Kozhikode,Returning,Smartphone,Electronics,5,27123,Net Banking,4.1,135615
+10468,2025-09-15,Maharashtra,Nagpur,Returning,Headphones,Electronics,5,1498,Cash on Delivery,3.1,7490
+10193,2025-09-16,Gujarat,Vadodara,Returning,Television,Electronics,5,52966,UPI,2.5,264830
+10688,2025-09-17,Andhra Pradesh,Vijayawada,Returning,Tablet,Electronics,3,35693,Debit Card,4.3,107079
+10200,2025-09-17,Andhra Pradesh,Visakhapatnam,New,Smartphone,Electronics,2,25798,Credit Card,3.2,51596
+10993,2025-09-17,Andhra Pradesh,Vijayawada,Returning,Smartphone,Electronics,3,18727,Debit Card,5.0,56181
+10057,2025-09-17,Maharashtra,Mumbai,New,Camera,Electronics,1,109307,Credit Card,3.4,109307
+10029,2025-09-17,Delhi,Delhi,Returning,Smartwatch,Electronics,3,28843,Net Banking,3.8,86529
+10751,2025-09-17,Telangana,Hyderabad,New,Printer,Office Equipment,3,28439,Credit Card,2.8,85317
+10211,2025-09-17,Tamil Nadu,Chennai,New,Smartwatch,Electronics,5,5295,Net Banking,3.2,26475
+11486,2025-09-18,Maharashtra,Nagpur,New,Camera,Electronics,1,30495,UPI,3.3,30495
+10053,2025-09-18,Kerala,Thiruvananthapuram,New,Laptop,Electronics,3,62065,Net Banking,3.8,186195
+11359,2025-09-19,Telangana,Warangal,New,Television,Electronics,2,136680,Net Banking,3.9,273360
+10383,2025-09-19,Tamil Nadu,Madurai,New,Smartwatch,Electronics,4,23529,Cash on Delivery,4.8,94116
+10544,2025-09-19,West Bengal,Siliguri,Returning,Laptop,Electronics,3,119219,Credit Card,3.1,357657
+11185,2025-09-19,Kerala,Thiruvananthapuram,Returning,Laptop,Electronics,4,76099,Net Banking,4.1,304396
+10380,2025-09-19,Tamil Nadu,Madurai,New,Laptop,Electronics,5,48775,Debit Card,3.9,243875
+10821,2025-09-20,West Bengal,Siliguri,New,Smartphone,Electronics,1,56387,Cash on Delivery,3.2,56387
+10664,2025-09-21,Telangana,Warangal,New,Printer,Office Equipment,3,23607,UPI,4.1,70821
+10224,2025-09-22,Maharashtra,Mumbai,New,Smartphone,Electronics,4,41265,Cash on Delivery,4.4,165060
+10314,2025-09-22,West Bengal,Kolkata,New,Camera,Electronics,1,99694,Net Banking,3.9,99694
+11036,2025-09-22,West Bengal,Siliguri,Returning,Smartwatch,Electronics,5,20015,Net Banking,4.4,100075
+10686,2025-09-22,Maharashtra,Nagpur,New,Television,Electronics,4,43345,Debit Card,4.6,173380
+10454,2025-09-23,Karnataka,Mysuru,Returning,Headphones,Electronics,4,12845,UPI,4.9,51380
+11340,2025-09-23,Maharashtra,Nagpur,Returning,Smartwatch,Electronics,4,15830,Debit Card,3.3,63320
+11059,2025-09-23,Telangana,Warangal,Returning,Smartphone,Electronics,4,17812,Debit Card,3.9,71248
+10925,2025-09-24,West Bengal,Kolkata,Returning,Laptop,Electronics,3,76624,Net Banking,4.8,229872
+10605,2025-09-24,Delhi,Delhi,New,Camera,Electronics,5,125764,Cash on Delivery,3.7,628820
+10428,2025-09-25,Telangana,Warangal,Returning,Printer,Office Equipment,3,12509,Cash on Delivery,4.1,37527
+10190,2025-09-25,Delhi,New Delhi,Returning,Camera,Electronics,4,86431,Credit Card,3.3,345724
+10331,2025-09-25,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,4,22796,UPI,2.6,91184
+10470,2025-09-25,Rajasthan,Jaipur,Returning,Tablet,Electronics,1,12809,Cash on Delivery,3.2,12809
+10172,2025-09-25,Karnataka,Mysuru,Returning,Headphones,Electronics,2,1066,Credit Card,4.1,2132
+10209,2025-09-26,West Bengal,Siliguri,New,Laptop,Electronics,5,52601,Cash on Delivery,3.4,263005
+10073,2025-09-27,Maharashtra,Pune,New,Laptop,Electronics,1,112163,UPI,3.5,112163
+11209,2025-09-27,Rajasthan,Jodhpur,New,Smartwatch,Electronics,4,14626,Debit Card,4.7,58504
+10297,2025-09-27,Telangana,Warangal,New,Television,Electronics,5,115558,Net Banking,3.1,577790
+11370,2025-09-28,Telangana,Hyderabad,Returning,Tablet,Electronics,2,38362,Net Banking,2.9,76724
+11094,2025-09-28,Maharashtra,Nagpur,New,Tablet,Electronics,3,16479,Debit Card,4.8,49437
+10978,2025-09-29,Gujarat,Ahmedabad,New,Television,Electronics,5,114496,Debit Card,4.3,572480
+10254,2025-09-29,Gujarat,Surat,Returning,Headphones,Electronics,3,9302,Net Banking,3.1,27906
+11147,2025-09-29,Maharashtra,Nagpur,Returning,Smartwatch,Electronics,1,28519,Debit Card,3.7,28519
+10252,2025-09-30,Kerala,Kozhikode,New,Camera,Electronics,2,123264,UPI,2.6,246528
+10593,2025-09-30,Tamil Nadu,Madurai,New,Headphones,Electronics,4,9895,Debit Card,3.0,39580
+10997,2025-09-30,West Bengal,Kolkata,Returning,Printer,Office Equipment,2,21692,Debit Card,3.7,43384
+10822,2025-10-01,Rajasthan,Jodhpur,Returning,Television,Electronics,4,134965,UPI,4.4,539860
+10988,2025-10-01,Telangana,Hyderabad,Returning,Headphones,Electronics,4,14169,Credit Card,3.0,56676
+11050,2025-10-01,Maharashtra,Pune,Returning,Smartphone,Electronics,2,36904,Debit Card,3.3,73808
+11405,2025-10-02,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,3,32445,Net Banking,4.7,97335
+10301,2025-10-02,Telangana,Warangal,Returning,Laptop,Electronics,1,47716,Credit Card,3.5,47716
+10339,2025-10-03,Gujarat,Vadodara,New,Tablet,Electronics,3,43214,Credit Card,4.5,129642
+10484,2025-10-04,Rajasthan,Udaipur,Returning,Headphones,Electronics,1,2820,Net Banking,2.9,2820
+10654,2025-10-04,Tamil Nadu,Coimbatore,New,Television,Electronics,2,40056,Net Banking,3.8,80112
+11465,2025-10-04,Karnataka,Mysuru,New,Printer,Office Equipment,5,17601,Net Banking,4.2,88005
+10145,2025-10-04,Karnataka,Mysuru,Returning,Television,Electronics,5,117800,UPI,4.6,589000
+10952,2025-10-04,Tamil Nadu,Coimbatore,New,Smartphone,Electronics,3,70144,Net Banking,4.2,210432
+10239,2025-10-04,Rajasthan,Jodhpur,Returning,Printer,Office Equipment,4,23647,UPI,4.0,94588
+11065,2025-10-05,Maharashtra,Mumbai,New,Tablet,Electronics,4,47927,Net Banking,2.6,191708
+10563,2025-10-05,Tamil Nadu,Madurai,Returning,Television,Electronics,3,140654,Net Banking,3.7,421962
+10910,2025-10-05,Tamil Nadu,Chennai,New,Smartwatch,Electronics,4,11565,Credit Card,4.5,46260
+11110,2025-10-06,Maharashtra,Mumbai,Returning,Headphones,Electronics,2,12957,UPI,3.6,25914
+10480,2025-10-06,Rajasthan,Udaipur,Returning,Smartwatch,Electronics,1,19076,Credit Card,2.9,19076
+10250,2025-10-06,Karnataka,Bengaluru,Returning,Camera,Electronics,4,56186,Cash on Delivery,3.9,224744
+10587,2025-10-07,West Bengal,Kolkata,Returning,Smartphone,Electronics,4,61178,Debit Card,3.2,244712
+11097,2025-10-07,Kerala,Thiruvananthapuram,Returning,Smartwatch,Electronics,3,17135,Net Banking,2.7,51405
+10730,2025-10-08,Andhra Pradesh,Visakhapatnam,New,Tablet,Electronics,5,48367,Debit Card,2.6,241835
+10295,2025-10-08,Karnataka,Bengaluru,Returning,Smartphone,Electronics,5,64949,UPI,3.7,324745
+11071,2025-10-09,Rajasthan,Jaipur,Returning,Headphones,Electronics,4,11949,UPI,4.9,47796
+11098,2025-10-10,Karnataka,Mysuru,Returning,Television,Electronics,5,126379,Net Banking,4.7,631895
+11215,2025-10-10,Delhi,New Delhi,Returning,Printer,Office Equipment,5,16347,UPI,4.3,81735
+11248,2025-10-10,Tamil Nadu,Madurai,Returning,Headphones,Electronics,1,13153,Net Banking,4.5,13153
+11462,2025-10-10,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,3,18357,Debit Card,3.1,55071
+11324,2025-10-10,Maharashtra,Mumbai,New,Smartwatch,Electronics,5,4748,Cash on Delivery,3.9,23740
+10194,2025-10-10,Karnataka,Bengaluru,New,Smartwatch,Electronics,3,28857,Net Banking,4.6,86571
+10384,2025-10-10,West Bengal,Siliguri,Returning,Tablet,Electronics,1,28445,Net Banking,3.4,28445
+10302,2025-10-11,Gujarat,Ahmedabad,Returning,Headphones,Electronics,2,1190,Debit Card,3.5,2380
+11347,2025-10-11,Tamil Nadu,Coimbatore,New,Tablet,Electronics,3,15670,UPI,4.6,47010
+10599,2025-10-11,Karnataka,Mangaluru,New,Laptop,Electronics,2,85544,Credit Card,4.6,171088
+11494,2025-10-12,Andhra Pradesh,Visakhapatnam,New,Smartphone,Electronics,4,61476,Net Banking,2.7,245904
+10658,2025-10-13,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,4,14273,Net Banking,4.9,57092
+10313,2025-10-13,Rajasthan,Udaipur,Returning,Laptop,Electronics,2,76973,Credit Card,2.8,153946
+10646,2025-10-14,Telangana,Hyderabad,New,Camera,Electronics,4,45977,Cash on Delivery,4.4,183908
+10113,2025-10-16,Telangana,Hyderabad,New,Laptop,Electronics,3,72464,Debit Card,2.8,217392
+10253,2025-10-16,Andhra Pradesh,Visakhapatnam,Returning,Camera,Electronics,3,108087,Debit Card,4.5,324261
+11266,2025-10-16,Delhi,New Delhi,New,Printer,Office Equipment,1,25029,Net Banking,3.5,25029
+10715,2025-10-17,Delhi,Delhi,Returning,Printer,Office Equipment,3,16468,Debit Card,4.1,49404
+10695,2025-10-17,Karnataka,Bengaluru,New,Smartwatch,Electronics,5,15482,Debit Card,3.8,77410
+10757,2025-10-17,Karnataka,Mysuru,New,Tablet,Electronics,4,49472,UPI,3.6,197888
+10506,2025-10-17,Andhra Pradesh,Visakhapatnam,New,Smartwatch,Electronics,5,25313,Debit Card,4.8,126565
+11105,2025-10-17,Tamil Nadu,Coimbatore,New,Television,Electronics,5,125992,UPI,3.7,629960
+10393,2025-10-18,Karnataka,Mysuru,New,Television,Electronics,2,122739,Debit Card,3.5,245478
+10671,2025-10-19,Tamil Nadu,Coimbatore,New,Headphones,Electronics,3,13653,Debit Card,4.1,40959
+10797,2025-10-20,Telangana,Warangal,Returning,Tablet,Electronics,5,17067,Credit Card,4.5,85335
+10766,2025-10-21,Rajasthan,Udaipur,New,Laptop,Electronics,2,56397,Cash on Delivery,3.2,112794
+10483,2025-10-21,Telangana,Warangal,New,Printer,Office Equipment,5,7410,Debit Card,4.9,37050
+10139,2025-10-21,Andhra Pradesh,Visakhapatnam,New,Laptop,Electronics,4,104123,Cash on Delivery,3.1,416492
+10956,2025-10-21,Karnataka,Mysuru,New,Television,Electronics,1,22779,UPI,4.4,22779
+11309,2025-10-22,Rajasthan,Udaipur,New,Printer,Office Equipment,3,24881,Net Banking,4.1,74643
+11418,2025-10-22,Gujarat,Vadodara,Returning,Smartphone,Electronics,5,63588,Credit Card,4.9,317940
+10058,2025-10-22,Andhra Pradesh,Vijayawada,New,Camera,Electronics,1,125997,UPI,4.8,125997
+10716,2025-10-22,West Bengal,Siliguri,Returning,Laptop,Electronics,5,101398,Net Banking,4.3,506990
+10467,2025-10-23,West Bengal,Kolkata,Returning,Camera,Electronics,5,101981,Net Banking,3.0,509905
+11392,2025-10-23,Tamil Nadu,Chennai,New,Camera,Electronics,3,79205,Cash on Delivery,4.6,237615
+10177,2025-10-24,Karnataka,Mysuru,New,Television,Electronics,2,90152,Credit Card,3.6,180304
+11391,2025-10-26,Telangana,Warangal,New,Headphones,Electronics,2,14407,UPI,2.9,28814
+10581,2025-10-27,Rajasthan,Jodhpur,New,Television,Electronics,5,102821,Net Banking,5.0,514105
+10431,2025-10-28,Kerala,Kochi,New,Laptop,Electronics,3,90212,Net Banking,3.4,270636
+10348,2025-10-28,Delhi,Delhi,New,Camera,Electronics,5,63737,Credit Card,4.4,318685
+10923,2025-10-28,Kerala,Kozhikode,New,Camera,Electronics,4,55935,Debit Card,3.9,223740
+11349,2025-10-28,Kerala,Thiruvananthapuram,Returning,Printer,Office Equipment,2,11567,Debit Card,3.5,23134
+10396,2025-10-29,Karnataka,Mangaluru,Returning,Laptop,Electronics,5,59626,Credit Card,4.9,298130
+10048,2025-10-29,Kerala,Kochi,Returning,Smartphone,Electronics,1,15159,Cash on Delivery,3.6,15159
+10273,2025-10-29,Gujarat,Vadodara,New,Camera,Electronics,3,26462,Credit Card,4.0,79386
+10962,2025-10-29,Karnataka,Mysuru,Returning,Smartwatch,Electronics,3,21214,UPI,4.4,63642
+10660,2025-10-30,Telangana,Hyderabad,Returning,Tablet,Electronics,3,16858,Debit Card,4.7,50574
+10024,2025-10-30,Andhra Pradesh,Vijayawada,Returning,Television,Electronics,3,62422,UPI,3.8,187266
+10804,2025-10-30,West Bengal,Siliguri,Returning,Camera,Electronics,2,30499,Cash on Delivery,3.8,60998
+11075,2025-10-30,Andhra Pradesh,Vijayawada,Returning,Laptop,Electronics,5,106465,Net Banking,4.1,532325
+11454,2025-10-30,West Bengal,Kolkata,Returning,Television,Electronics,3,70654,UPI,2.7,211962
+11401,2025-10-31,Gujarat,Vadodara,Returning,Camera,Electronics,3,106914,UPI,2.6,320742
+10620,2025-10-31,Rajasthan,Jodhpur,Returning,Headphones,Electronics,3,4174,UPI,3.9,12522
+10800,2025-10-31,Rajasthan,Jodhpur,Returning,Laptop,Electronics,2,103446,Net Banking,4.1,206892
+10338,2025-10-31,Rajasthan,Jaipur,New,Smartphone,Electronics,4,52205,UPI,4.7,208820
+10103,2025-11-01,Delhi,Delhi,Returning,Smartwatch,Electronics,2,22437,Credit Card,3.0,44874
+10568,2025-11-01,Tamil Nadu,Chennai,New,Laptop,Electronics,1,69700,Net Banking,4.3,69700
+11130,2025-11-02,Gujarat,Ahmedabad,Returning,Camera,Electronics,1,36831,Net Banking,3.7,36831
+10170,2025-11-03,Maharashtra,Nagpur,Returning,Television,Electronics,2,123016,UPI,3.1,246032
+10246,2025-11-03,Gujarat,Ahmedabad,New,Smartwatch,Electronics,5,25972,Debit Card,3.6,129860
+10881,2025-11-03,Karnataka,Bengaluru,New,Tablet,Electronics,2,40825,UPI,4.4,81650
+11187,2025-11-04,West Bengal,Kolkata,Returning,Smartwatch,Electronics,2,5651,Cash on Delivery,4.9,11302
+11322,2025-11-05,Gujarat,Surat,Returning,Smartwatch,Electronics,2,8116,Debit Card,2.8,16232
+11146,2025-11-06,Kerala,Kozhikode,New,Printer,Office Equipment,3,8681,Net Banking,2.7,26043
+11470,2025-11-07,Kerala,Thiruvananthapuram,Returning,Television,Electronics,2,130350,Debit Card,4.7,260700
+10990,2025-11-07,West Bengal,Kolkata,New,Headphones,Electronics,5,5497,UPI,4.4,27485
+10473,2025-11-07,West Bengal,Kolkata,Returning,Tablet,Electronics,2,46547,Credit Card,3.7,93094
+11463,2025-11-08,Tamil Nadu,Chennai,Returning,Smartwatch,Electronics,2,22441,Debit Card,4.5,44882
+10272,2025-11-09,Gujarat,Surat,New,Smartwatch,Electronics,3,24924,Debit Card,3.1,74772
+10095,2025-11-09,Delhi,Delhi,New,Camera,Electronics,1,84251,Cash on Delivery,2.6,84251
+10059,2025-11-09,Andhra Pradesh,Visakhapatnam,New,Camera,Electronics,1,54320,Debit Card,4.5,54320
+11178,2025-11-09,Gujarat,Vadodara,Returning,Laptop,Electronics,1,82335,Cash on Delivery,3.7,82335
+10729,2025-11-09,Maharashtra,Pune,Returning,Printer,Office Equipment,1,20792,Net Banking,3.1,20792
+10837,2025-11-09,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,4,1815,Credit Card,4.3,7260
+11232,2025-11-09,Karnataka,Mysuru,New,Laptop,Electronics,4,78132,Cash on Delivery,4.0,312528
+11477,2025-11-10,Delhi,Delhi,New,Television,Electronics,2,140770,Credit Card,4.6,281540
+10248,2025-11-10,Gujarat,Vadodara,Returning,Smartwatch,Electronics,2,5417,UPI,4.1,10834
+10097,2025-11-10,Rajasthan,Jaipur,New,Tablet,Electronics,4,32499,Net Banking,4.1,129996
+10012,2025-11-10,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,2,15081,UPI,4.0,30162
+11395,2025-11-10,Rajasthan,Jaipur,Returning,Camera,Electronics,3,89341,UPI,3.4,268023
+11060,2025-11-11,Gujarat,Surat,New,Laptop,Electronics,4,45654,Debit Card,4.2,182616
+11342,2025-11-11,Tamil Nadu,Chennai,Returning,Camera,Electronics,1,56556,UPI,3.1,56556
+11210,2025-11-11,Andhra Pradesh,Vijayawada,New,Camera,Electronics,1,114131,Net Banking,3.0,114131
+11120,2025-11-13,Andhra Pradesh,Vijayawada,Returning,Camera,Electronics,1,108308,Debit Card,3.6,108308
+10403,2025-11-14,Delhi,Delhi,New,Camera,Electronics,2,34130,Cash on Delivery,4.7,68260
+11292,2025-11-14,Rajasthan,Jodhpur,Returning,Headphones,Electronics,5,5222,Credit Card,3.5,26110
+11258,2025-11-14,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,3,36660,UPI,2.5,109980
+11467,2025-11-15,Rajasthan,Udaipur,Returning,Headphones,Electronics,1,9061,Net Banking,3.3,9061
+10006,2025-11-15,West Bengal,Kolkata,New,Smartwatch,Electronics,2,17245,Debit Card,5.0,34490
+11408,2025-11-15,Rajasthan,Jodhpur,Returning,Smartwatch,Electronics,4,23911,Cash on Delivery,3.2,95644
+10315,2025-11-16,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,3,23151,UPI,4.3,69453
+10652,2025-11-16,Maharashtra,Mumbai,New,Camera,Electronics,5,117172,Cash on Delivery,3.0,585860
+10723,2025-11-17,Karnataka,Mysuru,Returning,Smartwatch,Electronics,5,17373,Cash on Delivery,4.6,86865
+11027,2025-11-18,Karnataka,Mangaluru,Returning,Laptop,Electronics,4,70938,Credit Card,2.8,283752
+11287,2025-11-18,Delhi,Delhi,Returning,Smartphone,Electronics,2,25382,Debit Card,2.9,50764
+10708,2025-11-18,Tamil Nadu,Coimbatore,New,Smartwatch,Electronics,1,26389,Net Banking,3.1,26389
+10642,2025-11-19,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,4,26667,Debit Card,3.2,106668
+11054,2025-11-20,Gujarat,Ahmedabad,New,Camera,Electronics,2,100148,Debit Card,3.7,200296
+10441,2025-11-20,Delhi,New Delhi,New,Tablet,Electronics,3,50067,Cash on Delivery,3.8,150201
+10342,2025-11-20,Rajasthan,Jodhpur,Returning,Smartwatch,Electronics,3,20224,Debit Card,2.7,60672
+10524,2025-11-21,Telangana,Hyderabad,Returning,Camera,Electronics,1,108053,Debit Card,2.9,108053
+10771,2025-11-21,West Bengal,Kolkata,New,Laptop,Electronics,2,87317,Debit Card,3.2,174634
+11290,2025-11-21,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,2,16344,Debit Card,4.5,32688
+10337,2025-11-21,Maharashtra,Pune,Returning,Smartwatch,Electronics,4,10807,Debit Card,2.6,43228
+11116,2025-11-22,Tamil Nadu,Madurai,New,Tablet,Electronics,3,58353,UPI,3.8,175059
+10825,2025-11-22,Kerala,Thiruvananthapuram,New,Camera,Electronics,1,45659,Cash on Delivery,3.9,45659
+11329,2025-11-22,Delhi,New Delhi,Returning,Television,Electronics,5,94231,Credit Card,2.6,471155
+10667,2025-11-23,Telangana,Hyderabad,Returning,Smartwatch,Electronics,2,22121,Credit Card,3.7,44242
+10304,2025-11-23,Telangana,Hyderabad,New,Smartwatch,Electronics,1,20219,Debit Card,3.1,20219
+11044,2025-11-23,Rajasthan,Jaipur,New,Camera,Electronics,3,121894,Credit Card,3.4,365682
+10111,2025-11-23,Karnataka,Mysuru,Returning,Television,Electronics,3,27349,Net Banking,3.1,82047
+11076,2025-11-23,Gujarat,Surat,Returning,Smartwatch,Electronics,5,13696,Credit Card,2.5,68480
+10637,2025-11-25,Maharashtra,Pune,Returning,Tablet,Electronics,2,28984,Net Banking,4.9,57968
+10815,2025-11-25,Andhra Pradesh,Vijayawada,New,Camera,Electronics,4,102355,Net Banking,4.2,409420
+10972,2025-11-27,Karnataka,Bengaluru,Returning,Tablet,Electronics,2,59383,UPI,4.0,118766
+10884,2025-11-27,Gujarat,Vadodara,New,Camera,Electronics,3,65056,Net Banking,5.0,195168
+11397,2025-11-27,Rajasthan,Udaipur,New,Camera,Electronics,3,106837,Cash on Delivery,3.2,320511
+10907,2025-11-27,Rajasthan,Jaipur,New,Printer,Office Equipment,5,10127,Net Banking,3.6,50635
+11247,2025-11-27,Kerala,Kozhikode,New,Smartwatch,Electronics,3,19336,Credit Card,4.6,58008
+10448,2025-11-28,Karnataka,Mangaluru,Returning,Printer,Office Equipment,1,6567,Cash on Delivery,4.0,6567
+10424,2025-11-28,Delhi,New Delhi,New,Laptop,Electronics,5,111985,Credit Card,2.8,559925
+10984,2025-11-28,Tamil Nadu,Chennai,New,Television,Electronics,4,71428,UPI,4.9,285712
+10352,2025-11-28,Andhra Pradesh,Vijayawada,Returning,Smartphone,Electronics,5,27386,Debit Card,3.5,136930
+10973,2025-11-29,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,4,2917,Net Banking,4.4,11668
+10417,2025-11-29,West Bengal,Kolkata,Returning,Television,Electronics,1,48307,Cash on Delivery,3.1,48307
+10319,2025-11-30,Gujarat,Ahmedabad,New,Camera,Electronics,3,95474,Credit Card,4.5,286422
+11431,2025-12-01,Rajasthan,Udaipur,New,Tablet,Electronics,2,46931,Cash on Delivery,4.9,93862
+11216,2025-12-02,West Bengal,Kolkata,New,Smartwatch,Electronics,4,12890,Credit Card,4.8,51560
+11190,2025-12-03,Telangana,Warangal,Returning,Laptop,Electronics,3,117590,Debit Card,3.5,352770
+10639,2025-12-03,Delhi,New Delhi,Returning,Smartphone,Electronics,1,72942,Credit Card,3.5,72942
+10732,2025-12-03,Maharashtra,Pune,Returning,Camera,Electronics,4,88456,Cash on Delivery,2.8,353824
+11399,2025-12-04,West Bengal,Siliguri,Returning,Printer,Office Equipment,4,12194,Cash on Delivery,4.0,48776
+10247,2025-12-04,Karnataka,Mangaluru,Returning,Television,Electronics,3,25586,UPI,4.2,76758
+11403,2025-12-04,Telangana,Warangal,Returning,Smartphone,Electronics,5,41777,Net Banking,4.0,208885
+11279,2025-12-04,Rajasthan,Jodhpur,Returning,Television,Electronics,4,125056,Cash on Delivery,4.5,500224
+10924,2025-12-05,Rajasthan,Jaipur,Returning,Printer,Office Equipment,4,11998,UPI,4.6,47992
+11212,2025-12-05,Maharashtra,Mumbai,New,Tablet,Electronics,3,22118,Credit Card,3.2,66354
+11186,2025-12-06,West Bengal,Kolkata,New,Smartphone,Electronics,2,51385,Credit Card,3.6,102770
+11366,2025-12-07,Maharashtra,Mumbai,New,Tablet,Electronics,3,56289,Cash on Delivery,3.2,168867
+11450,2025-12-07,Karnataka,Bengaluru,New,Printer,Office Equipment,4,10315,UPI,3.7,41260
+10578,2025-12-07,Tamil Nadu,Coimbatore,Returning,Smartphone,Electronics,3,47897,Cash on Delivery,4.5,143691
+10402,2025-12-07,Karnataka,Mysuru,New,Tablet,Electronics,1,49536,Debit Card,4.5,49536
+10069,2025-12-08,Delhi,New Delhi,New,Television,Electronics,4,34678,Debit Card,3.5,138712
+11124,2025-12-08,Tamil Nadu,Madurai,Returning,Tablet,Electronics,3,17242,Credit Card,3.1,51726
+10439,2025-12-09,Kerala,Kochi,New,Tablet,Electronics,1,49008,UPI,2.5,49008
+10768,2025-12-09,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,3,5243,Debit Card,4.4,15729
+10349,2025-12-09,Maharashtra,Nagpur,New,Smartphone,Electronics,2,21265,UPI,3.8,42530
+10571,2025-12-09,Maharashtra,Pune,Returning,Laptop,Electronics,2,50269,Cash on Delivery,4.8,100538
+11129,2025-12-09,Gujarat,Vadodara,New,Smartphone,Electronics,5,40742,Credit Card,4.2,203710
+10407,2025-12-10,Tamil Nadu,Coimbatore,Returning,Printer,Office Equipment,2,9225,Net Banking,2.7,18450
+10138,2025-12-10,Telangana,Warangal,Returning,Camera,Electronics,2,48283,Debit Card,5.0,96566
+10533,2025-12-10,Telangana,Hyderabad,New,Smartphone,Electronics,4,36354,Cash on Delivery,3.5,145416
+11301,2025-12-11,Delhi,Delhi,Returning,Printer,Office Equipment,3,23196,Credit Card,3.7,69588
+10376,2025-12-13,Gujarat,Ahmedabad,Returning,Tablet,Electronics,5,37125,Credit Card,5.0,185625
+10368,2025-12-14,Telangana,Hyderabad,Returning,Television,Electronics,3,61505,Credit Card,4.1,184515
+10650,2025-12-15,Karnataka,Mangaluru,Returning,Headphones,Electronics,4,7257,UPI,2.8,29028
+10050,2025-12-15,Gujarat,Surat,Returning,Smartphone,Electronics,5,74766,Net Banking,4.5,373830
+11032,2025-12-15,Telangana,Hyderabad,New,Smartwatch,Electronics,2,11965,Debit Card,4.8,23930
+10016,2025-12-16,Telangana,Hyderabad,Returning,Television,Electronics,4,34997,Credit Card,4.3,139988
+10466,2025-12-16,West Bengal,Kolkata,Returning,Laptop,Electronics,3,78686,Credit Card,4.6,236058
+11327,2025-12-18,Gujarat,Surat,New,Printer,Office Equipment,2,15514,Credit Card,4.0,31028
+11006,2025-12-18,Gujarat,Vadodara,New,Camera,Electronics,2,129657,UPI,3.8,259314
+10218,2025-12-19,Delhi,New Delhi,Returning,Smartphone,Electronics,2,12731,Debit Card,4.5,25462
+10996,2025-12-20,West Bengal,Siliguri,Returning,Smartphone,Electronics,2,44427,Credit Card,4.1,88854
+10117,2025-12-20,West Bengal,Kolkata,New,Camera,Electronics,4,108791,Debit Card,3.7,435164
+10286,2025-12-20,Gujarat,Surat,Returning,Tablet,Electronics,4,57124,Debit Card,2.8,228496
+10573,2025-12-20,Kerala,Kochi,New,Tablet,Electronics,3,58467,Credit Card,3.2,175401
+10758,2025-12-20,Telangana,Hyderabad,New,Smartwatch,Electronics,4,18396,Debit Card,3.3,73584
+11066,2025-12-20,Telangana,Warangal,Returning,Camera,Electronics,3,54087,Cash on Delivery,4.1,162261
+10692,2025-12-21,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,2,6364,UPI,4.4,12728
+10803,2025-12-21,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,5,7447,Cash on Delivery,4.8,37235
+10054,2025-12-22,Maharashtra,Mumbai,New,Headphones,Electronics,2,6254,Cash on Delivery,2.9,12508
+10831,2025-12-22,Rajasthan,Jodhpur,Returning,Laptop,Electronics,3,115726,Credit Card,4.3,347178
+11117,2025-12-23,Gujarat,Ahmedabad,New,Television,Electronics,1,103788,Net Banking,2.6,103788
+10474,2025-12-23,Telangana,Hyderabad,New,Laptop,Electronics,4,87818,Cash on Delivery,4.9,351272
+10986,2025-12-23,Kerala,Kochi,New,Camera,Electronics,2,82939,Credit Card,4.8,165878
+10700,2025-12-24,Tamil Nadu,Madurai,New,Tablet,Electronics,2,54755,Cash on Delivery,4.1,109510
+10706,2025-12-24,Maharashtra,Mumbai,Returning,Camera,Electronics,1,57924,Cash on Delivery,3.9,57924
+10690,2025-12-24,Maharashtra,Pune,Returning,Smartwatch,Electronics,4,21885,Net Banking,4.1,87540
+11047,2025-12-25,Maharashtra,Mumbai,Returning,Tablet,Electronics,2,55337,Credit Card,4.9,110674
+10583,2025-12-25,Karnataka,Mangaluru,Returning,Television,Electronics,2,96896,Debit Card,4.6,193792
+10928,2025-12-26,Gujarat,Vadodara,New,Smartwatch,Electronics,5,16233,Credit Card,3.7,81165
+10501,2025-12-26,Rajasthan,Jodhpur,New,Smartwatch,Electronics,1,6268,Debit Card,4.6,6268
+11280,2025-12-27,Delhi,New Delhi,Returning,Laptop,Electronics,5,94597,Cash on Delivery,3.3,472985
+10377,2025-12-27,Kerala,Kochi,New,Tablet,Electronics,1,44758,Debit Card,2.6,44758
+10944,2025-12-27,Gujarat,Surat,New,Laptop,Electronics,3,108753,UPI,4.9,326259
+10387,2025-12-28,Telangana,Hyderabad,Returning,Printer,Office Equipment,5,19645,Net Banking,3.2,98225
+10917,2025-12-28,Tamil Nadu,Madurai,New,Tablet,Electronics,4,33508,UPI,3.4,134032
+11003,2025-12-28,Kerala,Thiruvananthapuram,New,Television,Electronics,1,105155,Net Banking,4.7,105155
+11476,2025-12-28,Tamil Nadu,Chennai,New,Smartphone,Electronics,5,42111,Net Banking,2.8,210555
+10404,2025-12-29,Telangana,Hyderabad,Returning,Laptop,Electronics,1,107287,Debit Card,3.2,107287
+11425,2025-12-29,Kerala,Thiruvananthapuram,New,Camera,Electronics,4,81523,Cash on Delivery,4.2,326092
+10540,2025-12-29,Karnataka,Mysuru,Returning,Laptop,Electronics,1,61562,UPI,3.6,61562
+10233,2025-12-30,Maharashtra,Mumbai,Returning,Television,Electronics,3,136178,UPI,3.8,408534
+10493,2025-12-30,Gujarat,Ahmedabad,New,Camera,Electronics,5,102733,Credit Card,3.0,513665
+10061,2025-12-30,Kerala,Kozhikode,New,Tablet,Electronics,1,44924,Cash on Delivery,3.7,44924
+10633,2025-12-31,Rajasthan,Jodhpur,New,Printer,Office Equipment,1,19271,Credit Card,4.3,19271
+10569,2025-12-31,Delhi,Delhi,Returning,Printer,Office Equipment,3,22488,Credit Card,3.2,67464
+11389,2026-01-01,Kerala,Kochi,Returning,Camera,Electronics,5,113442,UPI,3.5,567210
+10201,2026-01-01,Andhra Pradesh,Visakhapatnam,New,Smartwatch,Electronics,5,20058,Credit Card,3.8,100290
+11320,2026-01-02,Delhi,New Delhi,Returning,Smartphone,Electronics,4,69716,Net Banking,3.3,278864
+11369,2026-01-02,Karnataka,Bengaluru,New,Tablet,Electronics,1,59495,Credit Card,3.5,59495
+11096,2026-01-02,Tamil Nadu,Coimbatore,New,Smartwatch,Electronics,3,15661,Credit Card,3.4,46983
+11087,2026-01-03,Maharashtra,Pune,Returning,Camera,Electronics,4,76660,Credit Card,3.7,306640
+11419,2026-01-04,Tamil Nadu,Chennai,New,Headphones,Electronics,5,6517,Cash on Delivery,2.9,32585
+10557,2026-01-04,Karnataka,Bengaluru,New,Smartphone,Electronics,1,73304,Net Banking,3.4,73304
+11382,2026-01-04,Gujarat,Ahmedabad,Returning,Television,Electronics,1,69570,Net Banking,3.2,69570
+11204,2026-01-04,Delhi,New Delhi,New,Television,Electronics,3,141648,Credit Card,4.8,424944
+11362,2026-01-05,Tamil Nadu,Chennai,New,Laptop,Electronics,3,96012,UPI,4.7,288036
+10663,2026-01-05,Tamil Nadu,Madurai,Returning,Camera,Electronics,4,70156,Net Banking,3.0,280624
+10104,2026-01-06,Delhi,New Delhi,New,Smartphone,Electronics,5,24632,UPI,4.1,123160
+10225,2026-01-07,Delhi,New Delhi,Returning,Camera,Electronics,4,57330,UPI,3.1,229320
+11498,2026-01-07,Rajasthan,Udaipur,New,Printer,Office Equipment,3,33948,Cash on Delivery,4.1,101844
+10878,2026-01-08,Telangana,Hyderabad,Returning,Smartphone,Electronics,3,32224,Cash on Delivery,3.9,96672
+11235,2026-01-10,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,2,38408,Debit Card,4.4,76816
+10703,2026-01-10,Maharashtra,Nagpur,Returning,Laptop,Electronics,4,46552,Cash on Delivery,4.1,186208
+10307,2026-01-10,Kerala,Kozhikode,New,Headphones,Electronics,4,13674,Cash on Delivery,4.3,54696
+10489,2026-01-10,Kerala,Kozhikode,Returning,Smartphone,Electronics,1,19465,Cash on Delivery,4.2,19465
+10532,2026-01-11,West Bengal,Siliguri,Returning,Television,Electronics,1,46081,Debit Card,4.9,46081
+10151,2026-01-11,Tamil Nadu,Coimbatore,Returning,Television,Electronics,2,134959,Cash on Delivery,3.8,269918
+11230,2026-01-11,Gujarat,Surat,Returning,Headphones,Electronics,1,11659,Debit Card,4.0,11659
+10316,2026-01-11,West Bengal,Siliguri,New,Laptop,Electronics,3,113694,Debit Card,2.6,341082
+11376,2026-01-12,West Bengal,Siliguri,Returning,Camera,Electronics,1,83655,Net Banking,3.0,83655
+10458,2026-01-12,Tamil Nadu,Coimbatore,New,Television,Electronics,5,94807,Cash on Delivery,2.9,474035
+10230,2026-01-12,Rajasthan,Jaipur,Returning,Tablet,Electronics,2,15074,Debit Card,3.2,30148
+10449,2026-01-13,Karnataka,Bengaluru,New,Smartwatch,Electronics,5,12900,Credit Card,3.0,64500
+10858,2026-01-13,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,2,10507,UPI,4.9,21014
+11175,2026-01-13,Tamil Nadu,Chennai,New,Tablet,Electronics,5,35494,Cash on Delivery,4.7,177470
+11372,2026-01-14,Karnataka,Mysuru,New,Smartwatch,Electronics,2,24282,Cash on Delivery,3.8,48564
+11139,2026-01-14,West Bengal,Siliguri,New,Smartphone,Electronics,4,38627,Debit Card,2.7,154508
+10570,2026-01-14,Tamil Nadu,Madurai,Returning,Tablet,Electronics,4,24820,Debit Card,2.9,99280
+10167,2026-01-14,West Bengal,Siliguri,Returning,Television,Electronics,1,93324,Debit Card,4.0,93324
+10386,2026-01-15,West Bengal,Siliguri,New,Television,Electronics,5,134010,Debit Card,5.0,670050
+10705,2026-01-15,Maharashtra,Pune,New,Headphones,Electronics,4,4085,Cash on Delivery,4.4,16340
+10505,2026-01-15,Rajasthan,Jaipur,Returning,Tablet,Electronics,1,39245,Debit Card,3.3,39245
+10155,2026-01-16,Rajasthan,Jodhpur,New,Printer,Office Equipment,2,12987,Debit Card,4.7,25974
+11137,2026-01-17,Maharashtra,Nagpur,Returning,Tablet,Electronics,1,13666,Cash on Delivery,3.3,13666
+10220,2026-01-17,Gujarat,Surat,Returning,Smartphone,Electronics,3,40022,Credit Card,4.9,120066
+10405,2026-01-17,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,2,13633,UPI,3.6,27266
+10148,2026-01-18,Rajasthan,Udaipur,Returning,Smartwatch,Electronics,1,8797,Cash on Delivery,4.6,8797
+10579,2026-01-18,Rajasthan,Jaipur,New,Tablet,Electronics,4,40930,Net Banking,3.6,163720
+10687,2026-01-19,Andhra Pradesh,Visakhapatnam,Returning,Headphones,Electronics,3,3415,Cash on Delivery,3.6,10245
+10105,2026-01-19,Gujarat,Surat,Returning,Camera,Electronics,5,55607,UPI,4.5,278035
+11123,2026-01-19,Tamil Nadu,Madurai,New,Headphones,Electronics,5,3637,Net Banking,2.6,18185
+11448,2026-01-20,Telangana,Hyderabad,Returning,Smartwatch,Electronics,2,15919,Debit Card,3.8,31838
+10585,2026-01-20,Telangana,Warangal,Returning,Television,Electronics,1,75830,Debit Card,3.2,75830
+10191,2026-01-21,Kerala,Kozhikode,Returning,Printer,Office Equipment,5,29648,Debit Card,2.8,148240
+10465,2026-01-22,West Bengal,Siliguri,Returning,Tablet,Electronics,1,56032,Debit Card,3.3,56032
+11411,2026-01-22,West Bengal,Siliguri,Returning,Laptop,Electronics,5,59266,UPI,2.9,296330
+10850,2026-01-22,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,1,30986,Net Banking,3.1,30986
+11299,2026-01-22,Delhi,New Delhi,Returning,Camera,Electronics,3,66115,UPI,3.1,198345
+10192,2026-01-22,Delhi,Delhi,Returning,Television,Electronics,2,132947,Credit Card,3.5,265894
+10530,2026-01-23,West Bengal,Kolkata,Returning,Headphones,Electronics,3,9082,Net Banking,3.1,27246
+11473,2026-01-24,Telangana,Warangal,New,Printer,Office Equipment,5,12857,Net Banking,4.0,64285
+10955,2026-01-25,Kerala,Kozhikode,New,Camera,Electronics,4,49503,UPI,4.8,198012
+10770,2026-01-25,Karnataka,Mysuru,Returning,Smartphone,Electronics,5,56264,Cash on Delivery,3.8,281320
+10992,2026-01-25,Andhra Pradesh,Vijayawada,New,Headphones,Electronics,1,3135,Debit Card,3.8,3135
+11417,2026-01-25,Karnataka,Mangaluru,Returning,Smartphone,Electronics,4,47362,Net Banking,4.2,189448
+11217,2026-01-25,Karnataka,Bengaluru,Returning,Laptop,Electronics,1,100963,Net Banking,2.7,100963
+11269,2026-01-26,Maharashtra,Mumbai,Returning,Laptop,Electronics,1,48516,Net Banking,3.9,48516
+11118,2026-01-26,Delhi,Delhi,New,Tablet,Electronics,5,41334,Net Banking,4.2,206670
+10144,2026-01-26,Delhi,New Delhi,New,Laptop,Electronics,4,111727,Cash on Delivery,3.9,446908
+10870,2026-01-26,Tamil Nadu,Chennai,Returning,Headphones,Electronics,5,7665,Net Banking,3.4,38325
+11282,2026-01-27,Gujarat,Vadodara,Returning,Laptop,Electronics,2,48626,Debit Card,3.2,97252
+10525,2026-01-27,Delhi,New Delhi,Returning,Smartphone,Electronics,4,35991,Credit Card,3.0,143964
+10277,2026-01-28,Karnataka,Mangaluru,Returning,Tablet,Electronics,3,54414,Cash on Delivery,2.7,163242
+10904,2026-01-28,Maharashtra,Mumbai,Returning,Camera,Electronics,5,92081,UPI,3.8,460405
+10921,2026-01-29,Tamil Nadu,Coimbatore,New,Smartphone,Electronics,5,39302,Credit Card,3.3,196510
+10522,2026-01-30,Telangana,Warangal,Returning,Camera,Electronics,4,71040,Net Banking,3.3,284160
+10231,2026-01-30,Kerala,Thiruvananthapuram,New,Headphones,Electronics,3,11042,Net Banking,5.0,33126
+10609,2026-01-30,Andhra Pradesh,Vijayawada,Returning,Smartwatch,Electronics,2,26365,Net Banking,4.8,52730
+10415,2026-02-01,Kerala,Kochi,New,Headphones,Electronics,2,7468,Debit Card,3.6,14936
+10811,2026-02-01,Tamil Nadu,Coimbatore,Returning,Camera,Electronics,2,32489,UPI,2.9,64978
+10309,2026-02-02,Delhi,Delhi,New,Tablet,Electronics,1,16380,UPI,4.0,16380
+10848,2026-02-02,Kerala,Kozhikode,Returning,Smartwatch,Electronics,5,19916,UPI,4.9,99580
+10031,2026-02-03,Rajasthan,Udaipur,Returning,Headphones,Electronics,2,7040,Net Banking,4.8,14080
+11083,2026-02-03,Tamil Nadu,Madurai,Returning,Smartwatch,Electronics,4,8880,Debit Card,3.0,35520
+10087,2026-02-03,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,3,47881,Debit Card,4.0,143643
+10628,2026-02-03,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,2,55313,Debit Card,2.9,110626
+10038,2026-02-04,Delhi,New Delhi,Returning,Laptop,Electronics,5,46375,Cash on Delivery,4.1,231875
+10074,2026-02-04,Telangana,Hyderabad,Returning,Television,Electronics,5,129968,UPI,3.6,649840
+10275,2026-02-05,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,4,20570,Credit Card,5.0,82280
+10783,2026-02-05,Maharashtra,Mumbai,New,Laptop,Electronics,3,94549,Credit Card,3.1,283647
+11064,2026-02-05,West Bengal,Kolkata,New,Smartphone,Electronics,4,79334,Debit Card,3.2,317336
+11250,2026-02-05,Kerala,Kochi,Returning,Smartphone,Electronics,3,78917,UPI,2.9,236751
+10027,2026-02-05,West Bengal,Siliguri,New,Tablet,Electronics,1,46948,Credit Card,4.6,46948
+11072,2026-02-07,Karnataka,Mysuru,Returning,Laptop,Electronics,5,72200,Net Banking,2.5,361000
+11317,2026-02-07,Tamil Nadu,Coimbatore,New,Smartwatch,Electronics,2,27002,Cash on Delivery,3.3,54004
+11274,2026-02-07,Tamil Nadu,Madurai,New,Headphones,Electronics,2,4555,Net Banking,3.1,9110
+10727,2026-02-07,Gujarat,Ahmedabad,New,Laptop,Electronics,3,52853,Debit Card,3.8,158559
+11277,2026-02-08,Karnataka,Bengaluru,New,Television,Electronics,1,99693,Debit Card,4.9,99693
+10400,2026-02-08,Gujarat,Surat,New,Headphones,Electronics,4,3681,UPI,2.8,14724
+11045,2026-02-08,West Bengal,Siliguri,Returning,Television,Electronics,3,57860,Credit Card,3.7,173580
+11058,2026-02-08,Andhra Pradesh,Visakhapatnam,New,Smartphone,Electronics,2,33672,Cash on Delivery,3.4,67344
+11079,2026-02-09,Karnataka,Mangaluru,New,Headphones,Electronics,2,10436,Debit Card,4.6,20872
+10370,2026-02-10,Delhi,Delhi,New,Smartphone,Electronics,2,74699,Credit Card,2.9,149398
+10360,2026-02-10,Karnataka,Bengaluru,New,Tablet,Electronics,5,57662,Cash on Delivery,2.6,288310
+10008,2026-02-10,Delhi,Delhi,Returning,Smartwatch,Electronics,1,16421,Credit Card,3.4,16421
+10627,2026-02-11,Kerala,Kochi,Returning,Television,Electronics,2,31360,Cash on Delivery,3.6,62720
+11174,2026-02-11,Maharashtra,Nagpur,Returning,Smartphone,Electronics,3,34821,UPI,3.1,104463
+10283,2026-02-11,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,4,25974,Credit Card,3.4,103896
+10067,2026-02-12,Kerala,Kozhikode,Returning,Television,Electronics,3,99436,Net Banking,4.1,298308
+10748,2026-02-12,Tamil Nadu,Chennai,Returning,Laptop,Electronics,5,65085,UPI,4.7,325425
+10481,2026-02-12,Kerala,Thiruvananthapuram,New,Tablet,Electronics,4,49405,Debit Card,3.4,197620
+11368,2026-02-13,Rajasthan,Jodhpur,New,Smartphone,Electronics,4,49661,Net Banking,3.9,198644
+10857,2026-02-13,Gujarat,Surat,Returning,Television,Electronics,1,106437,Debit Card,3.4,106437
+11134,2026-02-15,Andhra Pradesh,Vijayawada,Returning,Tablet,Electronics,4,33205,UPI,3.8,132820
+10746,2026-02-16,Maharashtra,Mumbai,Returning,Printer,Office Equipment,1,25167,Cash on Delivery,3.7,25167
+10895,2026-02-16,Rajasthan,Udaipur,New,Laptop,Electronics,2,109952,Net Banking,4.6,219904
+10930,2026-02-16,Delhi,Delhi,Returning,Smartwatch,Electronics,3,3769,UPI,3.5,11307
+10445,2026-02-16,Gujarat,Ahmedabad,New,Laptop,Electronics,2,68834,UPI,2.9,137668
+11291,2026-02-16,Gujarat,Surat,Returning,Smartwatch,Electronics,1,27167,Debit Card,3.2,27167
+11335,2026-02-17,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,1,7376,UPI,3.6,7376
+11492,2026-02-18,Gujarat,Ahmedabad,New,Tablet,Electronics,4,58773,Credit Card,4.5,235092
+10689,2026-02-18,Tamil Nadu,Chennai,New,Camera,Electronics,4,86607,Debit Card,3.8,346428
+11321,2026-02-18,Karnataka,Mangaluru,Returning,Television,Electronics,2,117228,Credit Card,4.5,234456
+11345,2026-02-18,Delhi,Delhi,New,Tablet,Electronics,5,34518,UPI,3.7,172590
+10068,2026-02-18,Gujarat,Vadodara,New,Smartwatch,Electronics,2,13940,Debit Card,3.9,27880
+10574,2026-02-20,Gujarat,Vadodara,New,Camera,Electronics,4,33320,UPI,3.7,133280
+10625,2026-02-21,Karnataka,Mangaluru,New,Smartphone,Electronics,5,67421,Debit Card,4.1,337105
+10243,2026-02-21,Kerala,Kozhikode,New,Printer,Office Equipment,3,6515,Net Banking,4.9,19545
+11180,2026-02-22,Rajasthan,Udaipur,Returning,Printer,Office Equipment,4,21630,Cash on Delivery,4.0,86520
+10517,2026-02-23,Telangana,Hyderabad,New,Printer,Office Equipment,1,25214,UPI,4.3,25214
+10471,2026-02-23,Delhi,New Delhi,New,Tablet,Electronics,1,47729,Credit Card,3.0,47729
+11206,2026-02-23,West Bengal,Kolkata,Returning,Laptop,Electronics,4,62718,Credit Card,4.8,250872
+11364,2026-02-23,Maharashtra,Pune,New,Smartwatch,Electronics,3,24060,Cash on Delivery,4.9,72180
+10487,2026-02-24,Karnataka,Mangaluru,Returning,Smartphone,Electronics,1,74894,Cash on Delivery,2.6,74894
+11355,2026-02-24,West Bengal,Kolkata,New,Smartwatch,Electronics,3,10337,Net Banking,3.5,31011
+10442,2026-02-24,Maharashtra,Pune,New,Smartwatch,Electronics,5,14023,Debit Card,4.1,70115
+11127,2026-02-24,Maharashtra,Mumbai,New,Camera,Electronics,5,126187,Cash on Delivery,4.7,630935
+11428,2026-02-24,Rajasthan,Udaipur,New,Smartphone,Electronics,3,39926,Net Banking,4.8,119778
+10782,2026-02-25,Gujarat,Surat,Returning,Tablet,Electronics,3,44305,UPI,2.5,132915
+11095,2026-02-25,Andhra Pradesh,Vijayawada,Returning,Smartwatch,Electronics,5,25848,Cash on Delivery,4.7,129240
+11019,2026-02-25,Karnataka,Bengaluru,New,Laptop,Electronics,4,79695,Net Banking,4.7,318780
+10868,2026-02-25,Andhra Pradesh,Vijayawada,New,Television,Electronics,5,30358,Net Banking,3.2,151790
+10510,2026-02-25,Rajasthan,Jaipur,New,Smartwatch,Electronics,5,28598,Net Banking,3.8,142990
+10948,2026-02-26,Andhra Pradesh,Vijayawada,New,Headphones,Electronics,4,4924,Credit Card,2.9,19696
+10120,2026-02-27,Rajasthan,Udaipur,Returning,Smartphone,Electronics,2,13462,Credit Card,3.4,26924
+11171,2026-02-27,Gujarat,Surat,Returning,Smartwatch,Electronics,3,24173,Cash on Delivery,4.3,72519
+10391,2026-02-28,Rajasthan,Jaipur,Returning,Smartphone,Electronics,4,23357,Net Banking,2.9,93428
+10296,2026-02-28,Karnataka,Bengaluru,New,Headphones,Electronics,4,6178,Credit Card,3.5,24712
+10351,2026-02-28,Delhi,Delhi,Returning,Headphones,Electronics,1,4569,Net Banking,3.8,4569
+11296,2026-03-01,Rajasthan,Jaipur,Returning,Tablet,Electronics,4,20725,Credit Card,4.6,82900
+10107,2026-03-01,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,5,5220,UPI,3.3,26100
+11485,2026-03-01,Delhi,New Delhi,Returning,Camera,Electronics,4,100020,Credit Card,3.5,400080
+10092,2026-03-02,Karnataka,Mysuru,Returning,Smartphone,Electronics,3,57201,UPI,4.8,171603
+10300,2026-03-02,Rajasthan,Udaipur,New,Printer,Office Equipment,1,8968,Cash on Delivery,3.3,8968
+10046,2026-03-02,Telangana,Hyderabad,New,Camera,Electronics,5,59650,Debit Card,4.7,298250
+11487,2026-03-02,Karnataka,Mysuru,New,Smartwatch,Electronics,1,13767,Cash on Delivery,4.5,13767
+11009,2026-03-03,West Bengal,Kolkata,New,Television,Electronics,4,117554,Cash on Delivery,3.0,470216
+10518,2026-03-03,Telangana,Warangal,Returning,Tablet,Electronics,4,51081,UPI,2.5,204324
+10169,2026-03-03,Delhi,Delhi,Returning,Camera,Electronics,3,112134,Credit Card,3.6,336402
+10968,2026-03-04,Maharashtra,Pune,Returning,Laptop,Electronics,2,69600,Debit Card,3.5,139200
+11227,2026-03-04,Tamil Nadu,Coimbatore,New,Tablet,Electronics,5,25761,Debit Card,2.6,128805
+10775,2026-03-04,Karnataka,Mysuru,New,Camera,Electronics,4,78785,Credit Card,3.7,315140
+10488,2026-03-05,Tamil Nadu,Chennai,Returning,Laptop,Electronics,5,79635,Cash on Delivery,4.0,398175
+10539,2026-03-06,West Bengal,Siliguri,Returning,Printer,Office Equipment,4,11464,Debit Card,3.8,45856
+10794,2026-03-07,Tamil Nadu,Chennai,Returning,Laptop,Electronics,2,80709,Cash on Delivery,3.5,161418
+10560,2026-03-07,Kerala,Kochi,Returning,Smartphone,Electronics,3,16011,Net Banking,3.1,48033
+10350,2026-03-07,Maharashtra,Pune,New,Headphones,Electronics,1,5813,Cash on Delivery,2.8,5813
+10440,2026-03-07,Gujarat,Vadodara,Returning,Camera,Electronics,5,25215,Cash on Delivery,3.6,126075
+10330,2026-03-08,Rajasthan,Jaipur,Returning,Smartwatch,Electronics,3,14195,Credit Card,4.8,42585
+10394,2026-03-08,West Bengal,Kolkata,Returning,Laptop,Electronics,3,96796,Cash on Delivery,4.3,290388
+10015,2026-03-08,Andhra Pradesh,Vijayawada,New,Smartphone,Electronics,3,34837,Credit Card,4.4,104511
+11106,2026-03-09,Maharashtra,Pune,Returning,Printer,Office Equipment,4,15763,Net Banking,3.7,63052
+10227,2026-03-10,Tamil Nadu,Chennai,Returning,Laptop,Electronics,5,60187,Debit Card,4.5,300935
+10531,2026-03-10,Delhi,New Delhi,New,Smartphone,Electronics,2,52875,Credit Card,2.9,105750
+10906,2026-03-10,Gujarat,Vadodara,Returning,Headphones,Electronics,4,10327,UPI,4.5,41308
+10591,2026-03-11,Telangana,Hyderabad,New,Headphones,Electronics,3,11860,Credit Card,4.5,35580
+10135,2026-03-11,Maharashtra,Nagpur,New,Laptop,Electronics,2,111537,Credit Card,3.0,223074
+11159,2026-03-12,Telangana,Warangal,Returning,Smartphone,Electronics,4,39675,Debit Card,4.1,158700
+11386,2026-03-12,Kerala,Kozhikode,New,Laptop,Electronics,5,117320,Credit Card,5.0,586600
+10165,2026-03-12,Karnataka,Bengaluru,Returning,Printer,Office Equipment,3,11915,Cash on Delivery,2.5,35745
+10311,2026-03-13,Tamil Nadu,Coimbatore,New,Camera,Electronics,2,75906,Debit Card,4.3,151812
+10725,2026-03-13,Karnataka,Bengaluru,Returning,Camera,Electronics,5,67137,Net Banking,3.0,335685
+10829,2026-03-14,Andhra Pradesh,Visakhapatnam,New,Printer,Office Equipment,1,24506,Credit Card,3.5,24506
+10485,2026-03-14,Gujarat,Vadodara,New,Headphones,Electronics,4,3964,Cash on Delivery,3.1,15856
+11037,2026-03-14,Kerala,Kozhikode,New,Tablet,Electronics,1,14763,Debit Card,3.5,14763
+10353,2026-03-14,Tamil Nadu,Chennai,New,Television,Electronics,4,124718,Credit Card,3.0,498872
+10936,2026-03-14,Karnataka,Mysuru,New,Camera,Electronics,2,40734,Net Banking,4.9,81468
+11308,2026-03-15,Delhi,Delhi,Returning,Laptop,Electronics,3,62794,Net Banking,4.1,188382
+10526,2026-03-16,Rajasthan,Jaipur,New,Laptop,Electronics,1,46301,Net Banking,4.2,46301
+10507,2026-03-16,Tamil Nadu,Chennai,New,Printer,Office Equipment,2,18276,Net Banking,3.1,36552
+10389,2026-03-17,Telangana,Warangal,Returning,Laptop,Electronics,5,58668,Credit Card,4.2,293340
+10918,2026-03-17,Telangana,Warangal,New,Smartwatch,Electronics,4,11545,Net Banking,4.3,46180
+10762,2026-03-17,Karnataka,Mysuru,New,Smartwatch,Electronics,5,13181,Credit Card,3.1,65905
+10082,2026-03-17,Rajasthan,Udaipur,Returning,Tablet,Electronics,3,54362,Net Banking,3.1,163086
+10267,2026-03-18,Karnataka,Bengaluru,Returning,Smartphone,Electronics,2,73957,UPI,4.0,147914
+10643,2026-03-19,Karnataka,Bengaluru,Returning,Smartphone,Electronics,5,73247,Debit Card,2.8,366235
+11330,2026-03-19,Delhi,New Delhi,Returning,Laptop,Electronics,4,118606,Credit Card,3.1,474424
+10284,2026-03-19,Tamil Nadu,Coimbatore,New,Tablet,Electronics,1,50537,Cash on Delivery,4.8,50537
+10534,2026-03-19,Tamil Nadu,Madurai,Returning,Smartphone,Electronics,1,30300,Credit Card,3.3,30300
+11407,2026-03-19,Karnataka,Mangaluru,New,Laptop,Electronics,2,61198,Net Banking,3.2,122396
+11151,2026-03-19,Kerala,Kochi,New,Smartwatch,Electronics,1,14778,Debit Card,3.1,14778
+10516,2026-03-20,West Bengal,Kolkata,New,Camera,Electronics,4,52025,Credit Card,4.2,208100
+11461,2026-03-20,Andhra Pradesh,Visakhapatnam,New,Tablet,Electronics,2,43477,Credit Card,2.7,86954
+10106,2026-03-21,Telangana,Warangal,Returning,Smartwatch,Electronics,4,28837,UPI,4.1,115348
+10429,2026-03-21,Kerala,Kochi,Returning,Headphones,Electronics,4,8893,Cash on Delivery,3.5,35572
+11423,2026-03-21,Rajasthan,Jaipur,Returning,Printer,Office Equipment,1,19744,Cash on Delivery,4.1,19744
+10341,2026-03-21,Delhi,New Delhi,Returning,Printer,Office Equipment,3,16516,Cash on Delivery,3.3,49548
+10959,2026-03-22,Kerala,Kochi,New,Headphones,Electronics,2,7495,UPI,4.8,14990
+10983,2026-03-22,Tamil Nadu,Chennai,Returning,Smartwatch,Electronics,3,25956,Cash on Delivery,3.8,77868
+10736,2026-03-22,Delhi,Delhi,Returning,Television,Electronics,1,50699,Debit Card,2.6,50699
+10158,2026-03-23,Tamil Nadu,Coimbatore,Returning,Printer,Office Equipment,5,5787,Credit Card,2.9,28935
+10541,2026-03-24,Andhra Pradesh,Vijayawada,Returning,Smartwatch,Electronics,3,11588,UPI,4.4,34764
+10388,2026-03-25,West Bengal,Kolkata,Returning,Camera,Electronics,4,56105,Debit Card,3.9,224420
+11348,2026-03-25,Delhi,New Delhi,New,Television,Electronics,5,44099,Net Banking,3.3,220495
+11263,2026-03-26,Gujarat,Surat,New,Smartwatch,Electronics,2,14856,Cash on Delivery,3.2,29712
+10453,2026-03-26,Karnataka,Mysuru,Returning,Smartwatch,Electronics,3,10367,UPI,2.7,31101
+10232,2026-03-26,Karnataka,Mysuru,New,Headphones,Electronics,5,8099,UPI,4.7,40495
+10999,2026-03-26,Maharashtra,Nagpur,New,Laptop,Electronics,1,69918,Credit Card,3.4,69918
+10709,2026-03-26,Maharashtra,Mumbai,New,Smartphone,Electronics,1,66675,Debit Card,2.7,66675
+10717,2026-03-27,Tamil Nadu,Chennai,New,Smartphone,Electronics,1,52718,Credit Card,3.4,52718
+10494,2026-03-27,Delhi,New Delhi,Returning,Printer,Office Equipment,3,34511,Debit Card,3.2,103533
+11033,2026-03-27,Rajasthan,Jodhpur,Returning,Printer,Office Equipment,4,8326,Debit Card,2.6,33304
+11236,2026-03-27,Andhra Pradesh,Vijayawada,New,Printer,Office Equipment,3,11571,Net Banking,4.2,34713
+11265,2026-03-28,Rajasthan,Jaipur,Returning,Camera,Electronics,2,40032,UPI,3.0,80064
+10776,2026-03-28,Tamil Nadu,Madurai,Returning,Laptop,Electronics,4,97344,Net Banking,5.0,389376
+11203,2026-03-28,West Bengal,Siliguri,Returning,Headphones,Electronics,2,6755,Net Banking,3.3,13510
+11336,2026-03-28,Rajasthan,Jodhpur,Returning,Television,Electronics,2,45616,Cash on Delivery,3.4,91232
+11226,2026-03-28,Kerala,Thiruvananthapuram,Returning,Laptop,Electronics,1,53605,Net Banking,3.7,53605
+10793,2026-03-28,Tamil Nadu,Chennai,Returning,Smartphone,Electronics,2,38327,Net Banking,4.5,76654
+10954,2026-03-29,West Bengal,Siliguri,Returning,Smartphone,Electronics,1,58097,Debit Card,2.9,58097
+10435,2026-03-29,West Bengal,Siliguri,Returning,Smartwatch,Electronics,1,12324,Credit Card,2.5,12324
+11214,2026-03-29,Telangana,Warangal,New,Tablet,Electronics,3,54980,Cash on Delivery,3.8,164940
+10260,2026-03-30,Maharashtra,Pune,Returning,Television,Electronics,1,95483,Net Banking,4.7,95483
+10189,2026-03-30,Andhra Pradesh,Vijayawada,New,Printer,Office Equipment,5,29059,Cash on Delivery,4.1,145295
+10462,2026-03-30,Karnataka,Mangaluru,New,Tablet,Electronics,3,34746,UPI,2.7,104238
+11453,2026-03-31,Tamil Nadu,Coimbatore,New,Camera,Electronics,3,122064,Debit Card,3.0,366192
+10367,2026-03-31,Gujarat,Ahmedabad,Returning,Printer,Office Equipment,2,14216,Credit Card,4.7,28432
+10808,2026-03-31,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,5,16994,Credit Card,4.7,84970
+10426,2026-04-01,West Bengal,Siliguri,New,Tablet,Electronics,4,34426,UPI,3.3,137704
+10887,2026-04-01,Delhi,New Delhi,Returning,Printer,Office Equipment,4,7244,Debit Card,3.5,28976
+10927,2026-04-01,Maharashtra,Pune,New,Printer,Office Equipment,2,17697,UPI,4.6,35394
+11029,2026-04-01,Delhi,Delhi,Returning,Smartwatch,Electronics,4,24262,Cash on Delivery,4.1,97048
+10740,2026-04-01,Gujarat,Surat,New,Smartwatch,Electronics,2,22651,Cash on Delivery,2.6,45302
+10882,2026-04-02,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,3,15204,Cash on Delivery,3.3,45612
+10234,2026-04-02,Karnataka,Bengaluru,New,Laptop,Electronics,3,45893,Credit Card,4.6,137679
+11493,2026-04-02,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,4,29274,Credit Card,4.6,117096
+11223,2026-04-03,Karnataka,Mysuru,Returning,Laptop,Electronics,5,71660,Net Banking,4.0,358300
+10945,2026-04-04,Tamil Nadu,Madurai,Returning,Laptop,Electronics,5,118620,UPI,3.7,593100
+10817,2026-04-04,Gujarat,Surat,Returning,Smartwatch,Electronics,3,27313,Credit Card,4.3,81939
+10274,2026-04-05,Delhi,New Delhi,New,Smartwatch,Electronics,2,18011,UPI,3.7,36022
+10926,2026-04-06,Rajasthan,Udaipur,Returning,Tablet,Electronics,5,23440,UPI,4.4,117200
+11080,2026-04-07,Delhi,Delhi,Returning,Camera,Electronics,2,112892,Net Banking,2.5,225784
+11241,2026-04-09,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,4,5150,Cash on Delivery,4.2,20600
+10863,2026-04-10,West Bengal,Kolkata,New,Television,Electronics,2,130093,Cash on Delivery,2.5,260186
+11489,2026-04-10,Karnataka,Mangaluru,New,Television,Electronics,3,26743,Credit Card,2.5,80229
+10312,2026-04-10,Maharashtra,Mumbai,New,Camera,Electronics,4,25463,Credit Card,3.0,101852
+10630,2026-04-10,Maharashtra,Mumbai,New,Tablet,Electronics,4,30462,Cash on Delivery,4.0,121848
+10755,2026-04-11,Telangana,Hyderabad,Returning,Smartphone,Electronics,3,26141,UPI,3.7,78423
+10385,2026-04-12,Delhi,New Delhi,New,Camera,Electronics,4,78639,Debit Card,4.2,314556
+10188,2026-04-13,West Bengal,Kolkata,Returning,Television,Electronics,1,115305,Net Banking,2.9,115305
+11295,2026-04-13,West Bengal,Siliguri,Returning,Television,Electronics,3,41395,Cash on Delivery,3.6,124185
+10336,2026-04-14,Tamil Nadu,Chennai,Returning,Laptop,Electronics,1,53802,Net Banking,4.0,53802
+10784,2026-04-16,West Bengal,Kolkata,Returning,Television,Electronics,1,147595,Cash on Delivery,4.3,147595
+10899,2026-04-16,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,4,5067,Credit Card,2.8,20268
+11491,2026-04-16,Maharashtra,Pune,Returning,Printer,Office Equipment,2,10171,Cash on Delivery,4.0,20342
+11107,2026-04-16,Karnataka,Mysuru,Returning,Tablet,Electronics,1,13908,Cash on Delivery,3.8,13908
+10754,2026-04-16,Andhra Pradesh,Visakhapatnam,Returning,Laptop,Electronics,1,101117,UPI,4.9,101117
+10090,2026-04-17,Tamil Nadu,Madurai,New,Headphones,Electronics,1,6622,Debit Card,4.5,6622
+11199,2026-04-19,Karnataka,Mysuru,Returning,Headphones,Electronics,2,7997,Credit Card,4.4,15994
+10710,2026-04-19,Kerala,Kozhikode,Returning,Camera,Electronics,1,98591,UPI,2.7,98591
+11294,2026-04-19,Rajasthan,Udaipur,Returning,Smartphone,Electronics,5,15443,UPI,4.9,77215
+11093,2026-04-20,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,2,7211,Debit Card,3.2,14422
+10520,2026-04-20,Rajasthan,Jaipur,New,Television,Electronics,4,119621,Debit Card,4.6,478484
+10238,2026-04-21,Rajasthan,Udaipur,Returning,Camera,Electronics,3,45863,Net Banking,4.1,137589
+10222,2026-04-21,Rajasthan,Jodhpur,Returning,Camera,Electronics,5,102506,Credit Card,3.0,512530
+10023,2026-04-21,West Bengal,Kolkata,Returning,Smartphone,Electronics,4,75723,Debit Card,3.2,302892
+10176,2026-04-21,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,2,17603,UPI,4.6,35206
+10611,2026-04-21,Telangana,Warangal,New,Laptop,Electronics,1,88601,Net Banking,4.8,88601
+10328,2026-04-22,Gujarat,Ahmedabad,Returning,Television,Electronics,4,36766,Credit Card,3.9,147064
+10223,2026-04-22,Rajasthan,Jaipur,New,Smartphone,Electronics,3,56130,UPI,4.2,168390
+11276,2026-04-22,Karnataka,Mysuru,Returning,Smartwatch,Electronics,4,18512,Cash on Delivery,4.5,74048
+11181,2026-04-22,Delhi,Delhi,Returning,Laptop,Electronics,5,47429,UPI,3.5,237145
+11005,2026-04-23,Telangana,Hyderabad,Returning,Smartwatch,Electronics,5,13654,UPI,3.7,68270
+10519,2026-04-24,Tamil Nadu,Coimbatore,New,Printer,Office Equipment,2,9368,Cash on Delivery,3.6,18736
+10345,2026-04-25,Karnataka,Mysuru,New,Smartphone,Electronics,3,64091,UPI,2.7,192273
+11385,2026-04-25,Delhi,New Delhi,Returning,Tablet,Electronics,5,29156,Debit Card,4.2,145780
+11155,2026-04-25,Delhi,New Delhi,Returning,Smartwatch,Electronics,5,18284,UPI,4.6,91420
+10648,2026-04-25,Rajasthan,Jodhpur,New,Smartwatch,Electronics,2,27205,UPI,4.8,54410
+11326,2026-04-26,Telangana,Hyderabad,Returning,Smartwatch,Electronics,2,13248,UPI,2.8,26496
+10020,2026-04-26,Maharashtra,Mumbai,Returning,Printer,Office Equipment,4,13876,Credit Card,4.8,55504
+10344,2026-04-27,Kerala,Kochi,Returning,Camera,Electronics,1,55480,Net Banking,4.3,55480
+10588,2026-04-28,Telangana,Hyderabad,Returning,Tablet,Electronics,3,16937,Credit Card,4.5,50811
+11220,2026-04-28,West Bengal,Kolkata,New,Printer,Office Equipment,4,12060,Net Banking,2.6,48240
+10256,2026-04-28,Tamil Nadu,Madurai,New,Printer,Office Equipment,5,25711,UPI,2.7,128555
+11319,2026-04-28,West Bengal,Siliguri,Returning,Laptop,Electronics,4,83258,Net Banking,3.4,333032
+10879,2026-04-29,Kerala,Kozhikode,New,Smartwatch,Electronics,1,9423,Cash on Delivery,4.1,9423
+10739,2026-04-29,Kerala,Kozhikode,Returning,Television,Electronics,5,57040,Net Banking,4.1,285200
+10179,2026-04-30,Maharashtra,Nagpur,New,Printer,Office Equipment,4,10730,UPI,3.8,42920
+10548,2026-04-30,Maharashtra,Pune,Returning,Laptop,Electronics,2,108143,Credit Card,4.8,216286
+10444,2026-04-30,Kerala,Kochi,New,Laptop,Electronics,4,113689,Debit Card,4.3,454756
+10226,2026-05-01,West Bengal,Siliguri,Returning,Smartwatch,Electronics,3,5433,Cash on Delivery,2.7,16299
+10196,2026-05-01,Gujarat,Vadodara,Returning,Laptop,Electronics,2,62174,Cash on Delivery,2.8,124348
+10528,2026-05-01,Telangana,Warangal,New,Camera,Electronics,4,106463,Cash on Delivery,4.3,425852
+10610,2026-05-02,Gujarat,Surat,Returning,Tablet,Electronics,2,36655,Cash on Delivery,4.8,73310
+10828,2026-05-03,Gujarat,Ahmedabad,New,Smartwatch,Electronics,3,18232,Debit Card,3.7,54696
+10666,2026-05-03,Telangana,Hyderabad,New,Tablet,Electronics,2,29572,Debit Card,2.9,59144
+11207,2026-05-03,Andhra Pradesh,Vijayawada,New,Camera,Electronics,1,112508,Cash on Delivery,4.2,112508
+10567,2026-05-04,West Bengal,Siliguri,Returning,Laptop,Electronics,3,77769,Net Banking,4.6,233307
+11166,2026-05-04,West Bengal,Siliguri,New,Smartphone,Electronics,5,69104,Credit Card,4.7,345520
+11260,2026-05-04,Karnataka,Mysuru,Returning,Camera,Electronics,3,111064,Credit Card,2.5,333192
+10892,2026-05-04,Kerala,Kochi,New,Camera,Electronics,5,54063,UPI,4.2,270315
+10940,2026-05-04,Delhi,Delhi,Returning,Laptop,Electronics,5,107514,Debit Card,4.2,537570
+11414,2026-05-05,Tamil Nadu,Coimbatore,Returning,Headphones,Electronics,5,11234,Net Banking,2.6,56170
+10110,2026-05-05,Tamil Nadu,Coimbatore,Returning,Smartwatch,Electronics,5,23507,Cash on Delivery,3.3,117535
+10931,2026-05-06,Gujarat,Vadodara,Returning,Smartphone,Electronics,4,19868,Cash on Delivery,4.0,79472
+10373,2026-05-07,Kerala,Thiruvananthapuram,New,Television,Electronics,5,134012,Credit Card,3.0,670060
+10976,2026-05-07,Gujarat,Surat,Returning,Smartphone,Electronics,3,20646,UPI,2.5,61938
+10093,2026-05-07,Telangana,Warangal,Returning,Smartwatch,Electronics,2,24963,Net Banking,3.8,49926
+10915,2026-05-07,Rajasthan,Jaipur,New,Laptop,Electronics,2,58749,Net Banking,4.6,117498
+11380,2026-05-08,Delhi,Delhi,New,Smartwatch,Electronics,4,12639,Credit Card,4.6,50556
+10969,2026-05-08,West Bengal,Kolkata,New,Smartphone,Electronics,5,49706,Cash on Delivery,3.9,248530
+11091,2026-05-09,Maharashtra,Pune,Returning,Camera,Electronics,4,103012,Cash on Delivery,2.7,412048
+10334,2026-05-09,Delhi,Delhi,Returning,Headphones,Electronics,5,7146,Credit Card,5.0,35730
+10645,2026-05-09,Karnataka,Mysuru,Returning,Tablet,Electronics,1,53194,Cash on Delivery,3.3,53194
+10416,2026-05-09,Telangana,Warangal,New,Television,Electronics,5,109156,Debit Card,3.6,545780
+10124,2026-05-09,Delhi,New Delhi,Returning,Tablet,Electronics,2,26252,Net Banking,2.6,52504
+11413,2026-05-09,West Bengal,Siliguri,Returning,Printer,Office Equipment,5,7440,Debit Card,3.7,37200
+11007,2026-05-10,Telangana,Warangal,New,Television,Electronics,2,114948,UPI,2.8,229896
+11311,2026-05-10,Gujarat,Vadodara,Returning,Camera,Electronics,5,69354,UPI,2.9,346770
+11499,2026-05-10,Maharashtra,Nagpur,Returning,Television,Electronics,4,96311,Net Banking,4.1,385244
+10805,2026-05-11,Rajasthan,Jodhpur,New,Tablet,Electronics,5,49041,Debit Card,4.3,245205
+11138,2026-05-11,Delhi,Delhi,Returning,Smartphone,Electronics,4,49045,Net Banking,2.9,196180
+10577,2026-05-12,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,1,13240,UPI,3.9,13240
+10584,2026-05-14,Andhra Pradesh,Vijayawada,New,Headphones,Electronics,1,6398,Debit Card,4.2,6398
+11040,2026-05-14,West Bengal,Siliguri,Returning,Smartwatch,Electronics,5,17320,Cash on Delivery,2.7,86600
+10629,2026-05-14,Andhra Pradesh,Vijayawada,New,Headphones,Electronics,2,14502,Credit Card,3.8,29004
+11240,2026-05-15,Andhra Pradesh,Vijayawada,Returning,Smartwatch,Electronics,2,8968,Cash on Delivery,4.9,17936
+10040,2026-05-15,Kerala,Kochi,New,Camera,Electronics,2,47092,Debit Card,4.5,94184
+10561,2026-05-15,Kerala,Thiruvananthapuram,New,Smartphone,Electronics,1,31782,Credit Card,2.9,31782
+10871,2026-05-16,Kerala,Kozhikode,New,Smartphone,Electronics,1,57689,Cash on Delivery,4.8,57689
+10290,2026-05-16,Karnataka,Mysuru,New,Printer,Office Equipment,5,18639,Credit Card,4.0,93195
+10866,2026-05-17,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,3,13517,Net Banking,3.7,40551
+10799,2026-05-17,Delhi,New Delhi,New,Television,Electronics,4,103521,Net Banking,2.7,414084
+11402,2026-05-18,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,4,5678,UPI,2.5,22712
+11410,2026-05-19,Kerala,Thiruvananthapuram,Returning,Headphones,Electronics,3,14349,UPI,4.0,43047
+10171,2026-05-19,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,4,34703,Credit Card,4.5,138812
+11143,2026-05-19,Telangana,Hyderabad,Returning,Smartphone,Electronics,2,41475,Net Banking,2.6,82950
+10886,2026-05-19,Telangana,Warangal,Returning,Camera,Electronics,1,85241,Net Banking,4.9,85241
+10039,2026-05-20,Maharashtra,Pune,Returning,Television,Electronics,1,119485,Debit Card,4.6,119485
+11092,2026-05-20,Andhra Pradesh,Visakhapatnam,Returning,Smartwatch,Electronics,4,10946,Cash on Delivery,3.3,43784
+10364,2026-05-20,Andhra Pradesh,Vijayawada,New,Smartphone,Electronics,2,27581,UPI,2.6,55162
+10482,2026-05-20,West Bengal,Kolkata,New,Smartphone,Electronics,4,43601,Debit Card,4.3,174404
+11157,2026-05-20,Kerala,Thiruvananthapuram,New,Camera,Electronics,1,127828,Debit Card,4.9,127828
+10213,2026-05-21,Delhi,New Delhi,New,Television,Electronics,2,122892,Credit Card,4.4,245784
+11365,2026-05-22,Kerala,Thiruvananthapuram,Returning,Tablet,Electronics,4,27106,Debit Card,2.7,108424
+10922,2026-05-22,West Bengal,Siliguri,Returning,Printer,Office Equipment,3,16283,Debit Card,3.3,48849
+10293,2026-05-22,Kerala,Kozhikode,Returning,Smartphone,Electronics,2,64335,Net Banking,4.2,128670
+10714,2026-05-23,Gujarat,Ahmedabad,New,Camera,Electronics,1,88752,Debit Card,4.3,88752
+10308,2026-05-23,Telangana,Hyderabad,Returning,Tablet,Electronics,2,30213,Net Banking,3.8,60426
+11333,2026-05-23,Karnataka,Mangaluru,New,Headphones,Electronics,2,4625,Cash on Delivery,4.6,9250
+10175,2026-05-23,Gujarat,Vadodara,New,Laptop,Electronics,1,52533,Net Banking,3.2,52533
+10592,2026-05-24,Kerala,Kozhikode,Returning,Tablet,Electronics,3,35142,Credit Card,4.5,105426
+11416,2026-05-24,Maharashtra,Nagpur,New,Printer,Office Equipment,1,12367,Debit Card,3.8,12367
+11114,2026-05-24,Rajasthan,Udaipur,Returning,Camera,Electronics,4,52105,Credit Card,4.6,208420
+11177,2026-05-24,Rajasthan,Jodhpur,New,Tablet,Electronics,4,28646,Net Banking,4.1,114584
+11126,2026-05-26,Gujarat,Vadodara,New,Television,Electronics,3,126917,Debit Card,3.6,380751
+10636,2026-05-26,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,3,11411,Debit Card,2.6,34233
+11435,2026-05-27,West Bengal,Kolkata,Returning,Television,Electronics,4,78502,Credit Card,3.5,314008
+11022,2026-05-27,West Bengal,Kolkata,New,Smartphone,Electronics,3,61156,Credit Card,4.5,183468
+10323,2026-05-29,Maharashtra,Mumbai,Returning,Smartwatch,Electronics,5,29698,Net Banking,4.1,148490
+10463,2026-05-29,West Bengal,Kolkata,Returning,Smartwatch,Electronics,3,19178,Net Banking,4.9,57534
+11303,2026-05-29,Telangana,Warangal,New,Smartwatch,Electronics,2,16754,UPI,3.0,33508
+11229,2026-05-29,Telangana,Warangal,Returning,Printer,Office Equipment,5,25541,Credit Card,2.6,127705
+10128,2026-05-29,Telangana,Hyderabad,New,Printer,Office Equipment,4,10753,Cash on Delivery,3.9,43012
+11189,2026-05-30,Delhi,Delhi,New,Tablet,Electronics,2,15580,Cash on Delivery,3.4,31160
+11122,2026-05-30,Telangana,Hyderabad,Returning,Television,Electronics,3,77913,UPI,3.7,233739
+10266,2026-05-31,Kerala,Kochi,New,Smartwatch,Electronics,2,9191,Debit Card,4.8,18382
+10901,2026-05-31,Tamil Nadu,Chennai,New,Printer,Office Equipment,5,15875,Cash on Delivery,3.7,79375
+11252,2026-06-01,Maharashtra,Nagpur,Returning,Tablet,Electronics,1,44235,Net Banking,4.3,44235
+10612,2026-06-01,Gujarat,Vadodara,Returning,Laptop,Electronics,2,48114,Cash on Delivery,3.2,96228
+10600,2026-06-01,Karnataka,Mangaluru,Returning,Tablet,Electronics,4,47711,Net Banking,5.0,190844
+10127,2026-06-01,Kerala,Thiruvananthapuram,Returning,Tablet,Electronics,4,44836,Net Banking,4.0,179344
+10965,2026-06-02,Karnataka,Mysuru,New,Smartphone,Electronics,4,26249,Debit Card,3.7,104996
+11288,2026-06-02,Telangana,Hyderabad,New,Smartphone,Electronics,4,16025,Credit Card,4.8,64100
+10874,2026-06-03,Karnataka,Bengaluru,Returning,Smartwatch,Electronics,1,28038,Net Banking,2.6,28038
+11233,2026-06-03,Delhi,Delhi,New,Tablet,Electronics,3,33851,UPI,5.0,101553
+10085,2026-06-03,Gujarat,Ahmedabad,Returning,Television,Electronics,1,104517,UPI,4.2,104517
+10199,2026-06-04,Maharashtra,Nagpur,New,Printer,Office Equipment,4,31431,Net Banking,3.0,125724
+11001,2026-06-04,Karnataka,Mysuru,New,Laptop,Electronics,3,97409,Cash on Delivery,4.1,292227
+10598,2026-06-04,Rajasthan,Jaipur,Returning,Camera,Electronics,4,104737,Debit Card,3.5,418948
+10436,2026-06-04,Karnataka,Mysuru,New,Smartwatch,Electronics,5,29450,Cash on Delivery,4.4,147250
+10967,2026-06-04,Andhra Pradesh,Visakhapatnam,New,Camera,Electronics,4,71825,Credit Card,4.1,287300
+11154,2026-06-05,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,4,18963,Cash on Delivery,3.0,75852
+10792,2026-06-07,Andhra Pradesh,Vijayawada,Returning,Headphones,Electronics,3,4661,Debit Card,5.0,13983
+10975,2026-06-07,Kerala,Kozhikode,New,Printer,Office Equipment,2,34148,Net Banking,4.0,68296
+10203,2026-06-08,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,4,56237,Cash on Delivery,3.5,224948
+10616,2026-06-08,Gujarat,Ahmedabad,New,Headphones,Electronics,3,4644,Credit Card,4.0,13932
+10836,2026-06-09,Andhra Pradesh,Visakhapatnam,Returning,Laptop,Electronics,1,67884,Cash on Delivery,3.0,67884
+11218,2026-06-09,West Bengal,Kolkata,Returning,Camera,Electronics,4,72631,Cash on Delivery,4.9,290524
+10846,2026-06-09,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,3,28792,Credit Card,4.4,86376
+11272,2026-06-10,Andhra Pradesh,Vijayawada,New,Camera,Electronics,1,55270,Credit Card,3.6,55270
+10357,2026-06-11,West Bengal,Siliguri,Returning,Tablet,Electronics,1,34327,Cash on Delivery,2.5,34327
+10876,2026-06-12,West Bengal,Siliguri,Returning,Television,Electronics,2,97534,Cash on Delivery,4.1,195068
+11142,2026-06-12,Delhi,Delhi,Returning,Tablet,Electronics,5,55903,Debit Card,3.0,279515
+11398,2026-06-12,Karnataka,Mangaluru,Returning,Laptop,Electronics,2,110439,UPI,3.1,220878
+10814,2026-06-12,Kerala,Thiruvananthapuram,Returning,Headphones,Electronics,2,3831,Debit Card,3.9,7662
+10701,2026-06-12,Delhi,New Delhi,Returning,Smartwatch,Electronics,5,4648,Cash on Delivery,4.8,23240
+10410,2026-06-13,Telangana,Hyderabad,Returning,Camera,Electronics,1,124809,Debit Card,3.3,124809
+10618,2026-06-13,Maharashtra,Nagpur,Returning,Television,Electronics,3,103123,Net Banking,2.6,309369
+10912,2026-06-13,Gujarat,Vadodara,New,Printer,Office Equipment,5,15492,Debit Card,4.9,77460
+10123,2026-06-13,Tamil Nadu,Coimbatore,Returning,Headphones,Electronics,3,9536,Credit Card,3.6,28608
+11433,2026-06-14,Rajasthan,Jodhpur,Returning,Smartwatch,Electronics,1,18971,Cash on Delivery,4.4,18971
+10146,2026-06-16,Karnataka,Mysuru,Returning,Printer,Office Equipment,3,15860,UPI,3.7,47580
+10726,2026-06-17,Kerala,Thiruvananthapuram,New,Television,Electronics,5,20153,Credit Card,4.2,100765
+10832,2026-06-17,Karnataka,Mysuru,Returning,Smartwatch,Electronics,5,7075,Cash on Delivery,3.9,35375
+10270,2026-06-17,Telangana,Hyderabad,Returning,Smartphone,Electronics,1,75772,Credit Card,4.9,75772
+10208,2026-06-17,Tamil Nadu,Coimbatore,Returning,Television,Electronics,5,20798,Credit Card,4.4,103990
+10083,2026-06-17,Gujarat,Vadodara,New,Headphones,Electronics,3,3296,Net Banking,3.8,9888
+10362,2026-06-17,West Bengal,Kolkata,New,Laptop,Electronics,3,55143,Net Banking,2.7,165429
+10580,2026-06-17,Karnataka,Mysuru,New,Television,Electronics,2,77233,UPI,3.1,154466
+10796,2026-06-17,Delhi,Delhi,New,Tablet,Electronics,5,36905,UPI,4.2,184525
+11464,2026-06-19,Gujarat,Vadodara,Returning,Smartphone,Electronics,5,40716,Debit Card,2.9,203580
+10685,2026-06-19,West Bengal,Kolkata,Returning,Smartwatch,Electronics,1,23096,Net Banking,3.3,23096
+11102,2026-06-20,Tamil Nadu,Madurai,New,Tablet,Electronics,4,11007,Debit Card,3.7,44028
+11103,2026-06-20,West Bengal,Siliguri,Returning,Smartwatch,Electronics,1,25380,Credit Card,2.9,25380
+10854,2026-06-20,Andhra Pradesh,Vijayawada,Returning,Printer,Office Equipment,1,6172,Cash on Delivery,3.7,6172
+10791,2026-06-20,West Bengal,Kolkata,Returning,Printer,Office Equipment,1,20116,Cash on Delivery,2.8,20116
+10216,2026-06-21,Karnataka,Mysuru,Returning,Television,Electronics,5,115865,Cash on Delivery,2.9,579325
+11132,2026-06-21,Kerala,Kozhikode,Returning,Printer,Office Equipment,5,11520,Net Banking,3.6,57600
+10909,2026-06-24,Tamil Nadu,Madurai,New,Tablet,Electronics,2,33004,Debit Card,4.3,66008
+10369,2026-06-24,Telangana,Hyderabad,Returning,Camera,Electronics,4,127478,Cash on Delivery,4.4,509912
+10801,2026-06-24,Karnataka,Mysuru,Returning,Smartphone,Electronics,3,64428,Cash on Delivery,2.5,193284
+10460,2026-06-24,Tamil Nadu,Madurai,Returning,Laptop,Electronics,3,116792,Net Banking,2.6,350376
+10827,2026-06-24,Maharashtra,Mumbai,Returning,Television,Electronics,5,140053,Cash on Delivery,3.2,700265
+10855,2026-06-25,Andhra Pradesh,Vijayawada,New,Smartphone,Electronics,2,70232,Debit Card,3.5,140464
+10547,2026-06-26,West Bengal,Kolkata,Returning,Laptop,Electronics,1,54269,Debit Card,2.9,54269
+10292,2026-06-26,Tamil Nadu,Coimbatore,New,Smartwatch,Electronics,3,12503,UPI,3.4,37509
+11131,2026-06-26,Kerala,Thiruvananthapuram,New,Smartphone,Electronics,2,58762,UPI,3.6,117524
+10011,2026-06-26,Kerala,Kozhikode,New,Laptop,Electronics,3,64023,Net Banking,3.2,192069
+10668,2026-06-26,Telangana,Hyderabad,New,Camera,Electronics,1,29136,Credit Card,2.5,29136
+10064,2026-06-27,West Bengal,Siliguri,Returning,Printer,Office Equipment,3,12257,Debit Card,4.5,36771
+10202,2026-06-28,Karnataka,Mangaluru,New,Laptop,Electronics,4,106084,Net Banking,4.6,424336
+11201,2026-06-28,Rajasthan,Udaipur,New,Smartphone,Electronics,3,72408,Net Banking,4.6,217224
+10735,2026-06-28,Delhi,Delhi,New,Camera,Electronics,1,94904,Cash on Delivery,3.6,94904
+11471,2026-06-28,Andhra Pradesh,Visakhapatnam,Returning,Tablet,Electronics,2,27485,UPI,3.1,54970
+11039,2026-06-30,Telangana,Warangal,Returning,Television,Electronics,5,30828,Debit Card,4.0,154140
+10244,2026-06-30,Gujarat,Ahmedabad,Returning,Printer,Office Equipment,3,20906,Debit Card,3.7,62718
+10047,2026-07-01,Maharashtra,Mumbai,Returning,Smartphone,Electronics,2,33292,Net Banking,2.8,66584
+11483,2026-07-01,Kerala,Thiruvananthapuram,Returning,Smartwatch,Electronics,2,19392,Credit Card,3.9,38784
+10657,2026-07-01,Delhi,New Delhi,New,Headphones,Electronics,3,11686,UPI,3.8,35058
+10291,2026-07-01,Telangana,Hyderabad,Returning,Headphones,Electronics,2,7322,Net Banking,4.2,14644
+10682,2026-07-01,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,1,6220,Net Banking,3.6,6220
+11021,2026-07-02,Telangana,Warangal,New,Tablet,Electronics,2,30536,Credit Card,4.7,61072
+10066,2026-07-02,West Bengal,Kolkata,New,Camera,Electronics,5,73940,UPI,2.6,369700
+11474,2026-07-02,West Bengal,Kolkata,New,Camera,Electronics,2,36620,Cash on Delivery,5.0,73240
+10408,2026-07-03,West Bengal,Kolkata,Returning,Smartwatch,Electronics,1,19480,Credit Card,4.2,19480
+10551,2026-07-03,Andhra Pradesh,Visakhapatnam,Returning,Printer,Office Equipment,5,20323,Cash on Delivery,3.0,101615
+11420,2026-07-03,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,1,119755,UPI,2.8,119755
+10673,2026-07-03,Telangana,Warangal,Returning,Camera,Electronics,5,56376,Debit Card,2.8,281880
+10675,2026-07-03,Karnataka,Mysuru,New,Tablet,Electronics,5,14920,Cash on Delivery,4.4,74600
+11430,2026-07-03,Tamil Nadu,Chennai,New,Printer,Office Equipment,1,32301,Cash on Delivery,3.7,32301
+11404,2026-07-04,Telangana,Warangal,Returning,Smartphone,Electronics,5,38183,Net Banking,3.2,190915
+10288,2026-07-04,Telangana,Warangal,Returning,Tablet,Electronics,3,35783,Net Banking,4.3,107349
+10363,2026-07-04,Andhra Pradesh,Visakhapatnam,Returning,Headphones,Electronics,2,10471,Cash on Delivery,4.3,20942
+11141,2026-07-05,Karnataka,Mysuru,New,Tablet,Electronics,3,13985,Cash on Delivery,3.6,41955
+10276,2026-07-05,Karnataka,Mysuru,New,Laptop,Electronics,5,93665,Credit Card,3.7,468325
+10459,2026-07-05,Maharashtra,Mumbai,Returning,Smartphone,Electronics,1,25329,Cash on Delivery,2.6,25329
+10414,2026-07-05,Karnataka,Mangaluru,Returning,Smartphone,Electronics,1,61112,UPI,3.6,61112
+11078,2026-07-06,Delhi,Delhi,New,Television,Electronics,5,138422,Credit Card,2.9,692110
+11314,2026-07-07,Maharashtra,Nagpur,Returning,Printer,Office Equipment,1,33513,Net Banking,2.6,33513
+10802,2026-07-07,Delhi,New Delhi,Returning,Printer,Office Equipment,5,20126,UPI,2.6,100630
+11086,2026-07-07,Tamil Nadu,Chennai,Returning,Smartwatch,Electronics,5,29035,UPI,2.8,145175
+10409,2026-07-07,Tamil Nadu,Madurai,New,Tablet,Electronics,5,16054,Credit Card,4.6,80270
+10163,2026-07-08,Rajasthan,Udaipur,Returning,Smartphone,Electronics,5,48444,Cash on Delivery,3.9,242220
+10187,2026-07-08,Telangana,Warangal,Returning,Laptop,Electronics,5,61932,Net Banking,4.5,309660
+10572,2026-07-08,West Bengal,Siliguri,Returning,Tablet,Electronics,5,53880,Credit Card,3.6,269400
+10877,2026-07-09,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,3,3382,Net Banking,3.1,10146
+10399,2026-07-09,Rajasthan,Jaipur,Returning,Smartphone,Electronics,4,18449,UPI,3.9,73796
+11222,2026-07-09,Andhra Pradesh,Vijayawada,New,Printer,Office Equipment,3,8057,UPI,4.5,24171
+10078,2026-07-10,Rajasthan,Jodhpur,New,Tablet,Electronics,4,40232,Debit Card,4.3,160928
+10420,2026-07-11,Delhi,New Delhi,Returning,Tablet,Electronics,2,57922,Debit Card,3.2,115844
+10537,2026-07-11,Rajasthan,Udaipur,Returning,Printer,Office Equipment,1,7757,Net Banking,3.6,7757
+11090,2026-07-12,Maharashtra,Nagpur,Returning,Tablet,Electronics,5,43757,Net Banking,4.2,218785
+10845,2026-07-12,Tamil Nadu,Madurai,New,Smartphone,Electronics,2,12534,Cash on Delivery,4.5,25068
+10615,2026-07-12,West Bengal,Siliguri,New,Laptop,Electronics,3,93128,Credit Card,3.4,279384
+11497,2026-07-12,West Bengal,Kolkata,Returning,Smartwatch,Electronics,1,13462,Credit Card,3.3,13462
+10419,2026-07-12,Telangana,Warangal,New,Smartphone,Electronics,4,79087,UPI,4.3,316348
+10287,2026-07-12,Maharashtra,Mumbai,New,Camera,Electronics,1,46045,UPI,3.4,46045
+10953,2026-07-12,Gujarat,Ahmedabad,Returning,Smartwatch,Electronics,4,18302,UPI,4.4,73208
+10606,2026-07-13,Rajasthan,Jaipur,Returning,Camera,Electronics,1,88656,Cash on Delivery,4.2,88656
+11264,2026-07-13,West Bengal,Siliguri,Returning,Laptop,Electronics,1,80897,UPI,4.8,80897
+10513,2026-07-13,Delhi,New Delhi,New,Smartphone,Electronics,5,18080,Net Banking,4.6,90400
+10032,2026-07-13,Tamil Nadu,Coimbatore,Returning,Smartwatch,Electronics,2,22444,Credit Card,4.3,44888
+10183,2026-07-13,Karnataka,Mangaluru,Returning,Printer,Office Equipment,1,21268,Cash on Delivery,2.7,21268
+10938,2026-07-13,Karnataka,Bengaluru,Returning,Tablet,Electronics,5,51337,Debit Card,3.0,256685
+10356,2026-07-13,Andhra Pradesh,Vijayawada,New,Headphones,Electronics,4,11486,Credit Card,3.3,45944
+10981,2026-07-14,Kerala,Thiruvananthapuram,Returning,Printer,Office Equipment,5,17817,Net Banking,3.0,89085
+11328,2026-07-14,West Bengal,Siliguri,Returning,Headphones,Electronics,2,7354,Credit Card,4.1,14708
+11343,2026-07-14,West Bengal,Kolkata,Returning,Smartphone,Electronics,5,33876,UPI,3.7,169380
+10503,2026-07-14,Karnataka,Mysuru,Returning,Printer,Office Equipment,2,12995,Cash on Delivery,4.3,25990
+11158,2026-07-14,Telangana,Warangal,Returning,Tablet,Electronics,3,35009,Credit Card,4.3,105027
+11192,2026-07-15,Maharashtra,Mumbai,Returning,Smartphone,Electronics,4,27823,Credit Card,3.4,111292
+10760,2026-07-15,West Bengal,Siliguri,New,Printer,Office Equipment,2,23895,UPI,4.0,47790
+10142,2026-07-15,Delhi,Delhi,Returning,Smartwatch,Electronics,5,3015,Credit Card,4.6,15075
+10335,2026-07-16,West Bengal,Siliguri,New,Printer,Office Equipment,2,5371,UPI,4.3,10742
+10456,2026-07-17,West Bengal,Siliguri,New,Smartwatch,Electronics,5,7397,Credit Card,3.9,36985
+11164,2026-07-17,Tamil Nadu,Madurai,Returning,Printer,Office Equipment,4,30441,UPI,4.2,121764
+10045,2026-07-17,West Bengal,Kolkata,Returning,Smartphone,Electronics,5,33398,Debit Card,4.0,166990
+10543,2026-07-17,Gujarat,Ahmedabad,New,Printer,Office Equipment,3,20124,UPI,3.6,60372
+10576,2026-07-17,Delhi,New Delhi,Returning,Headphones,Electronics,2,5846,Credit Card,3.5,11692
+10933,2026-07-18,Andhra Pradesh,Vijayawada,Returning,Television,Electronics,4,97909,Debit Card,3.9,391636
+10742,2026-07-18,Gujarat,Vadodara,New,Smartphone,Electronics,3,50762,Net Banking,2.7,152286
+11246,2026-07-19,Kerala,Kochi,New,Headphones,Electronics,5,13236,Cash on Delivery,3.4,66180
+10722,2026-07-19,Gujarat,Surat,New,Smartwatch,Electronics,1,16759,Debit Card,3.7,16759
+10841,2026-07-19,Delhi,New Delhi,Returning,Smartwatch,Electronics,1,19026,Cash on Delivery,3.9,19026
+11115,2026-07-20,Delhi,New Delhi,Returning,Tablet,Electronics,3,10877,Net Banking,3.5,32631
+10651,2026-07-20,Karnataka,Mangaluru,New,Printer,Office Equipment,1,12366,Net Banking,3.5,12366
+10741,2026-07-20,Kerala,Thiruvananthapuram,New,Laptop,Electronics,4,102986,Debit Card,2.5,411944
+10947,2026-07-20,Tamil Nadu,Chennai,Returning,Headphones,Electronics,4,1069,Debit Card,4.6,4276
+10182,2026-07-21,Telangana,Hyderabad,Returning,Headphones,Electronics,2,8465,Debit Card,2.8,16930
+11028,2026-07-21,Andhra Pradesh,Visakhapatnam,Returning,Camera,Electronics,4,84164,Credit Card,3.8,336656
+10719,2026-07-21,Telangana,Warangal,Returning,Smartphone,Electronics,2,38870,Net Banking,2.6,77740
+11472,2026-07-21,Delhi,Delhi,Returning,Television,Electronics,2,40805,Credit Card,4.9,81610
+10511,2026-07-22,Tamil Nadu,Chennai,New,Camera,Electronics,3,97104,Credit Card,4.5,291312
+11421,2026-07-22,Andhra Pradesh,Vijayawada,New,Smartphone,Electronics,2,48307,Debit Card,2.6,96614
+10781,2026-07-22,Delhi,New Delhi,New,Camera,Electronics,2,76658,Credit Card,3.4,153316
+10937,2026-07-23,Rajasthan,Jodhpur,Returning,Smartphone,Electronics,2,54429,Cash on Delivery,4.0,108858
+11253,2026-07-23,Rajasthan,Jodhpur,Returning,Television,Electronics,3,98975,Credit Card,4.5,296925
+11281,2026-07-23,Karnataka,Mangaluru,Returning,Laptop,Electronics,4,84132,Credit Card,3.9,336528
+10063,2026-07-23,Maharashtra,Pune,Returning,Smartwatch,Electronics,5,5080,UPI,4.3,25400
+11424,2026-07-24,Rajasthan,Udaipur,Returning,Television,Electronics,5,39867,Debit Card,4.6,199335
+11289,2026-07-24,Andhra Pradesh,Vijayawada,New,Tablet,Electronics,1,53226,Debit Card,5.0,53226
+10214,2026-07-25,Kerala,Kochi,Returning,Camera,Electronics,1,97833,Cash on Delivery,3.6,97833
+10411,2026-07-25,Andhra Pradesh,Visakhapatnam,Returning,Camera,Electronics,2,73517,Net Banking,5.0,147034
+11148,2026-07-25,Maharashtra,Pune,Returning,Laptop,Electronics,2,87292,Cash on Delivery,4.4,174584
+10140,2026-07-25,Kerala,Kozhikode,New,Television,Electronics,1,122780,Debit Card,3.3,122780
+10994,2026-07-25,Gujarat,Ahmedabad,Returning,Television,Electronics,5,130460,Debit Card,2.5,652300
+10913,2026-07-25,Andhra Pradesh,Vijayawada,New,Smartwatch,Electronics,4,24529,Cash on Delivery,4.5,98116
+10229,2026-07-26,West Bengal,Siliguri,Returning,Headphones,Electronics,5,9516,Credit Card,4.1,47580
+10041,2026-07-27,Rajasthan,Udaipur,New,Camera,Electronics,5,25490,Credit Card,2.6,127450
+11442,2026-07-27,Andhra Pradesh,Visakhapatnam,New,Television,Electronics,3,106923,Credit Card,2.9,320769
+10382,2026-07-27,Gujarat,Ahmedabad,Returning,Television,Electronics,2,143800,Credit Card,3.2,287600
+10697,2026-07-27,Telangana,Hyderabad,Returning,Smartphone,Electronics,4,44919,Cash on Delivery,4.1,179676
+10950,2026-07-27,Tamil Nadu,Madurai,Returning,Television,Electronics,1,50077,Credit Card,3.6,50077
+10116,2026-07-27,Telangana,Hyderabad,Returning,Printer,Office Equipment,3,32553,Net Banking,3.0,97659
+10115,2026-07-27,Karnataka,Mysuru,Returning,Tablet,Electronics,4,47344,Credit Card,3.3,189376
+10476,2026-07-28,Gujarat,Surat,New,Headphones,Electronics,5,1145,UPI,3.2,5725
+11284,2026-07-28,Gujarat,Vadodara,New,Camera,Electronics,1,41645,Net Banking,3.4,41645
+10957,2026-07-28,Kerala,Kozhikode,New,Headphones,Electronics,4,5920,Credit Card,4.8,23680
+10206,2026-07-29,Kerala,Kozhikode,Returning,Laptop,Electronics,1,62118,Debit Card,3.0,62118
+10641,2026-07-29,Karnataka,Mysuru,Returning,Smartwatch,Electronics,1,3166,Net Banking,2.5,3166
+11191,2026-07-29,Andhra Pradesh,Vijayawada,Returning,Smartphone,Electronics,5,52387,Cash on Delivery,2.5,261935
+11388,2026-07-29,Gujarat,Surat,New,Headphones,Electronics,2,2070,UPI,4.3,4140
+10333,2026-07-30,West Bengal,Kolkata,New,Laptop,Electronics,4,59559,Debit Card,2.9,238236
+10523,2026-07-30,Kerala,Thiruvananthapuram,New,Television,Electronics,1,86766,Net Banking,4.7,86766
+10126,2026-07-31,Kerala,Thiruvananthapuram,Returning,Smartwatch,Electronics,1,10313,Net Banking,4.1,10313
+10773,2026-07-31,Karnataka,Mangaluru,New,Smartphone,Electronics,4,57254,UPI,4.3,229016
+10535,2026-08-02,Delhi,Delhi,Returning,Laptop,Electronics,5,109384,Cash on Delivery,2.5,546920
+10372,2026-08-02,Andhra Pradesh,Visakhapatnam,Returning,Television,Electronics,4,45464,Debit Card,2.5,181856
+10265,2026-08-02,Rajasthan,Udaipur,New,Laptop,Electronics,3,55785,Credit Card,3.9,167355
+10669,2026-08-02,West Bengal,Siliguri,Returning,Laptop,Electronics,4,106868,Credit Card,4.3,427472
+10979,2026-08-03,Gujarat,Vadodara,New,Television,Electronics,5,148212,Credit Card,3.2,741060
+11067,2026-08-03,Karnataka,Bengaluru,New,Printer,Office Equipment,2,16618,Credit Card,3.1,33236
+11111,2026-08-04,Delhi,Delhi,Returning,Smartwatch,Electronics,5,6879,Net Banking,2.8,34395
+10049,2026-08-04,Delhi,Delhi,Returning,Television,Electronics,5,118162,Debit Card,4.8,590810
+10100,2026-08-04,Gujarat,Ahmedabad,Returning,Laptop,Electronics,1,106360,Cash on Delivery,2.7,106360
+11184,2026-08-05,Andhra Pradesh,Vijayawada,Returning,Laptop,Electronics,3,113143,Net Banking,4.0,339429
+10055,2026-08-05,Gujarat,Vadodara,New,Tablet,Electronics,1,11073,Net Banking,2.8,11073
+10977,2026-08-05,Kerala,Thiruvananthapuram,Returning,Television,Electronics,1,33543,Debit Card,2.6,33543
+10077,2026-08-05,Rajasthan,Jaipur,Returning,Smartwatch,Electronics,3,20869,Cash on Delivery,4.7,62607
+10617,2026-08-05,West Bengal,Siliguri,New,Smartwatch,Electronics,5,25297,Cash on Delivery,2.8,126485
+10621,2026-08-05,Kerala,Thiruvananthapuram,New,Headphones,Electronics,1,4081,Credit Card,3.5,4081
+11298,2026-08-06,West Bengal,Siliguri,Returning,Printer,Office Equipment,4,33696,UPI,4.7,134784
+10425,2026-08-07,West Bengal,Siliguri,Returning,Laptop,Electronics,1,102608,Net Banking,2.9,102608
+10378,2026-08-07,Maharashtra,Nagpur,New,Television,Electronics,4,25596,Debit Card,5.0,102384
+10693,2026-08-07,Telangana,Hyderabad,Returning,Printer,Office Equipment,5,7708,Debit Card,3.6,38540
+10173,2026-08-09,Telangana,Hyderabad,Returning,Tablet,Electronics,4,58623,Debit Card,3.8,234492
+11304,2026-08-09,Andhra Pradesh,Visakhapatnam,Returning,Smartphone,Electronics,4,40690,Net Banking,3.2,162760
+10844,2026-08-09,Tamil Nadu,Coimbatore,Returning,Smartwatch,Electronics,1,15165,Cash on Delivery,5.0,15165
+10624,2026-08-10,Rajasthan,Jaipur,New,Television,Electronics,1,24321,Credit Card,4.2,24321
+10137,2026-08-11,Rajasthan,Udaipur,New,Television,Electronics,5,67645,Debit Card,3.6,338225
+11070,2026-08-11,Kerala,Kozhikode,New,Camera,Electronics,5,76028,Credit Card,4.8,380140
+10354,2026-08-11,Rajasthan,Udaipur,New,Tablet,Electronics,4,47425,UPI,4.6,189700
+10237,2026-08-11,Delhi,Delhi,New,Camera,Electronics,1,29239,Debit Card,4.6,29239
+11409,2026-08-12,Tamil Nadu,Madurai,Returning,Tablet,Electronics,4,25867,Debit Card,2.9,103468
+10961,2026-08-13,Rajasthan,Jaipur,Returning,Television,Electronics,4,62281,Cash on Delivery,2.6,249124
+10761,2026-08-14,Maharashtra,Nagpur,Returning,Headphones,Electronics,4,1143,UPI,2.5,4572
+11270,2026-08-14,Telangana,Hyderabad,New,Laptop,Electronics,2,64751,UPI,2.7,129502
+11221,2026-08-15,Maharashtra,Pune,New,Tablet,Electronics,3,25504,UPI,3.4,76512
+11011,2026-08-16,West Bengal,Siliguri,Returning,Television,Electronics,3,127798,Net Banking,4.8,383394
+11179,2026-08-16,Maharashtra,Nagpur,New,Laptop,Electronics,4,114351,Credit Card,4.2,457404
+10114,2026-08-16,Tamil Nadu,Chennai,New,Tablet,Electronics,3,52624,Cash on Delivery,4.8,157872
+10002,2026-08-17,Kerala,Kozhikode,New,Television,Electronics,5,145180,Credit Card,4.8,725900
+10443,2026-08-17,Karnataka,Mangaluru,Returning,Tablet,Electronics,1,20364,Debit Card,3.2,20364
+11237,2026-08-18,Maharashtra,Nagpur,Returning,Smartphone,Electronics,4,74580,Debit Card,5.0,298320
+11456,2026-08-18,Gujarat,Ahmedabad,New,Headphones,Electronics,4,8419,Cash on Delivery,2.7,33676
+11338,2026-08-18,Karnataka,Mangaluru,New,Camera,Electronics,2,36182,Net Banking,4.6,72364
+10943,2026-08-19,Gujarat,Surat,Returning,Headphones,Electronics,5,6682,UPI,4.0,33410
+11455,2026-08-19,Tamil Nadu,Chennai,Returning,Printer,Office Equipment,1,11130,UPI,3.8,11130
+10294,2026-08-19,Tamil Nadu,Madurai,New,Television,Electronics,3,118015,Debit Card,4.7,354045
+11318,2026-08-19,Maharashtra,Nagpur,New,Smartphone,Electronics,4,34486,Debit Card,3.6,137944
+11013,2026-08-19,Andhra Pradesh,Vijayawada,Returning,Tablet,Electronics,3,32223,Net Banking,4.3,96669
+10065,2026-08-19,Maharashtra,Pune,Returning,Smartphone,Electronics,5,14159,Cash on Delivery,3.1,70795
+10080,2026-08-19,Rajasthan,Jaipur,New,Camera,Electronics,1,99024,Net Banking,4.2,99024
+10180,2026-08-20,Andhra Pradesh,Visakhapatnam,New,Headphones,Electronics,3,11724,Credit Card,3.6,35172
+10121,2026-08-21,West Bengal,Siliguri,Returning,Smartwatch,Electronics,3,24405,Net Banking,2.8,73215
+10112,2026-08-21,Tamil Nadu,Coimbatore,Returning,Laptop,Electronics,3,116154,Credit Card,3.9,348462
+10958,2026-08-21,Delhi,Delhi,Returning,Television,Electronics,2,20755,Net Banking,3.3,41510
+10324,2026-08-21,West Bengal,Kolkata,Returning,Tablet,Electronics,2,15603,Credit Card,4.7,31206
+10102,2026-08-22,Karnataka,Bengaluru,New,Printer,Office Equipment,2,32773,Cash on Delivery,4.5,65546
+11496,2026-08-22,Delhi,Delhi,New,Smartwatch,Electronics,3,15504,Debit Card,3.3,46512
+11014,2026-08-23,Tamil Nadu,Chennai,Returning,Smartwatch,Electronics,2,5380,Cash on Delivery,2.8,10760
+10166,2026-08-24,Karnataka,Bengaluru,Returning,Smartphone,Electronics,3,17033,Net Banking,4.1,51099
+10987,2026-08-24,West Bengal,Kolkata,Returning,Tablet,Electronics,2,30914,Debit Card,4.9,61828
+11042,2026-08-24,Tamil Nadu,Madurai,Returning,Tablet,Electronics,4,21211,Debit Card,4.1,84844
+10056,2026-08-25,Kerala,Kozhikode,Returning,Laptop,Electronics,5,91511,Debit Card,3.0,457555
+10401,2026-08-25,Telangana,Hyderabad,Returning,Tablet,Electronics,1,45967,Debit Card,2.9,45967
+10037,2026-08-25,Rajasthan,Udaipur,Returning,Headphones,Electronics,3,6014,Debit Card,4.3,18042
+10902,2026-08-25,Karnataka,Mysuru,New,Television,Electronics,3,129876,Cash on Delivery,3.9,389628
+10432,2026-08-25,West Bengal,Siliguri,Returning,Laptop,Electronics,2,54637,Credit Card,4.2,109274
+10285,2026-08-26,Andhra Pradesh,Vijayawada,New,Printer,Office Equipment,2,22071,UPI,3.8,44142
+11030,2026-08-26,Tamil Nadu,Coimbatore,Returning,Tablet,Electronics,1,12663,Credit Card,3.9,12663
+11048,2026-08-26,Delhi,Delhi,New,Headphones,Electronics,2,4159,Debit Card,3.5,8318
+11412,2026-08-26,Karnataka,Mysuru,Returning,Smartwatch,Electronics,3,9154,Credit Card,3.6,27462
+10586,2026-08-27,Andhra Pradesh,Visakhapatnam,New,Smartphone,Electronics,4,17529,Credit Card,4.8,70116
+10154,2026-08-27,Gujarat,Vadodara,New,Smartphone,Electronics,5,18008,Debit Card,2.8,90040
+10865,2026-08-27,Telangana,Hyderabad,New,Camera,Electronics,3,54709,Cash on Delivery,4.4,164127
+10632,2026-08-27,Telangana,Hyderabad,Returning,Printer,Office Equipment,4,19130,Net Banking,3.3,76520
+11043,2026-08-28,Kerala,Kochi,New,Smartwatch,Electronics,2,16069,Net Banking,3.3,32138
+10359,2026-08-28,Andhra Pradesh,Visakhapatnam,New,Printer,Office Equipment,2,26181,Net Banking,3.2,52362
+11371,2026-08-28,Rajasthan,Jodhpur,Returning,Camera,Electronics,5,118794,UPI,4.1,593970
+10464,2026-08-28,Gujarat,Surat,Returning,Smartphone,Electronics,4,49052,Credit Card,2.9,196208
+11046,2026-08-29,Andhra Pradesh,Visakhapatnam,New,Printer,Office Equipment,1,11022,Net Banking,4.9,11022
+11008,2026-08-29,Gujarat,Surat,Returning,Laptop,Electronics,2,66341,Credit Card,3.4,132682
+11400,2026-08-29,Tamil Nadu,Madurai,Returning,Tablet,Electronics,5,15851,Net Banking,4.9,79255
+10795,2026-08-29,Rajasthan,Udaipur,New,Television,Electronics,2,63617,Cash on Delivery,4.6,127234
+10905,2026-08-31,Telangana,Hyderabad,Returning,Smartwatch,Electronics,1,29335,Net Banking,3.4,29335
