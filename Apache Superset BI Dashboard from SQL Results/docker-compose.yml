@@ -1,0 +1,26 @@
+services:
+  superset:
+    build: .
+    container_name: retail-superset
+    ports:
+      - "8088:8088"
+    environment:
+      SUPERSET_SECRET_KEY: change-this-to-a-long-random-value
+    volumes:
+      - superset_home:/app/superset_home
+    command: >
+      /bin/sh -c "
+      superset db upgrade &&
+      (superset fab create-admin
+      --username admin
+      --firstname Admin
+      --lastname User
+      --email admin@example.com
+      --password admin || true) &&
+      superset init &&
+      /usr/bin/run-server.sh
+      "
+    restart: unless-stopped
+
+volumes:
+  superset_home:
