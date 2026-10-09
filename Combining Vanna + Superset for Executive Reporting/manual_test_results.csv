@@ -1,0 +1,11 @@
+test_no,question,generated_sql,manual_review,execution_result,notes
+1,Show all products,,,,
+2,Which products are low in stock?,,,,
+3,Show the 10 most expensive products,,,,
+4,How many orders are there?,,,,
+5,What are the top 10 products by quantity sold?,,,,
+6,List products with stock below 5,,,,
+7,Show products sorted by name,,,,
+8,Count the number of products,,,,
+9,Show the 5 products with the lowest stock,,,,
+10,Show total quantity sold for each product,,,,
