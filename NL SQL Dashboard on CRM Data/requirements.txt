@@ -1,0 +1,8 @@
+
+vanna[chromadb,ollama,postgres]==0.7.9
+fastapi==0.115.12
+uvicorn==0.34.2
+python-dotenv==1.1.0
+sqlglot==26.16.4
+requests==2.32.3
+
