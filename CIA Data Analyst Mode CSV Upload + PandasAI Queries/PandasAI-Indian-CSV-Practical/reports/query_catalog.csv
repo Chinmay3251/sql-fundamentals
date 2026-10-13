@@ -1,0 +1,11 @@
+question_id,natural_language_question
+Q01,What is the total revenue in INR?
+Q02,Which 5 products generated the highest revenue?
+Q03,Which city has the highest total revenue?
+Q04,What is the total quantity sold by category?
+Q05,Which payment method is used most often?
+Q06,What is the average order revenue?
+Q07,What are monthly revenues for 2025?
+Q08,Which region has the highest number of orders?
+Q09,What percentage of orders used a discount?
+Q10,Compare revenue from new and returning customers.

@@ -1,0 +1,601 @@
+order_id,order_date,city,state,region,product,category,quantity,unit_price_inr,discount_pct,revenue_inr,payment_method,customer_type
+IN10001,2025-02-07,Delhi,Delhi,North,Pressure Cooker,Kitchen,4,1600,0.0,6400.0,Net Banking,New
+IN10002,2025-01-20,Delhi,Delhi,North,Basmati Rice,Grocery,5,90,0.0,450.0,UPI,Returning
+IN10003,2025-10-10,Jaipur,Rajasthan,North,Tea Powder,Grocery,2,250,0.0,500.0,Debit Card,New
+IN10004,2025-02-01,Ahmedabad,Gujarat,West,Tea Powder,Grocery,2,250,15.0,425.0,Net Banking,Returning
+IN10005,2025-03-10,Bengaluru,Karnataka,South,Cotton Saree,Clothing,1,1400,15.0,1190.0,Credit Card,Returning
+IN10006,2025-10-14,Hyderabad,Telangana,South,Tea Powder,Grocery,5,250,5.0,1187.5,Cash,New
+IN10007,2025-10-08,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,3,1400,0.0,4200.0,UPI,New
+IN10008,2025-08-07,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,4,1400,15.0,4760.0,Credit Card,Returning
+IN10009,2025-05-08,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,3,130,5.0,370.5,Cash,New
+IN10010,2025-06-25,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,Debit Card,Returning
+IN10011,2025-08-03,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,15.0,212.5,Cash,Returning
+IN10012,2025-12-09,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,130,0.0,520.0,UPI,Returning
+IN10013,2025-10-24,Delhi,Delhi,North,LED Bulb,Electronics,5,180,10.0,810.0,Debit Card,New
+IN10014,2025-02-01,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Credit Card,Returning
+IN10015,2025-08-25,Pune,Maharashtra,West,Sports Shoes,Footwear,3,2400,0.0,7200.0,Credit Card,New
+IN10016,2025-04-22,Ahmedabad,Gujarat,West,Tea Powder,Grocery,4,250,0.0,1000.0,Credit Card,New
+IN10017,2025-02-11,Mumbai,Maharashtra,West,Sports Shoes,Footwear,4,2400,10.0,8640.0,Cash,Returning
+IN10018,2025-10-09,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,2,2100,10.0,3780.0,Credit Card,Returning
+IN10019,2025-02-12,Delhi,Delhi,North,Sports Shoes,Footwear,2,2400,0.0,4800.0,Cash,New
+IN10020,2025-10-29,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,10.0,1260.0,Cash,Returning
+IN10021,2025-10-01,Pune,Maharashtra,West,Basmati Rice,Grocery,2,90,10.0,162.0,Credit Card,Returning
+IN10022,2025-07-20,Hyderabad,Telangana,South,Basmati Rice,Grocery,4,90,15.0,306.0,Debit Card,Returning
+IN10023,2025-02-01,Jaipur,Rajasthan,North,Tea Powder,Grocery,4,250,10.0,900.0,Cash,New
+IN10024,2025-06-24,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,130,0.0,260.0,Net Banking,New
+IN10025,2025-10-02,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,5,90,0.0,450.0,UPI,Returning
+IN10026,2025-11-11,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,1,90,0.0,90.0,Debit Card,New
+IN10027,2025-08-31,Pune,Maharashtra,West,LED Bulb,Electronics,5,180,5.0,855.0,UPI,New
+IN10028,2025-06-09,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,130,10.0,468.0,UPI,New
+IN10029,2025-12-21,Chennai,Tamil Nadu,South,LED Bulb,Electronics,3,180,10.0,486.0,Cash,New
+IN10030,2025-01-14,Mumbai,Maharashtra,West,LED Bulb,Electronics,2,180,15.0,306.0,Net Banking,Returning
+IN10031,2025-03-27,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Credit Card,New
+IN10032,2025-04-10,Kochi,Kerala,South,LED Bulb,Electronics,2,180,15.0,306.0,Cash,Returning
+IN10033,2025-07-02,Mumbai,Maharashtra,West,Cotton Saree,Clothing,5,1400,10.0,6300.0,UPI,New
+IN10034,2025-12-21,Pune,Maharashtra,West,Notebook Pack,Stationery,3,130,0.0,390.0,Net Banking,Returning
+IN10035,2025-04-23,Kolkata,West Bengal,East,LED Bulb,Electronics,3,180,0.0,540.0,UPI,New
+IN10036,2025-09-05,Kolkata,West Bengal,East,Cotton Saree,Clothing,3,1400,0.0,4200.0,Net Banking,New
+IN10037,2025-07-18,Kolkata,West Bengal,East,LED Bulb,Electronics,1,180,0.0,180.0,Cash,Returning
+IN10038,2025-07-22,Hyderabad,Telangana,South,Sports Shoes,Footwear,3,2400,0.0,7200.0,Debit Card,Returning
+IN10039,2025-01-15,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,2,1600,0.0,3200.0,Cash,Returning
+IN10040,2025-10-08,Hyderabad,Telangana,South,Notebook Pack,Stationery,3,130,0.0,390.0,Net Banking,New
+IN10041,2025-03-13,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,15.0,76.5,Debit Card,New
+IN10042,2025-05-30,Mumbai,Maharashtra,West,Basmati Rice,Grocery,3,90,0.0,270.0,Net Banking,New
+IN10043,2025-08-03,Ahmedabad,Gujarat,West,LED Bulb,Electronics,3,180,15.0,459.0,Cash,New
+IN10044,2025-08-04,Delhi,Delhi,North,Notebook Pack,Stationery,5,130,15.0,552.5,Net Banking,New
+IN10045,2025-01-10,Kochi,Kerala,South,Pressure Cooker,Kitchen,5,1600,15.0,6800.0,Debit Card,New
+IN10046,2025-03-14,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,2,90,0.0,180.0,Debit Card,New
+IN10047,2025-09-29,Kochi,Kerala,South,Basmati Rice,Grocery,3,90,15.0,229.5,Net Banking,Returning
+IN10048,2025-05-22,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,2,90,0.0,180.0,UPI,New
+IN10049,2025-02-02,Kochi,Kerala,South,Notebook Pack,Stationery,5,130,0.0,650.0,Debit Card,Returning
+IN10050,2025-09-18,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,3,1400,10.0,3780.0,Net Banking,Returning
+IN10051,2025-10-14,Kochi,Kerala,South,Cotton Saree,Clothing,5,1400,5.0,6650.0,Cash,Returning
+IN10052,2025-08-15,Hyderabad,Telangana,South,Sports Shoes,Footwear,1,2400,10.0,2160.0,Credit Card,New
+IN10053,2025-12-09,Mumbai,Maharashtra,West,Sports Shoes,Footwear,1,2400,0.0,2400.0,Credit Card,New
+IN10054,2025-03-12,Hyderabad,Telangana,South,LED Bulb,Electronics,2,180,5.0,342.0,Debit Card,New
+IN10055,2025-12-08,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,4,2400,0.0,9600.0,Cash,New
+IN10056,2025-04-11,Jaipur,Rajasthan,North,Sports Shoes,Footwear,3,2400,10.0,6480.0,Credit Card,Returning
+IN10057,2025-10-11,Chennai,Tamil Nadu,South,LED Bulb,Electronics,1,180,5.0,171.0,Debit Card,Returning
+IN10058,2025-11-16,Bengaluru,Karnataka,South,Sports Shoes,Footwear,3,2400,15.0,6120.0,Credit Card,New
+IN10059,2025-05-16,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,1,1400,0.0,1400.0,Credit Card,New
+IN10060,2025-12-13,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,2,2100,10.0,3780.0,Credit Card,Returning
+IN10061,2025-05-23,Hyderabad,Telangana,South,Notebook Pack,Stationery,3,130,0.0,390.0,UPI,New
+IN10062,2025-11-21,Jaipur,Rajasthan,North,Tea Powder,Grocery,3,250,0.0,750.0,UPI,Returning
+IN10063,2025-03-04,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,1,1400,5.0,1330.0,Debit Card,New
+IN10064,2025-03-08,Delhi,Delhi,North,Sports Shoes,Footwear,3,2400,15.0,6120.0,UPI,New
+IN10065,2025-04-03,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Cash,Returning
+IN10066,2025-09-14,Pune,Maharashtra,West,Cotton Saree,Clothing,3,1400,10.0,3780.0,Cash,Returning
+IN10067,2025-01-08,Delhi,Delhi,North,Basmati Rice,Grocery,3,90,0.0,270.0,UPI,New
+IN10068,2025-02-24,Kochi,Kerala,South,Notebook Pack,Stationery,2,130,10.0,234.0,Debit Card,Returning
+IN10069,2025-12-19,Kochi,Kerala,South,Sports Shoes,Footwear,5,2400,5.0,11400.0,Cash,New
+IN10070,2025-06-27,Delhi,Delhi,North,Cotton Saree,Clothing,2,1400,10.0,2520.0,UPI,New
+IN10071,2025-03-25,Bengaluru,Karnataka,South,Tea Powder,Grocery,3,250,10.0,675.0,UPI,New
+IN10072,2025-12-21,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Credit Card,New
+IN10073,2025-08-17,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,2,1600,5.0,3040.0,UPI,Returning
+IN10074,2025-05-06,Delhi,Delhi,North,LED Bulb,Electronics,5,180,5.0,855.0,UPI,Returning
+IN10075,2025-06-21,Mumbai,Maharashtra,West,LED Bulb,Electronics,2,180,0.0,360.0,Debit Card,New
+IN10076,2025-05-08,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Net Banking,New
+IN10077,2025-07-24,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,Net Banking,New
+IN10078,2025-11-19,Jaipur,Rajasthan,North,Basmati Rice,Grocery,3,90,5.0,256.5,Cash,New
+IN10079,2025-06-16,Ahmedabad,Gujarat,West,Pressure Cooker,Kitchen,5,1600,10.0,7200.0,Debit Card,New
+IN10080,2025-11-18,Pune,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,15.0,1360.0,Debit Card,New
+IN10081,2025-02-13,Kochi,Kerala,South,Basmati Rice,Grocery,5,90,0.0,450.0,UPI,New
+IN10082,2025-08-20,Hyderabad,Telangana,South,LED Bulb,Electronics,1,180,10.0,162.0,Net Banking,New
+IN10083,2025-01-02,Bengaluru,Karnataka,South,Cotton Saree,Clothing,4,1400,5.0,5320.0,Debit Card,New
+IN10084,2025-08-31,Kochi,Kerala,South,Tea Powder,Grocery,5,250,0.0,1250.0,Credit Card,New
+IN10085,2025-11-29,Pune,Maharashtra,West,Cotton Saree,Clothing,2,1400,0.0,2800.0,Debit Card,Returning
+IN10086,2025-01-24,Jaipur,Rajasthan,North,Tea Powder,Grocery,4,250,5.0,950.0,Net Banking,New
+IN10087,2025-11-30,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,3,1600,5.0,4560.0,Credit Card,New
+IN10088,2025-05-18,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,130,10.0,117.0,UPI,New
+IN10089,2025-08-26,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Debit Card,Returning
+IN10090,2025-08-31,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,3,1400,0.0,4200.0,UPI,Returning
+IN10091,2025-05-18,Kolkata,West Bengal,East,Tea Powder,Grocery,5,250,10.0,1125.0,Debit Card,New
+IN10092,2025-03-14,Mumbai,Maharashtra,West,Tea Powder,Grocery,5,250,0.0,1250.0,Net Banking,Returning
+IN10093,2025-05-24,Delhi,Delhi,North,Pressure Cooker,Kitchen,5,1600,15.0,6800.0,UPI,Returning
+IN10094,2025-01-13,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,130,10.0,468.0,Cash,New
+IN10095,2025-03-14,Kolkata,West Bengal,East,Notebook Pack,Stationery,4,130,5.0,494.0,Debit Card,Returning
+IN10096,2025-01-01,Jaipur,Rajasthan,North,LED Bulb,Electronics,1,180,5.0,171.0,Credit Card,Returning
+IN10097,2025-05-29,Jaipur,Rajasthan,North,Tea Powder,Grocery,2,250,0.0,500.0,Credit Card,Returning
+IN10098,2025-02-09,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,4,2400,15.0,8160.0,Credit Card,Returning
+IN10099,2025-01-27,Pune,Maharashtra,West,Basmati Rice,Grocery,3,90,0.0,270.0,Credit Card,New
+IN10100,2025-06-11,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,15.0,7140.0,Cash,Returning
+IN10101,2025-10-09,Jaipur,Rajasthan,North,Basmati Rice,Grocery,4,90,15.0,306.0,Cash,New
+IN10102,2025-03-12,Bengaluru,Karnataka,South,Sports Shoes,Footwear,4,2400,15.0,8160.0,Credit Card,Returning
+IN10103,2025-08-01,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,2,1600,10.0,2880.0,Credit Card,Returning
+IN10104,2025-12-02,Pune,Maharashtra,West,Wireless Earbuds,Electronics,3,2100,,5670.0,Cash,Returning
+IN10105,2025-11-26,Kolkata,West Bengal,East,Sports Shoes,Footwear,1,2400,0.0,2400.0,Cash,New
+IN10106,2025-08-20,Mumbai,Maharashtra,West,Notebook Pack,Stationery,5,130,0.0,650.0,Credit Card,Returning
+IN10107,2025-05-05,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,,New
+IN10108,2025-07-08,Delhi,Delhi,North,Tea Powder,Grocery,3,250,0.0,750.0,Credit Card,New
+IN10109,2025-09-26,Bengaluru,Karnataka,South,Sports Shoes,Footwear,4,2400,10.0,8640.0,Cash,Returning
+IN10110,2025-05-23,Pune,Maharashtra,West,LED Bulb,Electronics,1,180,10.0,162.0,Net Banking,Returning
+IN10111,2025-05-08,Hyderabad,Telangana,South,Cotton Saree,Clothing,1,1400,5.0,1330.0,Debit Card,Returning
+IN10112,2025-03-07,Kolkata,West Bengal,East,Sports Shoes,Footwear,3,2400,0.0,7200.0,UPI,Returning
+IN10113,2025-07-20,Kolkata,West Bengal,East,Notebook Pack,Stationery,1,130,0.0,130.0,Net Banking,Returning
+IN10114,2025-03-21,Kolkata,West Bengal,East,Cotton Saree,Clothing,1,1400,0.0,1400.0,Cash,New
+IN10115,2025-01-01,Kolkata,West Bengal,East,Tea Powder,Grocery,5,250,0.0,1250.0,Cash,New
+IN10116,2025-11-17,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,3,90,0.0,270.0,Credit Card,Returning
+IN10117,2025-09-26,Chennai,Tamil Nadu,South,Tea Powder,Grocery,1,250,5.0,237.5,Net Banking,New
+IN10118,2025-01-01,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,2,2100,15.0,3570.0,UPI,Returning
+IN10119,2025-09-01,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Net Banking,New
+IN10120,2025-12-27,Kochi,Kerala,South,Cotton Saree,Clothing,1,1400,10.0,1260.0,Credit Card,New
+IN10121,2025-02-11,Bengaluru,Karnataka,South,Cotton Saree,Clothing,4,1400,10.0,5040.0,Credit Card,New
+IN10122,2025-01-18,Jaipur,Rajasthan,North,LED Bulb,Electronics,2,180,10.0,324.0,Credit Card,Returning
+IN10123,2025-05-30,Delhi,Delhi,North,Sports Shoes,Footwear,2,2400,0.0,4800.0,Net Banking,New
+IN10124,2025-04-10,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,130,5.0,247.0,Cash,Returning
+IN10125,2025-11-16,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Debit Card,New
+IN10126,2025-11-01,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,130,0.0,520.0,Cash,Returning
+IN10127,2025-03-14,Bengaluru,Karnataka,South,Cotton Saree,Clothing,1,1400,15.0,1190.0,Debit Card,New
+IN10128,2025-12-31,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,4,1600,10.0,5760.0,Credit Card,New
+IN10129,2025-04-05,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Net Banking,Returning
+IN10130,2025-06-19,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,4,2100,5.0,7980.0,Debit Card,New
+IN10131,2025-02-11,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,1,90,5.0,85.5,Credit Card,Returning
+IN10132,2025-06-08,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,4,1400,5.0,5320.0,Debit Card,New
+IN10133,2025-10-05,Bengaluru,Karnataka,South,Notebook Pack,Stationery,2,130,5.0,247.0,Debit Card,New
+IN10134,2025-11-20,Delhi,Delhi,North,LED Bulb,Electronics,4,180,0.0,720.0,Debit Card,New
+IN10135,2025-08-26,Jaipur,Rajasthan,North,Basmati Rice,Grocery,4,90,0.0,360.0,UPI,New
+IN10136,2025-06-23,Pune,Maharashtra,West,Cotton Saree,Clothing,1,1400,15.0,1190.0,Credit Card,Returning
+IN10137,2025-05-22,Delhi,Delhi,North,Basmati Rice,Grocery,3,90,5.0,256.5,Credit Card,New
+IN10138,2025-02-24,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,0.0,250.0,Debit Card,Returning
+IN10139,2025-03-09,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,4,2100,10.0,7560.0,Debit Card,New
+IN10140,2025-05-01,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,2,2100,15.0,3570.0,Credit Card,Returning
+IN10141,2025-09-20,Kolkata,West Bengal,East,LED Bulb,Electronics,5,180,0.0,900.0,Cash,Returning
+IN10142,2025-11-29,Hyderabad,Telangana,South,Cotton Saree,Clothing,4,1400,0.0,5600.0,UPI,Returning
+IN10143,2025-02-23,Kochi,Kerala,South,LED Bulb,Electronics,2,180,10.0,324.0,UPI,Returning
+IN10144,2025-08-04,Ahmedabad,Gujarat,West,Tea Powder,Grocery,2,250,0.0,500.0,Debit Card,Returning
+IN10145,2025-08-24,Hyderabad,Telangana,South,Cotton Saree,Clothing,2,1400,10.0,2520.0,Net Banking,New
+IN10146,2025-05-24,Kochi,Kerala,South,Tea Powder,Grocery,3,250,5.0,712.5,Net Banking,Returning
+IN10147,2025-08-13,Delhi,Delhi,North,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Cash,New
+IN10148,2025-10-24,Mumbai,Maharashtra,West,Cotton Saree,Clothing,2,1400,5.0,2660.0,Cash,Returning
+IN10149,2025-09-17,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,3,2400,0.0,7200.0,Net Banking,New
+IN10150,2025-01-03,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,1,130,0.0,130.0,Debit Card,New
+IN10151,2025-04-30,Kolkata,West Bengal,East,LED Bulb,Electronics,1,180,5.0,171.0,UPI,New
+IN10152,2025-09-20,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,5.0,1330.0,Cash,Returning
+IN10153,2025-11-23,Ahmedabad,Gujarat,West,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,Net Banking,Returning
+IN10154,2025-03-14,Mumbai,Maharashtra,West,Basmati Rice,Grocery,3,90,5.0,256.5,UPI,New
+IN10155,2025-01-06,Pune,Maharashtra,West,Basmati Rice,Grocery,5,90,0.0,450.0,Credit Card,Returning
+IN10156,2025-02-09,Delhi,Delhi,North,Pressure Cooker,Kitchen,5,1600,5.0,7600.0,Cash,New
+IN10157,2025-02-21,Kolkata,West Bengal,East,Notebook Pack,Stationery,1,130,10.0,117.0,Debit Card,New
+IN10158,2025-12-23,Kochi,Kerala,South,Tea Powder,Grocery,2,250,10.0,450.0,Credit Card,Returning
+IN10159,2025-06-09,Pune,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Net Banking,Returning
+IN10160,2025-11-26,Jaipur,Rajasthan,North,Sports Shoes,Footwear,1,2400,5.0,2280.0,Cash,Returning
+IN10161,2025-03-22,Jaipur,Rajasthan,North,Cotton Saree,Clothing,1,1400,10.0,1260.0,Debit Card,New
+IN10162,2025-08-24,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,5,2400,5.0,11400.0,Cash,New
+IN10163,2025-11-25,Bengaluru,Karnataka,South,Basmati Rice,Grocery,5,90,0.0,450.0,Debit Card,New
+IN10164,2025-03-16,Ahmedabad,Gujarat,West,LED Bulb,Electronics,5,180,0.0,900.0,Credit Card,Returning
+IN10165,2025-07-16,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,1,1600,0.0,1600.0,Debit Card,New
+IN10166,2025-06-11,Pune,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,10.0,1440.0,UPI,Returning
+IN10167,2025-07-27,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,2,1600,15.0,2720.0,Net Banking,New
+IN10168,2025-01-22,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Debit Card,New
+IN10169,2025-05-07,Jaipur,Rajasthan,North,LED Bulb,Electronics,1,180,0.0,180.0,Cash,New
+IN10170,2025-07-19,Kochi,Kerala,South,Basmati Rice,Grocery,3,90,0.0,270.0,Net Banking,Returning
+IN10171,2025-10-26,Kochi,Kerala,South,Wireless Earbuds,Electronics,4,2100,5.0,7980.0,Cash,Returning
+IN10172,2025-08-13,Jaipur,Rajasthan,North,LED Bulb,Electronics,4,180,15.0,612.0,Cash,New
+IN10173,2025-08-17,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,130,0.0,520.0,Net Banking,Returning
+IN10174,2025-02-04,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,130,0.0,520.0,Cash,Returning
+IN10175,2025-09-16,Jaipur,Rajasthan,North,LED Bulb,Electronics,1,180,10.0,162.0,Net Banking,New
+IN10176,2025-09-19,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,UPI,New
+IN10177,2025-02-03,Kochi,Kerala,South,Sports Shoes,Footwear,2,2400,0.0,4800.0,Net Banking,New
+IN10178,2025-03-26,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,4,1600,5.0,6080.0,Cash,New
+IN10179,2025-11-11,Delhi,Delhi,North,Wireless Earbuds,Electronics,2,2100,5.0,3990.0,Credit Card,Returning
+IN10180,2025-04-17,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,,Returning
+IN10181,2025-01-19,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,3,1400,5.0,3990.0,Cash,New
+IN10182,2025-07-12,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,3,1600,5.0,4560.0,Cash,Returning
+IN10183,2025-10-12,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,3,90,10.0,243.0,Net Banking,New
+IN10184,2025-07-12,Pune,Maharashtra,West,Sports Shoes,Footwear,3,2400,5.0,6840.0,Credit Card,New
+IN10185,2025-04-28,Delhi,Delhi,North,LED Bulb,Electronics,1,180,10.0,162.0,Cash,New
+IN10186,2025-12-06,Pune,Maharashtra,West,Wireless Earbuds,Electronics,3,2100,15.0,5355.0,Credit Card,New
+IN10187,2025-11-12,Bengaluru,Karnataka,South,Cotton Saree,Clothing,2,1400,5.0,2660.0,Debit Card,Returning
+IN10188,2025-09-08,Kochi,Kerala,South,LED Bulb,Electronics,1,180,0.0,180.0,Cash,New
+IN10189,2025-07-01,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,15.0,76.5,Credit Card,New
+IN10190,2025-07-31,Kochi,Kerala,South,LED Bulb,Electronics,5,180,0.0,900.0,Net Banking,Returning
+IN10191,2025-11-16,Ahmedabad,Gujarat,West,Pressure Cooker,Kitchen,2,1600,5.0,3040.0,Debit Card,New
+IN10192,2025-08-19,Hyderabad,Telangana,South,Basmati Rice,Grocery,2,90,0.0,180.0,UPI,New
+IN10193,2025-01-06,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,4,2100,5.0,7980.0,UPI,Returning
+IN10194,2025-09-10,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,5,130,15.0,552.5,Cash,New
+IN10195,2025-01-13,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,15.0,76.5,Debit Card,New
+IN10196,2025-01-07,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,0.0,1600.0,Net Banking,New
+IN10197,2025-11-08,Hyderabad,Telangana,South,Sports Shoes,Footwear,2,2400,15.0,4080.0,Net Banking,Returning
+IN10198,2025-02-02,Ahmedabad,Gujarat,West,Pressure Cooker,Kitchen,5,1600,5.0,7600.0,Credit Card,New
+IN10199,2025-08-27,Kolkata,West Bengal,East,Basmati Rice,Grocery,4,90,10.0,324.0,UPI,Returning
+IN10200,2025-04-29,Hyderabad,Telangana,South,Cotton Saree,Clothing,1,1400,5.0,1330.0,UPI,New
+IN10201,2025-11-22,Delhi,Delhi,North,Wireless Earbuds,Electronics,1,2100,5.0,1995.0,Net Banking,Returning
+IN10202,2025-02-13,Kochi,Kerala,South,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Net Banking,New
+IN10203,2025-03-23,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Credit Card,New
+IN10204,2025-07-14,Jaipur,Rajasthan,North,LED Bulb,Electronics,5,180,0.0,900.0,Net Banking,Returning
+IN10205,2025-04-30,Kolkata,West Bengal,East,Basmati Rice,Grocery,1,90,10.0,81.0,Net Banking,Returning
+IN10206,2025-02-09,Mumbai,Maharashtra,West,Sports Shoes,Footwear,5,2400,15.0,10200.0,Net Banking,New
+IN10207,2025-02-24,Hyderabad,Telangana,South,Basmati Rice,Grocery,1,90,0.0,90.0,Net Banking,New
+IN10208,2025-01-22,Delhi,Delhi,North,Pressure Cooker,Kitchen,1,1600,0.0,1600.0,Cash,New
+IN10209,2025-07-06,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,1,90,15.0,76.5,Cash,New
+IN10210,2025-04-15,Jaipur,Rajasthan,North,Tea Powder,Grocery,2,250,0.0,500.0,UPI,New
+IN10211,2025-02-21,Bengaluru,Karnataka,South,Tea Powder,Grocery,3,250,10.0,675.0,Cash,New
+IN10212,2025-08-05,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,3,2100,5.0,5985.0,Credit Card,New
+IN10213,2025-07-08,Delhi,Delhi,North,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Credit Card,Returning
+IN10214,2025-08-12,Pune,Maharashtra,West,Basmati Rice,Grocery,4,90,0.0,360.0,Net Banking,New
+IN10215,2025-10-17,Delhi,Delhi,North,Notebook Pack,Stationery,1,130,15.0,110.5,Cash,New
+IN10216,2025-01-01,Ahmedabad,Gujarat,West,Wireless Earbuds,Electronics,2,2100,10.0,3780.0,Net Banking,New
+IN10217,2025-09-09,Pune,Maharashtra,West,Basmati Rice,Grocery,1,90,5.0,85.5,UPI,Returning
+IN10218,2025-09-21,Hyderabad,Telangana,South,Notebook Pack,Stationery,5,130,5.0,617.5,Credit Card,New
+IN10219,2025-03-26,Pune,Maharashtra,West,Cotton Saree,Clothing,2,1400,10.0,2520.0,UPI,New
+IN10220,2025-02-18,Kolkata,West Bengal,East,Tea Powder,Grocery,3,250,5.0,712.5,Debit Card,Returning
+IN10221,2025-04-16,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,1,2400,5.0,2280.0,Credit Card,Returning
+IN10222,2025-08-24,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,4,1600,0.0,6400.0,Cash,New
+IN10223,2025-08-19,Delhi,Delhi,North,LED Bulb,Electronics,5,180,0.0,900.0,Net Banking,Returning
+IN10224,2025-10-24,Hyderabad,Telangana,South,Notebook Pack,Stationery,4,130,5.0,494.0,Cash,New
+IN10225,2025-04-09,Delhi,Delhi,North,Notebook Pack,Stationery,2,130,15.0,221.0,Credit Card,Returning
+IN10226,2025-06-17,Ahmedabad,Gujarat,West,Pressure Cooker,Kitchen,2,1600,0.0,3200.0,Net Banking,Returning
+IN10227,2025-05-13,Hyderabad,Telangana,South,Cotton Saree,Clothing,3,1400,0.0,4200.0,UPI,New
+IN10228,2025-03-17,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,4,1400,0.0,5600.0,Credit Card,Returning
+IN10229,2025-11-23,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,UPI,Returning
+IN10230,2025-01-07,Mumbai,Maharashtra,West,Sports Shoes,Footwear,4,2400,0.0,9600.0,Debit Card,Returning
+IN10231,2025-03-14,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Credit Card,Returning
+IN10232,2025-10-28,Bengaluru,Karnataka,South,Cotton Saree,Clothing,4,1400,15.0,4760.0,Debit Card,New
+IN10233,2025-08-21,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,2,1400,0.0,2800.0,Debit Card,Returning
+IN10234,2025-07-24,Pune,Maharashtra,West,Tea Powder,Grocery,4,250,0.0,1000.0,Cash,Returning
+IN10235,2025-11-15,Jaipur,Rajasthan,North,Notebook Pack,Stationery,4,130,0.0,520.0,Debit Card,New
+IN10236,2025-02-24,Delhi,Delhi,North,Basmati Rice,Grocery,4,90,10.0,324.0,UPI,Returning
+IN10237,2025-09-23,Kochi,Kerala,South,Cotton Saree,Clothing,2,1400,0.0,2800.0,Credit Card,New
+IN10238,2025-09-01,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,5,130,0.0,650.0,Net Banking,New
+IN10239,2025-04-18,Delhi,Delhi,North,LED Bulb,Electronics,4,180,10.0,648.0,Cash,Returning
+IN10240,2025-11-23,Kochi,Kerala,South,Tea Powder,Grocery,5,250,5.0,1187.5,UPI,Returning
+IN10241,2025-01-07,Pune,Maharashtra,West,Sports Shoes,Footwear,4,2400,0.0,9600.0,UPI,Returning
+IN10242,2025-02-25,Jaipur,Rajasthan,North,LED Bulb,Electronics,5,180,5.0,855.0,Cash,Returning
+IN10243,2025-04-19,Jaipur,Rajasthan,North,Cotton Saree,Clothing,4,1400,10.0,5040.0,Cash,New
+IN10244,2025-04-26,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,4,1400,15.0,4760.0,Cash,Returning
+IN10245,2025-11-29,Jaipur,Rajasthan,North,Notebook Pack,Stationery,3,130,15.0,331.5,Cash,Returning
+IN10246,2025-12-18,Delhi,Delhi,North,Cotton Saree,Clothing,3,1400,10.0,3780.0,Credit Card,Returning
+IN10247,2025-07-03,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,130,5.0,123.5,Cash,Returning
+IN10248,2025-11-16,Delhi,Delhi,North,Notebook Pack,Stationery,4,130,10.0,468.0,UPI,Returning
+IN10249,2025-02-13,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Net Banking,Returning
+IN10250,2025-12-03,Hyderabad,Telangana,South,LED Bulb,Electronics,5,180,0.0,900.0,UPI,New
+IN10251,2025-02-21,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,3,2100,15.0,5355.0,Net Banking,New
+IN10252,2025-03-20,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,4,1600,5.0,6080.0,,Returning
+IN10253,2025-02-16,Kochi,Kerala,South,Pressure Cooker,Kitchen,5,1600,15.0,6800.0,Net Banking,Returning
+IN10254,2025-02-10,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,130,15.0,221.0,Debit Card,New
+IN10255,2025-04-30,Kochi,Kerala,South,Tea Powder,Grocery,3,250,10.0,675.0,Cash,Returning
+IN10256,2025-03-15,Kolkata,West Bengal,East,Basmati Rice,Grocery,4,90,10.0,324.0,Debit Card,New
+IN10257,2025-01-04,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,5,1600,,6800.0,Cash,Returning
+IN10258,2025-07-11,Kolkata,West Bengal,East,Notebook Pack,Stationery,3,130,10.0,351.0,Debit Card,Returning
+IN10259,2025-01-11,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Net Banking,New
+IN10260,2025-09-06,Delhi,Delhi,North,Tea Powder,Grocery,5,250,10.0,1125.0,Cash,New
+IN10261,2025-02-18,Mumbai,Maharashtra,West,Sports Shoes,Footwear,2,2400,5.0,4560.0,Credit Card,Returning
+IN10262,2025-06-25,Kolkata,West Bengal,East,Cotton Saree,Clothing,3,1400,10.0,3780.0,Debit Card,Returning
+IN10263,2025-07-01,Kochi,Kerala,South,Basmati Rice,Grocery,3,90,5.0,256.5,Debit Card,Returning
+IN10264,2025-04-15,Delhi,Delhi,North,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Debit Card,New
+IN10265,2025-03-07,Delhi,Delhi,North,Cotton Saree,Clothing,3,1400,5.0,3990.0,Net Banking,New
+IN10266,2025-10-07,Bengaluru,Karnataka,South,Sports Shoes,Footwear,5,2400,10.0,10800.0,Net Banking,New
+IN10267,2025-01-24,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,Cash,Returning
+IN10268,2025-11-10,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,5,90,15.0,382.5,Debit Card,New
+IN10269,2025-12-08,Ahmedabad,Gujarat,West,Tea Powder,Grocery,2,250,0.0,500.0,Debit Card,New
+IN10270,2025-02-21,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,1,1600,10.0,1440.0,UPI,Returning
+IN10271,2025-06-04,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Cash,Returning
+IN10272,2025-10-17,Bengaluru,Karnataka,South,LED Bulb,Electronics,1,180,10.0,162.0,Net Banking,New
+IN10273,2025-10-22,Kolkata,West Bengal,East,Basmati Rice,Grocery,1,90,10.0,81.0,Debit Card,Returning
+IN10274,2025-10-31,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,4,90,15.0,306.0,Cash,Returning
+IN10275,2025-04-19,Jaipur,Rajasthan,North,Tea Powder,Grocery,1,250,10.0,225.0,Cash,New
+IN10276,2025-02-15,Jaipur,Rajasthan,North,Basmati Rice,Grocery,1,90,0.0,90.0,Cash,New
+IN10277,2025-10-19,Hyderabad,Telangana,South,Notebook Pack,Stationery,1,130,5.0,123.5,Cash,Returning
+IN10278,2025-02-13,Hyderabad,Telangana,South,Basmati Rice,Grocery,3,90,0.0,270.0,Credit Card,Returning
+IN10279,2025-01-06,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,UPI,New
+IN10280,2025-06-09,Ahmedabad,Gujarat,West,Tea Powder,Grocery,4,250,5.0,950.0,Net Banking,New
+IN10281,2025-10-22,Kolkata,West Bengal,East,Basmati Rice,Grocery,3,90,5.0,256.5,Debit Card,Returning
+IN10282,2025-11-27,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,Cash,Returning
+IN10283,2025-10-18,Kolkata,West Bengal,East,Sports Shoes,Footwear,4,2400,5.0,9120.0,Credit Card,Returning
+IN10284,2025-06-20,Pune,Maharashtra,West,Basmati Rice,Grocery,5,90,15.0,382.5,Net Banking,New
+IN10285,2025-05-07,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,Debit Card,Returning
+IN10286,2025-12-19,Jaipur,Rajasthan,North,Cotton Saree,Clothing,4,1400,5.0,5320.0,UPI,Returning
+IN10287,2025-10-28,Pune,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,UPI,Returning
+IN10288,2025-12-17,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,3,1600,15.0,4080.0,Debit Card,Returning
+IN10289,2025-09-06,Kochi,Kerala,South,Tea Powder,Grocery,5,250,15.0,1062.5,Debit Card,New
+IN10290,2025-12-13,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Debit Card,Returning
+IN10291,2025-07-17,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Debit Card,New
+IN10292,2025-07-23,Kochi,Kerala,South,LED Bulb,Electronics,1,180,0.0,180.0,Net Banking,Returning
+IN10293,2025-10-29,Kochi,Kerala,South,LED Bulb,Electronics,4,180,15.0,612.0,Cash,New
+IN10294,2025-12-25,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,0.0,1400.0,Credit Card,Returning
+IN10295,2025-03-18,Ahmedabad,Gujarat,West,LED Bulb,Electronics,4,180,15.0,612.0,Cash,New
+IN10296,2025-11-20,Kolkata,West Bengal,East,LED Bulb,Electronics,1,180,5.0,171.0,Debit Card,New
+IN10297,2025-06-26,Hyderabad,Telangana,South,LED Bulb,Electronics,5,180,0.0,900.0,Credit Card,New
+IN10298,2025-09-06,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,2,90,15.0,153.0,Net Banking,New
+IN10299,2025-08-17,Pune,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Net Banking,New
+IN10300,2025-04-03,Pune,Maharashtra,West,Basmati Rice,Grocery,3,90,0.0,270.0,Debit Card,New
+IN10301,2025-07-09,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,15.0,76.5,Debit Card,Returning
+IN10302,2025-05-12,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,1,2400,0.0,2400.0,Credit Card,New
+IN10303,2025-03-23,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,2,2400,10.0,4320.0,Credit Card,New
+IN10304,2025-06-30,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,UPI,New
+IN10305,2025-01-29,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,UPI,New
+IN10306,2025-10-29,Delhi,Delhi,North,Basmati Rice,Grocery,2,90,5.0,171.0,Net Banking,Returning
+IN10307,2025-05-12,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,3,130,5.0,370.5,Debit Card,New
+IN10308,2025-08-14,Delhi,Delhi,North,Notebook Pack,Stationery,4,130,0.0,520.0,Cash,New
+IN10309,2025-03-22,Bengaluru,Karnataka,South,Notebook Pack,Stationery,2,130,0.0,260.0,Cash,New
+IN10310,2025-02-19,Ahmedabad,Gujarat,West,LED Bulb,Electronics,2,180,10.0,324.0,Debit Card,New
+IN10311,2025-04-30,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,3,130,5.0,370.5,Debit Card,New
+IN10312,2025-01-30,Delhi,Delhi,North,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Cash,Returning
+IN10313,2025-05-17,Kochi,Kerala,South,Pressure Cooker,Kitchen,4,1600,0.0,6400.0,Debit Card,Returning
+IN10314,2025-10-20,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,Credit Card,Returning
+IN10315,2025-06-12,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Debit Card,Returning
+IN10316,2025-11-20,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Cash,Returning
+IN10317,2025-07-06,Pune,Maharashtra,West,Tea Powder,Grocery,3,250,0.0,750.0,Debit Card,Returning
+IN10318,2025-05-29,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,10.0,1260.0,Debit Card,New
+IN10319,2025-08-15,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Net Banking,Returning
+IN10320,2025-09-27,Kochi,Kerala,South,Pressure Cooker,Kitchen,4,1600,0.0,6400.0,Credit Card,New
+IN10321,2025-04-22,Delhi,Delhi,North,Sports Shoes,Footwear,1,2400,10.0,2160.0,Credit Card,New
+IN10322,2025-12-31,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Cash,New
+IN10323,2025-09-11,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,15.0,212.5,Credit Card,New
+IN10324,2025-10-26,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Credit Card,New
+IN10325,2025-01-29,Bengaluru,Karnataka,South,Tea Powder,Grocery,5,250,10.0,1125.0,Net Banking,Returning
+IN10326,2025-01-08,Delhi,Delhi,North,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Debit Card,Returning
+IN10327,2025-10-16,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Credit Card,New
+IN10328,2025-01-03,Hyderabad,Telangana,South,LED Bulb,Electronics,5,180,15.0,765.0,Credit Card,Returning
+IN10329,2025-05-06,Kochi,Kerala,South,Tea Powder,Grocery,1,250,5.0,237.5,Credit Card,Returning
+IN10330,2025-09-11,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,3,90,0.0,270.0,Debit Card,New
+IN10331,2025-02-15,Kochi,Kerala,South,Pressure Cooker,Kitchen,1,1600,0.0,1600.0,Cash,New
+IN10332,2025-10-12,Hyderabad,Telangana,South,Tea Powder,Grocery,3,250,5.0,712.5,UPI,New
+IN10333,2025-11-03,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,3,1400,0.0,4200.0,Net Banking,Returning
+IN10334,2025-06-29,Kochi,Kerala,South,Cotton Saree,Clothing,4,1400,0.0,5600.0,UPI,New
+IN10335,2025-09-10,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,1,2100,10.0,1890.0,Net Banking,Returning
+IN10336,2025-03-12,Chennai,Tamil Nadu,South,Tea Powder,Grocery,1,250,10.0,225.0,Net Banking,New
+IN10337,2025-07-23,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,5,1600,10.0,7200.0,Cash,New
+IN10338,2025-09-27,Jaipur,Rajasthan,North,Sports Shoes,Footwear,5,2400,15.0,10200.0,UPI,Returning
+IN10339,2025-05-04,Bengaluru,Karnataka,South,LED Bulb,Electronics,3,180,10.0,486.0,Credit Card,Returning
+IN10340,2025-01-28,Ahmedabad,Gujarat,West,LED Bulb,Electronics,4,180,15.0,612.0,Credit Card,New
+IN10341,2025-07-06,Delhi,Delhi,North,Cotton Saree,Clothing,4,1400,0.0,5600.0,UPI,New
+IN10342,2025-09-16,Chennai,Tamil Nadu,South,LED Bulb,Electronics,4,180,0.0,720.0,UPI,New
+IN10343,2025-11-21,Hyderabad,Telangana,South,Sports Shoes,Footwear,4,2400,10.0,8640.0,UPI,New
+IN10344,2025-11-18,Bengaluru,Karnataka,South,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Net Banking,New
+IN10345,2025-09-24,Ahmedabad,Gujarat,West,Tea Powder,Grocery,3,250,0.0,750.0,UPI,Returning
+IN10346,2025-06-06,Mumbai,Maharashtra,West,Basmati Rice,Grocery,3,90,0.0,270.0,Credit Card,New
+IN10347,2025-05-18,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,5,90,15.0,382.5,UPI,Returning
+IN10348,2025-09-19,Ahmedabad,Gujarat,West,Pressure Cooker,Kitchen,4,1600,0.0,6400.0,Cash,Returning
+IN10349,2025-02-14,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Net Banking,Returning
+IN10350,2025-10-08,Kolkata,West Bengal,East,Cotton Saree,Clothing,4,1400,0.0,5600.0,Credit Card,Returning
+IN10351,2025-08-29,Kochi,Kerala,South,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,Credit Card,New
+IN10352,2025-09-20,Mumbai,Maharashtra,West,LED Bulb,Electronics,2,180,0.0,360.0,Net Banking,Returning
+IN10353,2025-03-25,Ahmedabad,Gujarat,West,Sports Shoes,Footwear,1,2400,5.0,2280.0,Cash,Returning
+IN10354,2025-05-26,Kochi,Kerala,South,LED Bulb,Electronics,4,180,5.0,684.0,Cash,Returning
+IN10355,2025-02-04,Bengaluru,Karnataka,South,Basmati Rice,Grocery,2,90,15.0,153.0,Net Banking,Returning
+IN10356,2025-08-14,Kolkata,West Bengal,East,Basmati Rice,Grocery,5,90,10.0,405.0,Credit Card,New
+IN10357,2025-06-22,Kochi,Kerala,South,Cotton Saree,Clothing,2,1400,10.0,2520.0,Credit Card,New
+IN10358,2025-09-01,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Credit Card,New
+IN10359,2025-10-09,Jaipur,Rajasthan,North,Tea Powder,Grocery,1,250,10.0,225.0,Net Banking,New
+IN10360,2025-08-02,Kolkata,West Bengal,East,Sports Shoes,Footwear,5,2400,0.0,12000.0,Credit Card,New
+IN10361,2025-06-30,Jaipur,Rajasthan,North,Notebook Pack,Stationery,4,130,,494.0,Credit Card,Returning
+IN10362,2025-09-13,Jaipur,Rajasthan,North,Sports Shoes,Footwear,3,2400,0.0,7200.0,Debit Card,Returning
+IN10363,2025-03-16,Pune,Maharashtra,West,Pressure Cooker,Kitchen,5,1600,5.0,7600.0,Debit Card,Returning
+IN10364,2025-06-15,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,1,1400,5.0,1330.0,Net Banking,New
+IN10365,2025-01-14,Delhi,Delhi,North,Cotton Saree,Clothing,4,1400,0.0,5600.0,UPI,Returning
+IN10366,2025-06-09,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,3,130,15.0,331.5,Net Banking,Returning
+IN10367,2025-07-03,Kochi,Kerala,South,Sports Shoes,Footwear,4,2400,10.0,8640.0,UPI,Returning
+IN10368,2025-04-28,Kolkata,West Bengal,East,Basmati Rice,Grocery,1,90,15.0,76.5,UPI,Returning
+IN10369,2025-03-20,Delhi,Delhi,North,Sports Shoes,Footwear,5,2400,15.0,10200.0,Cash,Returning
+IN10370,2025-10-28,Kolkata,West Bengal,East,Sports Shoes,Footwear,4,2400,15.0,8160.0,Credit Card,New
+IN10371,2025-02-08,Hyderabad,Telangana,South,LED Bulb,Electronics,3,180,5.0,513.0,Credit Card,New
+IN10372,2025-08-04,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,3,2100,15.0,5355.0,Cash,Returning
+IN10373,2025-07-31,Kochi,Kerala,South,Cotton Saree,Clothing,5,1400,0.0,7000.0,Cash,New
+IN10374,2025-11-20,Ahmedabad,Gujarat,West,Tea Powder,Grocery,3,250,15.0,637.5,UPI,Returning
+IN10375,2025-01-03,Bengaluru,Karnataka,South,Basmati Rice,Grocery,3,90,15.0,229.5,Credit Card,Returning
+IN10376,2025-03-31,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,1,90,0.0,90.0,Debit Card,Returning
+IN10377,2025-07-30,Kochi,Kerala,South,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Net Banking,New
+IN10378,2025-02-24,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,5,1600,15.0,6800.0,UPI,New
+IN10379,2025-08-28,Chennai,Tamil Nadu,South,Pressure Cooker,Kitchen,5,1600,10.0,7200.0,Net Banking,Returning
+IN10380,2025-03-15,Bengaluru,Karnataka,South,Basmati Rice,Grocery,5,90,5.0,427.5,Cash,Returning
+IN10381,2025-11-18,Pune,Maharashtra,West,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,UPI,New
+IN10382,2025-07-17,Delhi,Delhi,North,Cotton Saree,Clothing,4,1400,15.0,4760.0,UPI,New
+IN10383,2025-08-14,Mumbai,Maharashtra,West,Sports Shoes,Footwear,5,2400,0.0,12000.0,UPI,New
+IN10384,2025-10-28,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,0.0,1400.0,Cash,Returning
+IN10385,2025-11-05,Bengaluru,Karnataka,South,Notebook Pack,Stationery,3,130,10.0,351.0,Credit Card,Returning
+IN10386,2025-04-24,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,4,1400,15.0,4760.0,Debit Card,Returning
+IN10387,2025-02-14,Jaipur,Rajasthan,North,Notebook Pack,Stationery,1,130,0.0,130.0,Cash,New
+IN10388,2025-05-29,Delhi,Delhi,North,Sports Shoes,Footwear,2,2400,0.0,4800.0,Debit Card,Returning
+IN10389,2025-06-21,Chennai,Tamil Nadu,South,LED Bulb,Electronics,5,180,10.0,810.0,Debit Card,New
+IN10390,2025-05-06,Chennai,Tamil Nadu,South,Sports Shoes,Footwear,3,2400,15.0,6120.0,Debit Card,New
+IN10391,2025-08-12,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,UPI,Returning
+IN10392,2025-12-28,Bengaluru,Karnataka,South,LED Bulb,Electronics,2,180,0.0,360.0,Cash,New
+IN10393,2025-10-12,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,5,2100,0.0,10500.0,Debit Card,Returning
+IN10394,2025-04-21,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,3,1600,5.0,4560.0,Debit Card,Returning
+IN10395,2025-09-16,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,3,1400,10.0,3780.0,Cash,New
+IN10396,2025-08-14,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,3,1600,15.0,4080.0,Net Banking,Returning
+IN10397,2025-09-19,Kochi,Kerala,South,Cotton Saree,Clothing,4,1400,15.0,4760.0,Cash,New
+IN10398,2025-07-17,Chennai,Tamil Nadu,South,Tea Powder,Grocery,5,250,5.0,1187.5,UPI,New
+IN10399,2025-12-22,Pune,Maharashtra,West,Basmati Rice,Grocery,4,90,0.0,360.0,Cash,New
+IN10400,2025-10-15,Delhi,Delhi,North,Cotton Saree,Clothing,1,1400,0.0,1400.0,Credit Card,Returning
+IN10401,2025-04-26,Mumbai,Maharashtra,West,Tea Powder,Grocery,3,250,0.0,750.0,Credit Card,New
+IN10402,2025-08-26,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,3,2100,10.0,5670.0,Cash,Returning
+IN10403,2025-07-31,Hyderabad,Telangana,South,Basmati Rice,Grocery,3,90,5.0,256.5,UPI,Returning
+IN10404,2025-04-04,Mumbai,Maharashtra,West,Sports Shoes,Footwear,3,2400,0.0,7200.0,Credit Card,New
+IN10405,2025-01-21,Pune,Maharashtra,West,Cotton Saree,Clothing,1,1400,10.0,1260.0,Net Banking,New
+IN10406,2025-07-14,Jaipur,Rajasthan,North,Cotton Saree,Clothing,3,1400,0.0,4200.0,UPI,Returning
+IN10407,2025-09-24,Hyderabad,Telangana,South,Cotton Saree,Clothing,5,1400,10.0,6300.0,Credit Card,Returning
+IN10408,2025-12-02,Ahmedabad,Gujarat,West,LED Bulb,Electronics,1,180,0.0,180.0,Credit Card,New
+IN10409,2025-01-20,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,2,90,0.0,180.0,Credit Card,New
+IN10410,2025-11-12,Delhi,Delhi,North,Tea Powder,Grocery,4,250,10.0,900.0,Cash,Returning
+IN10411,2025-08-15,Kochi,Kerala,South,Tea Powder,Grocery,3,250,10.0,675.0,Credit Card,Returning
+IN10412,2025-12-11,Kochi,Kerala,South,Basmati Rice,Grocery,2,90,10.0,162.0,Net Banking,New
+IN10413,2025-05-14,Kolkata,West Bengal,East,Cotton Saree,Clothing,1,1400,15.0,1190.0,Cash,New
+IN10414,2025-03-28,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Credit Card,Returning
+IN10415,2025-03-12,Jaipur,Rajasthan,North,Tea Powder,Grocery,2,250,5.0,475.0,Cash,Returning
+IN10416,2025-09-21,Kolkata,West Bengal,East,Cotton Saree,Clothing,2,1400,0.0,2800.0,Debit Card,New
+IN10417,2025-10-28,Delhi,Delhi,North,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Net Banking,New
+IN10418,2025-03-28,Delhi,Delhi,North,Tea Powder,Grocery,5,250,10.0,1125.0,Cash,Returning
+IN10419,2025-01-07,Jaipur,Rajasthan,North,Cotton Saree,Clothing,1,1400,5.0,1330.0,Credit Card,Returning
+IN10420,2025-06-05,Mumbai,Maharashtra,West,Basmati Rice,Grocery,1,90,5.0,85.5,Cash,New
+IN10421,2025-06-16,Pune,Maharashtra,West,Notebook Pack,Stationery,1,130,0.0,130.0,Debit Card,Returning
+IN10422,2025-10-13,Ahmedabad,Gujarat,West,LED Bulb,Electronics,3,180,0.0,540.0,UPI,New
+IN10423,2025-06-19,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,130,0.0,520.0,Net Banking,Returning
+IN10424,2025-04-08,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,4,130,10.0,468.0,Net Banking,Returning
+IN10425,2025-11-18,Bengaluru,Karnataka,South,LED Bulb,Electronics,1,180,5.0,171.0,Net Banking,Returning
+IN10426,2025-01-13,Mumbai,Maharashtra,West,Tea Powder,Grocery,2,250,0.0,500.0,Debit Card,New
+IN10427,2025-12-16,Pune,Maharashtra,West,LED Bulb,Electronics,2,180,15.0,306.0,Cash,New
+IN10428,2025-11-28,Pune,Maharashtra,West,LED Bulb,Electronics,4,180,0.0,720.0,Credit Card,Returning
+IN10429,2025-07-09,Mumbai,Maharashtra,West,LED Bulb,Electronics,2,180,15.0,306.0,Credit Card,New
+IN10430,2025-11-18,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,15.0,76.5,Debit Card,New
+IN10431,2025-03-22,Mumbai,Maharashtra,West,Notebook Pack,Stationery,4,130,10.0,468.0,Credit Card,New
+IN10432,2025-08-15,Hyderabad,Telangana,South,Cotton Saree,Clothing,2,1400,0.0,2800.0,Debit Card,New
+IN10433,2025-04-22,Bengaluru,Karnataka,South,Notebook Pack,Stationery,4,130,0.0,520.0,Credit Card,New
+IN10434,2025-02-06,Bengaluru,Karnataka,South,Sports Shoes,Footwear,2,2400,5.0,4560.0,UPI,Returning
+IN10435,2025-12-08,Delhi,Delhi,North,Tea Powder,Grocery,4,250,0.0,1000.0,Cash,New
+IN10436,2025-10-16,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,1,2100,10.0,1890.0,Credit Card,New
+IN10437,2025-09-22,Kolkata,West Bengal,East,Tea Powder,Grocery,5,250,5.0,1187.5,Debit Card,Returning
+IN10438,2025-11-14,Kochi,Kerala,South,Pressure Cooker,Kitchen,4,1600,15.0,5440.0,UPI,New
+IN10439,2025-08-04,Delhi,Delhi,North,Wireless Earbuds,Electronics,5,2100,15.0,8925.0,Credit Card,Returning
+IN10440,2025-11-21,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,3,2100,15.0,5355.0,UPI,New
+IN10441,2025-12-05,Mumbai,Maharashtra,West,Notebook Pack,Stationery,1,130,0.0,130.0,Net Banking,Returning
+IN10442,2025-05-04,Kochi,Kerala,South,Sports Shoes,Footwear,3,2400,15.0,6120.0,Net Banking,Returning
+IN10443,2025-04-03,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,Cash,New
+IN10444,2025-09-29,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,Credit Card,Returning
+IN10445,2025-10-21,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,130,15.0,221.0,UPI,New
+IN10446,2025-09-15,Jaipur,Rajasthan,North,Tea Powder,Grocery,4,250,0.0,1000.0,Net Banking,New
+IN10447,2025-10-06,Kochi,Kerala,South,Tea Powder,Grocery,4,250,10.0,900.0,Cash,New
+IN10448,2025-07-11,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,1,130,0.0,130.0,Net Banking,New
+IN10449,2025-01-22,Jaipur,Rajasthan,North,Cotton Saree,Clothing,1,1400,5.0,1330.0,UPI,New
+IN10450,2025-08-07,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,UPI,New
+IN10451,2025-07-07,Ahmedabad,Gujarat,West,Tea Powder,Grocery,3,250,0.0,750.0,Credit Card,New
+IN10452,2025-09-20,Pune,Maharashtra,West,Tea Powder,Grocery,2,250,5.0,475.0,Net Banking,Returning
+IN10453,2025-02-21,Kolkata,West Bengal,East,Basmati Rice,Grocery,5,90,5.0,427.5,Credit Card,Returning
+IN10454,2025-05-11,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,0.0,250.0,Credit Card,New
+IN10455,2025-02-28,Kolkata,West Bengal,East,Basmati Rice,Grocery,5,90,10.0,405.0,UPI,Returning
+IN10456,2025-03-18,Chennai,Tamil Nadu,South,Tea Powder,Grocery,3,250,0.0,750.0,Net Banking,Returning
+IN10457,2025-10-03,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,5,1600,5.0,7600.0,Credit Card,Returning
+IN10458,2025-09-07,Bengaluru,Karnataka,South,Basmati Rice,Grocery,3,90,0.0,270.0,Net Banking,Returning
+IN10459,2025-11-14,Bengaluru,Karnataka,South,Basmati Rice,Grocery,1,90,0.0,90.0,Net Banking,Returning
+IN10460,2025-04-28,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,4,1600,10.0,5760.0,Net Banking,New
+IN10461,2025-06-09,Delhi,Delhi,North,LED Bulb,Electronics,5,180,0.0,900.0,Cash,New
+IN10462,2025-06-19,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,3,1600,10.0,4320.0,Net Banking,Returning
+IN10463,2025-06-21,Jaipur,Rajasthan,North,LED Bulb,Electronics,3,180,0.0,540.0,Net Banking,Returning
+IN10464,2025-08-24,Delhi,Delhi,North,Cotton Saree,Clothing,1,1400,0.0,1400.0,Net Banking,New
+IN10465,2025-05-20,Hyderabad,Telangana,South,Pressure Cooker,Kitchen,3,1600,10.0,4320.0,UPI,Returning
+IN10466,2025-02-18,Delhi,Delhi,North,Pressure Cooker,Kitchen,1,1600,15.0,1360.0,,Returning
+IN10467,2025-05-02,Ahmedabad,Gujarat,West,Tea Powder,Grocery,3,250,5.0,712.5,Cash,New
+IN10468,2025-11-22,Pune,Maharashtra,West,LED Bulb,Electronics,3,180,15.0,459.0,Cash,Returning
+IN10469,2025-12-27,Kochi,Kerala,South,Sports Shoes,Footwear,3,2400,0.0,7200.0,Credit Card,Returning
+IN10470,2025-06-28,Kolkata,West Bengal,East,LED Bulb,Electronics,2,180,0.0,360.0,Cash,New
+IN10471,2025-08-17,Mumbai,Maharashtra,West,Basmati Rice,Grocery,4,90,10.0,324.0,Debit Card,Returning
+IN10472,2025-06-07,Hyderabad,Telangana,South,Tea Powder,Grocery,2,250,5.0,475.0,Credit Card,Returning
+IN10473,2025-10-27,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,5,1400,0.0,7000.0,Cash,Returning
+IN10474,2025-12-20,Ahmedabad,Gujarat,West,LED Bulb,Electronics,4,180,5.0,684.0,Debit Card,New
+IN10475,2025-05-12,Kolkata,West Bengal,East,LED Bulb,Electronics,2,180,5.0,342.0,Net Banking,New
+IN10476,2025-04-22,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,UPI,Returning
+IN10477,2025-09-14,Kolkata,West Bengal,East,Cotton Saree,Clothing,5,1400,5.0,6650.0,UPI,New
+IN10478,2025-01-25,Mumbai,Maharashtra,West,Basmati Rice,Grocery,2,90,15.0,153.0,UPI,New
+IN10479,2025-04-07,Ahmedabad,Gujarat,West,LED Bulb,Electronics,2,180,0.0,360.0,Credit Card,New
+IN10480,2025-06-17,Delhi,Delhi,North,Basmati Rice,Grocery,2,90,5.0,171.0,UPI,Returning
+IN10481,2025-08-01,Jaipur,Rajasthan,North,LED Bulb,Electronics,2,180,0.0,360.0,UPI,New
+IN10482,2025-07-24,Ahmedabad,Gujarat,West,LED Bulb,Electronics,4,180,15.0,612.0,Credit Card,Returning
+IN10483,2025-12-01,Bengaluru,Karnataka,South,Basmati Rice,Grocery,3,90,15.0,229.5,Credit Card,New
+IN10484,2025-01-10,Jaipur,Rajasthan,North,LED Bulb,Electronics,2,180,0.0,360.0,Cash,New
+IN10485,2025-08-05,Hyderabad,Telangana,South,Tea Powder,Grocery,3,250,5.0,712.5,Credit Card,New
+IN10486,2025-05-13,Ahmedabad,Gujarat,West,LED Bulb,Electronics,2,180,15.0,306.0,Debit Card,New
+IN10487,2025-07-05,Pune,Maharashtra,West,Notebook Pack,Stationery,5,130,5.0,617.5,Net Banking,Returning
+IN10488,2025-09-01,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,1,2100,15.0,1785.0,UPI,Returning
+IN10489,2025-01-15,Hyderabad,Telangana,South,Cotton Saree,Clothing,4,1400,0.0,5600.0,Net Banking,New
+IN10490,2025-04-15,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,5,90,15.0,382.5,Net Banking,New
+IN10491,2025-03-24,Pune,Maharashtra,West,LED Bulb,Electronics,2,180,0.0,360.0,Net Banking,New
+IN10492,2025-04-20,Delhi,Delhi,North,Cotton Saree,Clothing,4,1400,10.0,5040.0,Credit Card,Returning
+IN10493,2025-02-25,Kolkata,West Bengal,East,Cotton Saree,Clothing,3,1400,0.0,4200.0,UPI,New
+IN10494,2025-10-16,Jaipur,Rajasthan,North,LED Bulb,Electronics,1,180,0.0,180.0,Debit Card,Returning
+IN10495,2025-01-11,Jaipur,Rajasthan,North,Cotton Saree,Clothing,1,1400,5.0,1330.0,Credit Card,Returning
+IN10496,2025-06-16,Mumbai,Maharashtra,West,Cotton Saree,Clothing,3,1400,0.0,4200.0,Debit Card,Returning
+IN10497,2025-03-22,Pune,Maharashtra,West,Notebook Pack,Stationery,2,130,15.0,221.0,Debit Card,Returning
+IN10498,2025-06-19,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,UPI,Returning
+IN10499,2025-11-02,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,3,1600,15.0,4080.0,Debit Card,New
+IN10500,2025-01-24,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,2,90,5.0,171.0,Debit Card,New
+IN10501,2025-02-27,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Cash,New
+IN10502,2025-06-30,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,2,2100,15.0,3570.0,UPI,New
+IN10503,2025-06-23,Kolkata,West Bengal,East,Sports Shoes,Footwear,1,2400,10.0,2160.0,Debit Card,Returning
+IN10504,2025-01-20,Bengaluru,Karnataka,South,Cotton Saree,Clothing,2,1400,0.0,2800.0,Cash,New
+IN10505,2025-01-25,Ahmedabad,Gujarat,West,Sports Shoes,Footwear,1,2400,0.0,2400.0,Credit Card,New
+IN10506,2025-09-27,Chennai,Tamil Nadu,South,Tea Powder,Grocery,4,250,0.0,1000.0,Debit Card,New
+IN10507,2025-11-21,Hyderabad,Telangana,South,Cotton Saree,Clothing,5,1400,0.0,7000.0,Net Banking,New
+IN10508,2025-06-28,Kochi,Kerala,South,LED Bulb,Electronics,4,180,0.0,720.0,Cash,New
+IN10509,2025-05-16,Chennai,Tamil Nadu,South,Wireless Earbuds,Electronics,2,2100,0.0,4200.0,Credit Card,New
+IN10510,2025-07-28,Bengaluru,Karnataka,South,Cotton Saree,Clothing,5,1400,0.0,7000.0,Net Banking,Returning
+IN10511,2025-12-01,Pune,Maharashtra,West,Basmati Rice,Grocery,3,90,0.0,270.0,Debit Card,Returning
+IN10512,2025-07-24,Kochi,Kerala,South,LED Bulb,Electronics,4,180,5.0,684.0,Debit Card,Returning
+IN10513,2025-07-18,Kochi,Kerala,South,Sports Shoes,Footwear,4,2400,0.0,9600.0,Debit Card,Returning
+IN10514,2025-09-14,Hyderabad,Telangana,South,Basmati Rice,Grocery,2,90,15.0,153.0,Credit Card,Returning
+IN10515,2025-11-14,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,0.0,1400.0,UPI,New
+IN10516,2025-12-09,Jaipur,Rajasthan,North,LED Bulb,Electronics,4,180,15.0,612.0,Credit Card,Returning
+IN10517,2025-09-19,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,4,90,10.0,324.0,Credit Card,Returning
+IN10518,2025-07-21,Mumbai,Maharashtra,West,Sports Shoes,Footwear,3,2400,0.0,7200.0,Net Banking,Returning
+IN10519,2025-12-07,Ahmedabad,Gujarat,West,LED Bulb,Electronics,1,180,15.0,153.0,Cash,Returning
+IN10520,2025-10-29,Pune,Maharashtra,West,Notebook Pack,Stationery,3,130,15.0,331.5,Debit Card,New
+IN10521,2025-09-26,Hyderabad,Telangana,South,Tea Powder,Grocery,5,250,5.0,1187.5,Cash,New
+IN10522,2025-12-05,Delhi,Delhi,North,Cotton Saree,Clothing,2,1400,0.0,2800.0,Debit Card,New
+IN10523,2025-08-08,Bengaluru,Karnataka,South,LED Bulb,Electronics,4,180,5.0,684.0,UPI,Returning
+IN10524,2025-07-06,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Credit Card,Returning
+IN10525,2025-05-29,Kolkata,West Bengal,East,Tea Powder,Grocery,3,250,10.0,675.0,Debit Card,New
+IN10526,2025-03-18,Kolkata,West Bengal,East,Notebook Pack,Stationery,2,130,15.0,221.0,UPI,New
+IN10527,2025-11-15,Delhi,Delhi,North,Notebook Pack,Stationery,5,130,0.0,650.0,Credit Card,Returning
+IN10528,2025-04-13,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,1,2100,15.0,1785.0,UPI,Returning
+IN10529,2025-05-21,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,3,1600,15.0,4080.0,Credit Card,Returning
+IN10530,2025-09-26,Mumbai,Maharashtra,West,Wireless Earbuds,Electronics,4,2100,0.0,8400.0,Debit Card,New
+IN10531,2025-11-13,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,4,1600,5.0,6080.0,Credit Card,New
+IN10532,2025-12-31,Kolkata,West Bengal,East,Sports Shoes,Footwear,3,2400,0.0,7200.0,Credit Card,Returning
+IN10533,2025-07-17,Jaipur,Rajasthan,North,Wireless Earbuds,Electronics,3,2100,0.0,6300.0,Net Banking,New
+IN10534,2025-02-02,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,5,1400,5.0,6650.0,Cash,Returning
+IN10535,2025-07-21,Chennai,Tamil Nadu,South,Tea Powder,Grocery,4,250,10.0,900.0,Net Banking,Returning
+IN10536,2025-10-16,Kolkata,West Bengal,East,Basmati Rice,Grocery,1,90,15.0,76.5,Debit Card,Returning
+IN10537,2025-02-03,Jaipur,Rajasthan,North,Sports Shoes,Footwear,4,2400,0.0,9600.0,Debit Card,Returning
+IN10538,2025-12-10,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,5,1600,0.0,8000.0,Cash,New
+IN10539,2025-06-19,Jaipur,Rajasthan,North,Basmati Rice,Grocery,3,90,15.0,229.5,Debit Card,Returning
+IN10540,2025-10-20,Chennai,Tamil Nadu,South,Tea Powder,Grocery,2,250,0.0,500.0,UPI,New
+IN10541,2025-08-21,Kolkata,West Bengal,East,Tea Powder,Grocery,2,250,15.0,425.0,UPI,New
+IN10542,2025-12-20,Delhi,Delhi,North,Notebook Pack,Stationery,1,130,15.0,110.5,Debit Card,New
+IN10543,2025-06-21,Jaipur,Rajasthan,North,Basmati Rice,Grocery,2,90,5.0,171.0,Cash,New
+IN10544,2025-02-14,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,5,2100,5.0,9975.0,Credit Card,Returning
+IN10545,2025-09-19,Pune,Maharashtra,West,Wireless Earbuds,Electronics,5,2100,10.0,9450.0,Debit Card,New
+IN10546,2025-08-12,Pune,Maharashtra,West,Wireless Earbuds,Electronics,2,2100,10.0,3780.0,Net Banking,Returning
+IN10547,2025-04-17,Pune,Maharashtra,West,Cotton Saree,Clothing,2,1400,0.0,2800.0,Net Banking,Returning
+IN10548,2025-07-07,Kolkata,West Bengal,East,Notebook Pack,Stationery,5,130,0.0,650.0,Credit Card,New
+IN10549,2025-09-30,Kolkata,West Bengal,East,Basmati Rice,Grocery,3,90,0.0,270.0,UPI,Returning
+IN10550,2025-04-23,Ahmedabad,Gujarat,West,LED Bulb,Electronics,1,180,5.0,171.0,Debit Card,Returning
+IN10551,2025-08-21,Mumbai,Maharashtra,West,Cotton Saree,Clothing,5,1400,15.0,5950.0,Debit Card,Returning
+IN10552,2025-08-11,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,0.0,1400.0,UPI,New
+IN10553,2025-04-03,Hyderabad,Telangana,South,Tea Powder,Grocery,5,250,10.0,1125.0,UPI,New
+IN10554,2025-10-01,Kolkata,West Bengal,East,Cotton Saree,Clothing,3,1400,0.0,4200.0,Cash,New
+IN10555,2025-04-14,Mumbai,Maharashtra,West,Tea Powder,Grocery,4,250,0.0,1000.0,UPI,New
+IN10556,2025-12-18,Jaipur,Rajasthan,North,Cotton Saree,Clothing,3,1400,10.0,3780.0,Debit Card,New
+IN10557,2025-08-17,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,1,1600,0.0,1600.0,Credit Card,New
+IN10558,2025-06-08,Ahmedabad,Gujarat,West,LED Bulb,Electronics,5,180,0.0,900.0,Credit Card,Returning
+IN10559,2025-07-20,Kochi,Kerala,South,Cotton Saree,Clothing,2,1400,0.0,2800.0,UPI,Returning
+IN10560,2025-12-02,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,3,1600,0.0,4800.0,Net Banking,New
+IN10561,2025-08-09,Mumbai,Maharashtra,West,Notebook Pack,Stationery,2,130,0.0,260.0,Credit Card,Returning
+IN10562,2025-12-03,Chennai,Tamil Nadu,South,Basmati Rice,Grocery,3,90,0.0,270.0,Cash,New
+IN10563,2025-09-12,Pune,Maharashtra,West,Notebook Pack,Stationery,3,130,0.0,390.0,UPI,New
+IN10564,2025-10-26,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,3,2100,15.0,5355.0,Net Banking,New
+IN10565,2025-04-27,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,4,1600,5.0,6080.0,Net Banking,Returning
+IN10566,2025-04-10,Bengaluru,Karnataka,South,Tea Powder,Grocery,1,250,,237.5,Cash,Returning
+IN10567,2025-08-19,Bengaluru,Karnataka,South,Pressure Cooker,Kitchen,3,1600,5.0,4560.0,Debit Card,New
+IN10568,2025-06-02,Delhi,Delhi,North,LED Bulb,Electronics,2,180,0.0,360.0,UPI,Returning
+IN10569,2025-07-21,Chennai,Tamil Nadu,South,Tea Powder,Grocery,2,250,15.0,425.0,Debit Card,New
+IN10570,2025-02-19,Bengaluru,Karnataka,South,Basmati Rice,Grocery,5,90,15.0,382.5,Debit Card,New
+IN10571,2025-12-06,Jaipur,Rajasthan,North,LED Bulb,Electronics,1,180,5.0,171.0,Cash,Returning
+IN10572,2025-11-27,Hyderabad,Telangana,South,Tea Powder,Grocery,3,250,0.0,750.0,Debit Card,Returning
+IN10573,2025-05-03,Hyderabad,Telangana,South,Wireless Earbuds,Electronics,1,2100,0.0,2100.0,UPI,New
+IN10574,2025-03-02,Kolkata,West Bengal,East,Wireless Earbuds,Electronics,5,2100,15.0,8925.0,Credit Card,Returning
+IN10575,2025-01-22,Mumbai,Maharashtra,West,Pressure Cooker,Kitchen,5,1600,15.0,6800.0,Net Banking,Returning
+IN10576,2025-10-12,Delhi,Delhi,North,Cotton Saree,Clothing,3,1400,10.0,3780.0,Cash,New
+IN10577,2025-02-24,Mumbai,Maharashtra,West,Cotton Saree,Clothing,1,1400,0.0,1400.0,UPI,Returning
+IN10578,2025-03-29,Ahmedabad,Gujarat,West,Cotton Saree,Clothing,2,1400,0.0,2800.0,Cash,Returning
+IN10579,2025-09-23,Bengaluru,Karnataka,South,Sports Shoes,Footwear,4,2400,15.0,8160.0,,Returning
+IN10580,2025-04-22,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,15.0,212.5,Cash,New
+IN10581,2025-11-03,Ahmedabad,Gujarat,West,Basmati Rice,Grocery,2,90,0.0,180.0,Credit Card,New
+IN10582,2025-06-05,Bengaluru,Karnataka,South,Cotton Saree,Clothing,5,1400,0.0,7000.0,Credit Card,New
+IN10583,2025-07-30,Kolkata,West Bengal,East,Pressure Cooker,Kitchen,1,1600,5.0,1520.0,Debit Card,New
+IN10584,2025-12-14,Chennai,Tamil Nadu,South,Cotton Saree,Clothing,2,1400,15.0,2380.0,Cash,New
+IN10585,2025-04-23,Delhi,Delhi,North,Pressure Cooker,Kitchen,2,1600,0.0,3200.0,Credit Card,New
+IN10586,2025-09-27,Bengaluru,Karnataka,South,Notebook Pack,Stationery,1,130,10.0,117.0,Credit Card,New
+IN10587,2025-07-07,Ahmedabad,Gujarat,West,Tea Powder,Grocery,2,250,0.0,500.0,Debit Card,New
+IN10588,2025-03-11,Delhi,Delhi,North,Pressure Cooker,Kitchen,4,1600,10.0,5760.0,Credit Card,Returning
+IN10589,2025-08-11,Bengaluru,Karnataka,South,Notebook Pack,Stationery,5,130,0.0,650.0,Debit Card,Returning
+IN10590,2025-04-29,Ahmedabad,Gujarat,West,Tea Powder,Grocery,1,250,5.0,237.5,Cash,New
+IN10591,2025-09-10,Ahmedabad,Gujarat,West,Notebook Pack,Stationery,5,130,0.0,650.0,Net Banking,New
+IN10592,2025-07-27,Jaipur,Rajasthan,North,Sports Shoes,Footwear,3,2400,10.0,6480.0,UPI,New
+IN10593,2025-06-03,Delhi,Delhi,North,Sports Shoes,Footwear,3,2400,0.0,7200.0,Debit Card,New
+IN10594,2025-11-06,Chennai,Tamil Nadu,South,Notebook Pack,Stationery,4,130,10.0,468.0,Credit Card,Returning
+IN10595,2025-02-12,Hyderabad,Telangana,South,LED Bulb,Electronics,5,180,0.0,900.0,Credit Card,Returning
+IN10596,2025-02-15,Kolkata,West Bengal,East,Basmati Rice,Grocery,3,90,5.0,256.5,Credit Card,New
+IN10597,2025-03-03,Kolkata,West Bengal,East,Sports Shoes,Footwear,5,2400,0.0,12000.0,Cash,New
+IN10598,2025-06-20,Jaipur,Rajasthan,North,Pressure Cooker,Kitchen,4,1600,5.0,6080.0,Cash,Returning
+IN10599,2025-07-21,Hyderabad,Telangana,South,Cotton Saree,Clothing,3,1400,15.0,3570.0,Credit Card,Returning
+IN10600,2025-09-27,Delhi,Delhi,North,Cotton Saree,Clothing,2,1400,10.0,2520.0,UPI,New
