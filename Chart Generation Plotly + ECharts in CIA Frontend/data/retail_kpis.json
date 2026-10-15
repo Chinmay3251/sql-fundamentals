@@ -1,0 +1,68 @@
+{
+  "note": "Synthetic demonstration data",
+  "orders": 1240,
+  "monthlySales": [
+    {
+      "month": "Jan",
+      "sales": 18200
+    },
+    {
+      "month": "Feb",
+      "sales": 19500
+    },
+    {
+      "month": "Mar",
+      "sales": 22100
+    },
+    {
+      "month": "Apr",
+      "sales": 20700
+    },
+    {
+      "month": "May",
+      "sales": 24600
+    },
+    {
+      "month": "Jun",
+      "sales": 26300
+    },
+    {
+      "month": "Jul",
+      "sales": 25100
+    },
+    {
+      "month": "Aug",
+      "sales": 27800
+    },
+    {
+      "month": "Sep",
+      "sales": 29100
+    },
+    {
+      "month": "Oct",
+      "sales": 30400
+    },
+    {
+      "month": "Nov",
+      "sales": 33700
+    },
+    {
+      "month": "Dec",
+      "sales": 36500
+    }
+  ],
+  "categorySales": [
+    {
+      "category": "Technology",
+      "sales": 124500
+    },
+    {
+      "category": "Furniture",
+      "sales": 87300
+    },
+    {
+      "category": "Office Supplies",
+      "sales": 68200
+    }
+  ]
+}
