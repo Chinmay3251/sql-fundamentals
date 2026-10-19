@@ -1,0 +1,2 @@
+# Five test queries
+Upload `sales.csv`, then ask: (1) What is the row count? (2) What is the sum of sales? (3) What is the average sales? (4) Show sales by region. (5) What is the maximum orders? Expected sales sum 625, average 125, grouped chart returned.

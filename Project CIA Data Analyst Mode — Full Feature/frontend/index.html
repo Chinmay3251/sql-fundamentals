@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>CIA CSV Analyst</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<style>body{font:16px system-ui;max-width:960px;margin:2rem auto;padding:0 1rem;color:#1f2937}.panel{border:1px solid #dbe2ea;border-radius:12px;padding:1rem;margin:1rem 0}input,button{font:inherit;padding:.65rem}input[type=text]{width:min(620px,95%)}button{cursor:pointer}#status,#answer{white-space:pre-wrap}.scroll{overflow:auto}table{border-collapse:collapse;width:100%;margin-top:.75rem}td,th{border:1px solid #ddd;padding:.4rem;text-align:left}canvas{max-height:420px}</style></head>
+<body><h1>CIA CSV Analyst</h1><p>Upload a CSV, ask a question, and render a chart.</p>
+<section class="panel"><h2>1. Upload CSV</h2><input id="file" type="file" accept=".csv"><button id="upload">Upload CSV</button><p id="status">No dataset uploaded.</p><div id="preview" class="scroll"></div></section>
+<section class="panel"><h2>2. Ask a question</h2><form id="form"><input id="question" required minlength="3" maxlength="500" placeholder="e.g. Show sales by region"><button>Ask</button></form><p><b>Answer:</b></p><div id="answer">Your answer appears here.</div></section>
+<section class="panel"><h2>3. Chart</h2><canvas id="chart"></canvas><p id="note"></p></section>
+<script>
+const API="http://127.0.0.1:8000";let datasetId=null,chart=null;
+const status=document.querySelector("#status"),answer=document.querySelector("#answer");
+document.querySelector("#upload").onclick=async()=>{const f=document.querySelector("#file").files[0];if(!f){status.textContent="Choose a CSV file.";return}if(!f.name.toLowerCase().endsWith(".csv")){status.textContent="Only CSV files accepted.";return}
+const form=new FormData();form.append("file",f);status.textContent="Uploading…";
+try{const r=await fetch(API+"/api/upload",{method:"POST",body:form}),b=await r.json();if(!r.ok)throw Error(b.detail||"Upload failed");datasetId=b.dataset_id;status.textContent=`Uploaded ${b.filename}: ${b.rows} rows, ${b.columns.length} columns. Stored temporarily in backend memory.`;preview(b.columns,b.preview)}catch(e){status.textContent="Error: "+e.message}};
+function preview(cols,rows){const t=document.createElement("table"),h=t.createTHead().insertRow();cols.forEach(c=>{let x=document.createElement("th");x.textContent=c;h.appendChild(x)});const body=t.createTBody();rows.forEach(row=>{let tr=body.insertRow();cols.forEach(c=>{let td=tr.insertCell();td.textContent=row[c]??""})});document.querySelector("#preview").replaceChildren(t)}
+document.querySelector("#form").onsubmit=async e=>{e.preventDefault();if(!datasetId){answer.textContent="Upload a CSV first.";return}answer.textContent="Analyzing…";
+try{const r=await fetch(API+"/api/query",{method:"POST",headers:{"Content-Type":"application/json"},body:JSON.stringify({dataset_id:datasetId,question:document.querySelector("#question").value.trim()})}),b=await r.json();if(!r.ok)throw Error(b.detail||"Query failed");answer.textContent=b.answer;renderChart(b.chart)}catch(err){answer.textContent="Error: "+err.message}};
+function renderChart(p){const tr=p?.data?.[0],note=document.querySelector("#note");if(chart){chart.destroy();chart=null}if(!tr||!Array.isArray(tr.x)||!Array.isArray(tr.y)){note.textContent="No chartable data for this answer.";return}
+chart=new Chart(document.querySelector("#chart"),{type:"bar",data:{labels:tr.x.map(String),datasets:[{label:p.layout?.yaxis?.title?.text||"Value",data:tr.y}]},options:{responsive:true,maintainAspectRatio:false,plugins:{title:{display:true,text:typeof p.layout?.title==="string"?p.layout.title:p.layout?.title?.text||"Query result"}},scales:{y:{beginAtZero:true}}}});note.textContent="Rendered Plotly-compatible API data with Chart.js."}
+</script></body></html>
